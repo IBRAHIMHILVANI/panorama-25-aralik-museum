@@ -1,0 +1,14 @@
+{
+  "valid": true,
+  "version": 7400,
+  "objects": 613,
+  "meshes": 264,
+  "vertices": 140063,
+  "polygons": 131574,
+  "nodeCount": 15396,
+  "arrays": 1738,
+  "embeddedImages": 7,
+  "bytes": 7020236,
+  "footerAlignment": true,
+  "allConnectionsResolved": true
+}

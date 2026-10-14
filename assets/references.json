@@ -1,0 +1,82 @@
+[
+  {
+    "number": 1,
+    "path": "assets/reference_01.jpg",
+    "size": [
+      860,
+      645
+    ],
+    "sha256": "cc87a4715ccc00290e646d2cc9ec7f64484f5f20b423c8c68cc4e4b47180eb11",
+    "pixel_sha256": "287d1ebd78377bc72bfba1bc731c5ab6dc476cab499b7f4bbafdd8e5626e72f7"
+  },
+  {
+    "number": 2,
+    "path": "assets/reference_02.jpg",
+    "size": [
+      400,
+      267
+    ],
+    "sha256": "53e67f2e385aab81cfbbca0eb2f78f7b7421b0e3bc4100ffac47651aad110465",
+    "pixel_sha256": "bb1074f413d94091879025e0204713bddad5780ba50547f4e1c3cfed6c9ddaeb"
+  },
+  {
+    "number": 3,
+    "path": "assets/reference_03.jpg",
+    "size": [
+      400,
+      267
+    ],
+    "sha256": "53e67f2e385aab81cfbbca0eb2f78f7b7421b0e3bc4100ffac47651aad110465",
+    "pixel_sha256": "bb1074f413d94091879025e0204713bddad5780ba50547f4e1c3cfed6c9ddaeb"
+  },
+  {
+    "number": 4,
+    "path": "assets/reference_04.jpg",
+    "size": [
+      760,
+      450
+    ],
+    "sha256": "78ab63a8609a1514245e2eab807eb6955f532619f0ffe97b3b027ff87ead83d8",
+    "pixel_sha256": "7d277e4187748423e41186491a425db2ec44d46a92535e8932b0c867de81823d"
+  },
+  {
+    "number": 5,
+    "path": "assets/reference_05.jpg",
+    "size": [
+      860,
+      484
+    ],
+    "sha256": "e02ba4bf4f986cf4849c9b88885e625b7cbcb2fdc512b6819149928371cdd1bb",
+    "pixel_sha256": "73c960d5e5711b241b8fc3aeec3eb3e36e2ae5427dc4817ae38edd7660f75cdd"
+  },
+  {
+    "number": 6,
+    "path": "assets/reference_06.jpg",
+    "size": [
+      400,
+      267
+    ],
+    "sha256": "6e29601957f1b159485102540964351b1fd2aca2406997dd17fe1a90df316264",
+    "pixel_sha256": "ba03700b4d533b6f8c1e4e0a1ff42c71e5efc246ebea9bf449ccae055d9db61e"
+  },
+  {
+    "number": 7,
+    "path": "assets/reference_07.jpg",
+    "size": [
+      860,
+      1147
+    ],
+    "sha256": "cc0931824a35d0a7dca3f70598fe8d288e98c432257f453c0c5a4db822620923",
+    "pixel_sha256": "ab6da7bba038765dc307e31c2018b96e9a30380bd29f8e3558168cb416ec2a5e"
+  },
+  {
+    "number": 8,
+    "path": "assets/reference_08.jpg",
+    "size": [
+      860,
+      645
+    ],
+    "sha256": "1f917f662c68902f6d5981481bec0b721670316178e7b89add88f3116462bb12",
+    "pixel_sha256": "22cb2f73e5ec87fbe4385c99c72f396bb72e305e48e1d224962d6eec5de98940"
+  }
+]

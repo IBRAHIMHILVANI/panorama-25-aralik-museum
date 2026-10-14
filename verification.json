@@ -1,0 +1,1503 @@
+{
+  "source": "/Volumes/ssd/Projects/Musuem Gaziantep/backups/Untitled-original-2026-10-14.fbx",
+  "output": "/Volumes/ssd/Projects/Musuem Gaziantep/Gaziantep_Panorama_Reconstructed.fbx",
+  "date": "2026-10-14",
+  "source_sha256": "dc312f85e0ae431a39000a5584946caef3671465439762c5e6f0b90faecfeda2",
+  "output_sha256": "6ade154df1d12023839aa80f24517e0e5b47086193a5e2606a820516066d60c8",
+  "before": {
+    "meshes": 163,
+    "vertices": 25534,
+    "polygons": 19686
+  },
+  "after": {
+    "meshes": 264,
+    "vertices": 140063,
+    "polygons": 131574
+  },
+  "retained_original_meshes": 85,
+  "replaced_original_meshes": 78,
+  "new_meshes": 179,
+  "units": {
+    "authoring": "metres",
+    "fbx_file": "centimetres",
+    "fbx_unit_scale_factor": 1.0,
+    "authoring_axes": "Z up",
+    "fbx_axes": "Y up"
+  },
+  "panorama": {
+    "published_canvas_length_m": 122.0,
+    "published_canvas_height_m": 13.0,
+    "assumption": "complete circular wall; circumference equals published canvas length",
+    "calculated_radius_m": 19.416903057211233,
+    "calculated_diameter_m": 38.833806114422465,
+    "canvas_bottom_z_m": 2.0,
+    "canvas_top_z_m": 15.0,
+    "wall_segments": 1024,
+    "mesh_chord_circumference_m": 121.99980861486273,
+    "published_source": "https://www.gaziantep.bel.tr/tr/haberler/25-aralik-panorama-muzesine-ziyaretci-akini",
+    "source_conflict": "The museum summary page says 120 m. The more recent municipal article says 122 m and 1586 square metres (122 x 13). The 122 m parameter is a modelling basis, not a verified survey."
+  },
+  "other_geometry": {
+    "viewing_platform_radius_m": 5.8,
+    "stairwell_radius_m": 2.2,
+    "platform_z_m": 2.2,
+    "earth_ring_inner_radius_m": 6.12,
+    "sky_cap_height_m": 7.0,
+    "sky_cap_height_basis": "estimated; retained conceptual spherical-cap arrangement",
+    "workshop_floor_z_m": 4.43,
+    "standing_adult_nominal_height_m": 1.78,
+    "standing_adult_height_basis": "generic mannequin reference; unmeasured"
+  },
+  "checks": {
+    "fbx_reread": true,
+    "finite_vertices": true,
+    "polygon_indices_in_range": true,
+    "uv_index_counts": true,
+    "new_vertex_roundtrip_max_error_m": 3.552713678800501e-15,
+    "panorama_radius_check": true,
+    "panorama_height_check": true
+  },
+  "limitations": [
+    "No measured survey, calibrated camera, orthographic plans or depth data supplied.",
+    "This is photo-informed editable 3D, not photogrammetry or an as-built reconstruction.",
+    "Prop dimensions, placement, roof, terrain, figures and workshop proportions are estimates.",
+    "Backdrop art uses cropped UV projections of the supplied photos; foreground geometry is independent editable 3D.",
+    "Photo 4 is used only for the dome/sky and trench form; its historical painting is not asserted to be Gaziantep.",
+    "Photo 3 duplicates photo 2 exactly; photos 1 and 6 are two views of one workshop.",
+    "External CAD/Blender/Unity import has not been tested; no program or libraries were downloaded."
+  ],
+  "items": [
+    {
+      "name": "REF_Main_Hall_Exterior_Shell",
+      "material": "Beige_Travertine",
+      "reference_images": "source",
+      "basis": "published-size-constrained",
+      "vertices": 2048,
+      "polygons": 2048
+    },
+    {
+      "name": "REF_Main_Earth_Ring",
+      "material": "REF_Earth_Photo",
+      "reference_images": "2,4,5,7,8",
+      "basis": "published-size-constrained; photo-soil-UV",
+      "vertices": 11520,
+      "polygons": 22272
+    },
+    {
+      "name": "REF_Visitor_Platform_Open_Stairwell",
+      "material": "Dark_Basalt",
+      "reference_images": "source",
+      "basis": "source-model-derived",
+      "vertices": 1024,
+      "polygons": 1024
+    },
+    {
+      "name": "REF_Mural_Bombardment",
+      "material": "REF_Mural_Bombardment",
+      "reference_images": "8",
+      "basis": "photo-projected; circular-layout-inferred",
+      "vertices": 514,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Mural_Battle",
+      "material": "REF_Mural_Battle",
+      "reference_images": "5",
+      "basis": "photo-projected; circular-layout-inferred",
+      "vertices": 514,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Mural_Rubble",
+      "material": "REF_Mural_Rubble",
+      "reference_images": "2,3",
+      "basis": "photo-projected; circular-layout-inferred",
+      "vertices": 514,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Mural_Hospital",
+      "material": "REF_Mural_Hospital",
+      "reference_images": "7",
+      "basis": "photo-projected; circular-layout-inferred",
+      "vertices": 514,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Sky_Dome",
+      "material": "REF_Sky_Photo",
+      "reference_images": "4",
+      "basis": "reference-form-only; estimated-cap-height",
+      "vertices": 8193,
+      "polygons": 8192
+    },
+    {
+      "name": "REF_Visitor_Platform_Guardrails",
+      "material": "REF_Iron",
+      "reference_images": "4",
+      "basis": "source-model-derived",
+      "vertices": 7224,
+      "polygons": 4488
+    },
+    {
+      "name": "REF_Visitor_Canvas_Canopy",
+      "material": "REF_Canvas",
+      "reference_images": "5,8",
+      "basis": "photo-estimated",
+      "vertices": 1632,
+      "polygons": 1536
+    },
+    {
+      "name": "REF_Visitor_Canopy_Rafters_Posts",
+      "material": "REF_Wood",
+      "reference_images": "5,8",
+      "basis": "photo-estimated",
+      "vertices": 336,
+      "polygons": 200
+    },
+    {
+      "name": "REF_Visitor_Canopy_Hanging_Ropes",
+      "material": "REF_Wood_Light",
+      "reference_images": "5,8",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 96
+    },
+    {
+      "name": "REF_Battle_Tank_Hull_Turret",
+      "material": "REF_Olive",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 86,
+      "polygons": 51
+    },
+    {
+      "name": "REF_Battle_Tank_Track_Belts_Shoes",
+      "material": "REF_Iron",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 840,
+      "polygons": 588
+    },
+    {
+      "name": "REF_Battle_Tank_Running_Wheels",
+      "material": "REF_Olive",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 768,
+      "polygons": 416
+    },
+    {
+      "name": "REF_Battle_Tank_Rivets",
+      "material": "REF_Rust",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 4728,
+      "polygons": 5472
+    },
+    {
+      "name": "REF_Battle_Tank_Hatch_Exhaust_Rear_Skid",
+      "material": "REF_Iron",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 752,
+      "polygons": 486
+    },
+    {
+      "name": "REF_Battle_Field_Cannon_Wooden_Carriage",
+      "material": "REF_Wood_Light",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 1344,
+      "polygons": 1124
+    },
+    {
+      "name": "REF_Battle_Field_Cannon_Barrel_Axle_Tyre",
+      "material": "REF_Iron",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 1584,
+      "polygons": 1502
+    },
+    {
+      "name": "REF_Battle_Field_Cannon_Shield",
+      "material": "REF_Olive",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 6,
+      "polygons": 1
+    },
+    {
+      "name": "REF_Battle_Left_Ruin_Masonry_0",
+      "material": "REF_Limestone",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 208,
+      "polygons": 130
+    },
+    {
+      "name": "REF_Battle_Left_Ruin_Masonry_1",
+      "material": "REF_Stone_Light",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 208,
+      "polygons": 130
+    },
+    {
+      "name": "REF_Battle_Left_Ruin_Masonry_2",
+      "material": "REF_Stone_Dark",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 192,
+      "polygons": 120
+    },
+    {
+      "name": "REF_Battle_Right_Ruin_Masonry_0",
+      "material": "REF_Limestone",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 30
+    },
+    {
+      "name": "REF_Battle_Right_Ruin_Masonry_1",
+      "material": "REF_Stone_Light",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 64,
+      "polygons": 40
+    },
+    {
+      "name": "REF_Battle_Right_Ruin_Masonry_2",
+      "material": "REF_Stone_Dark",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 30
+    },
+    {
+      "name": "REF_Battle_Loose_Stones_0",
+      "material": "REF_Limestone",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 960,
+      "polygons": 600
+    },
+    {
+      "name": "REF_Battle_Loose_Stones_1",
+      "material": "REF_Stone_Dark",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 960,
+      "polygons": 600
+    },
+    {
+      "name": "REF_Battle_Loose_Stones_2",
+      "material": "REF_Stone_Light",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 960,
+      "polygons": 600
+    },
+    {
+      "name": "REF_Battle_Broken_Timber",
+      "material": "REF_Wood",
+      "reference_images": "5",
+      "basis": "photo-estimated",
+      "vertices": 416,
+      "polygons": 260
+    },
+    {
+      "name": "REF_Rubble_Field_Cannon_Wooden_Carriage",
+      "material": "REF_Wood_Light",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1344,
+      "polygons": 1124
+    },
+    {
+      "name": "REF_Rubble_Field_Cannon_Barrel_Axle_Tyre",
+      "material": "REF_Iron",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1584,
+      "polygons": 1502
+    },
+    {
+      "name": "REF_Rubble_Field_Cannon_Shield",
+      "material": "REF_Olive",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 6,
+      "polygons": 1
+    },
+    {
+      "name": "REF_Rubble_Machine_Gun_Tripod",
+      "material": "REF_Iron",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1824,
+      "polygons": 1764
+    },
+    {
+      "name": "REF_Rubble_Flagpole",
+      "material": "REF_Iron",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 146,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Rubble_Turkish_Flag",
+      "material": "REF_Flag",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 182,
+      "polygons": 156
+    },
+    {
+      "name": "REF_Rubble_Flag_Crescent_Star",
+      "material": "REF_Cloth_White",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 104,
+      "polygons": 100
+    },
+    {
+      "name": "REF_Rubble_Back_Wall_Masonry_0",
+      "material": "REF_Limestone",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 112,
+      "polygons": 70
+    },
+    {
+      "name": "REF_Rubble_Back_Wall_Masonry_1",
+      "material": "REF_Stone_Light",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 80
+    },
+    {
+      "name": "REF_Rubble_Back_Wall_Masonry_2",
+      "material": "REF_Stone_Dark",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 112,
+      "polygons": 70
+    },
+    {
+      "name": "REF_Rubble_Loose_Stones_0",
+      "material": "REF_Limestone",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1712,
+      "polygons": 1070
+    },
+    {
+      "name": "REF_Rubble_Loose_Stones_1",
+      "material": "REF_Stone_Dark",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1712,
+      "polygons": 1070
+    },
+    {
+      "name": "REF_Rubble_Loose_Stones_2",
+      "material": "REF_Stone_Light",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 1696,
+      "polygons": 1060
+    },
+    {
+      "name": "REF_Rubble_Broken_Timber",
+      "material": "REF_Wood",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 416,
+      "polygons": 260
+    },
+    {
+      "name": "REF_Rubble_Collapsed_Roof_Beams",
+      "material": "REF_Wood_Light",
+      "reference_images": "2,3",
+      "basis": "photo-estimated",
+      "vertices": 180,
+      "polygons": 108
+    },
+    {
+      "name": "REF_Hospital_Mattress_0",
+      "material": "REF_Rug",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Mattress_0_Woven_Stripes",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 176,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Hospital_Mattress_0_Pillow",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Patient_0_Head",
+      "material": "REF_Skin",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 328,
+      "polygons": 360
+    },
+    {
+      "name": "REF_Hospital_Patient_0_Body",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 630,
+      "polygons": 688
+    },
+    {
+      "name": "REF_Hospital_Patient_0_Draped_Blanket",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 475,
+      "polygons": 432
+    },
+    {
+      "name": "REF_Hospital_Patient_0_Bandage",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 256,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Hospital_Mattress_1",
+      "material": "REF_Rug",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Mattress_1_Woven_Stripes",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 176,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Hospital_Mattress_1_Pillow",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Patient_1_Head",
+      "material": "REF_Skin",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 328,
+      "polygons": 360
+    },
+    {
+      "name": "REF_Hospital_Patient_1_Body",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 630,
+      "polygons": 688
+    },
+    {
+      "name": "REF_Hospital_Patient_1_Draped_Blanket",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 475,
+      "polygons": 432
+    },
+    {
+      "name": "REF_Hospital_Patient_1_Bandage",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 256,
+      "polygons": 256
+    },
+    {
+      "name": "REF_Hospital_Mattress_2",
+      "material": "REF_Rug",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Mattress_2_Woven_Stripes",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 176,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Hospital_Mattress_2_Pillow",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Tunic",
+      "material": "REF_Cloth_Red",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Dress_Trousers",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 72
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Shoes",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Headscarf_Turban",
+      "material": "REF_Cloth_Red",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 554,
+      "polygons": 576
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Hospital_Seated_Patient_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 24
+    },
+    {
+      "name": "REF_Hospital_Attendant_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Hospital_Attendant_Tunic",
+      "material": "REF_Cloth_Red",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Hospital_Attendant_Dress_Trousers",
+      "material": "REF_Cloth_Red",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Hospital_Attendant_Shoes",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Hospital_Attendant_Headscarf_Turban",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Hospital_Attendant_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Hospital_Attendant_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 120,
+      "polygons": 60
+    },
+    {
+      "name": "REF_Hospital_Nurse_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Hospital_Nurse_Tunic",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Hospital_Nurse_Dress_Trousers",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Hospital_Nurse_Shoes",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Hospital_Nurse_Headscarf_Turban",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Hospital_Nurse_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Hospital_Nurse_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 120,
+      "polygons": 60
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Tunic",
+      "material": "REF_Cloth_Red",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Dress_Trousers",
+      "material": "REF_Cloth_Green",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 72
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Shoes",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Headscarf_Turban",
+      "material": "REF_Cloth_Green",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Hospital_Seated_Helper_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 24
+    },
+    {
+      "name": "REF_Hospital_Helper_Stone_Seat",
+      "material": "REF_Limestone",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Hospital_Low_Back_Wall_Masonry_0",
+      "material": "REF_Limestone",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 90
+    },
+    {
+      "name": "REF_Hospital_Low_Back_Wall_Masonry_1",
+      "material": "REF_Stone_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 160,
+      "polygons": 100
+    },
+    {
+      "name": "REF_Hospital_Low_Back_Wall_Masonry_2",
+      "material": "REF_Stone_Dark",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 112,
+      "polygons": 70
+    },
+    {
+      "name": "REF_Hospital_Musician_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Hospital_Musician_Tunic",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Hospital_Musician_Dress_Trousers",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 72
+    },
+    {
+      "name": "REF_Hospital_Musician_Shoes",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Hospital_Musician_Headscarf_Turban",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 554,
+      "polygons": 576
+    },
+    {
+      "name": "REF_Hospital_Musician_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 180,
+      "polygons": 176
+    },
+    {
+      "name": "REF_Hospital_Musician_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 24
+    },
+    {
+      "name": "REF_Hospital_Musician_Oud",
+      "material": "REF_Wood_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 390,
+      "polygons": 406
+    },
+    {
+      "name": "REF_Hospital_Laundry_Posts",
+      "material": "REF_Wood",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 28
+    },
+    {
+      "name": "REF_Hospital_Laundry_Catenary_Rope",
+      "material": "REF_Wood_Light",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 576,
+      "polygons": 384
+    },
+    {
+      "name": "REF_Hospital_Laundry_Hanging_Bandages",
+      "material": "REF_Cloth_White",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 486,
+      "polygons": 288
+    },
+    {
+      "name": "REF_Hospital_Boiling_Cauldron",
+      "material": "REF_Iron",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Hospital_Fire",
+      "material": "REF_Fire",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 168,
+      "polygons": 126
+    },
+    {
+      "name": "REF_Hospital_Firewood",
+      "material": "REF_Wood",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 112,
+      "polygons": 70
+    },
+    {
+      "name": "REF_Hospital_Basin_0",
+      "material": "REF_Copper",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Hospital_Basin_1",
+      "material": "REF_Copper",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Hospital_Basin_2",
+      "material": "REF_Copper",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Hospital_Basin_3",
+      "material": "REF_Copper",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Hospital_Stacked_Firewood",
+      "material": "REF_Wood",
+      "reference_images": "7",
+      "basis": "photo-estimated",
+      "vertices": 420,
+      "polygons": 270
+    },
+    {
+      "name": "REF_Bombardment_Well_Masonry",
+      "material": "REF_Limestone",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 336,
+      "polygons": 252
+    },
+    {
+      "name": "REF_Bombardment_Well_Posts_Windlass",
+      "material": "REF_Wood",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 96,
+      "polygons": 56
+    },
+    {
+      "name": "REF_Bombardment_Well_Rope_Crank",
+      "material": "REF_Iron",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 60,
+      "polygons": 36
+    },
+    {
+      "name": "REF_Bombardment_Well_Bucket",
+      "material": "REF_Iron",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Bombardment_Donkey_Body",
+      "material": "REF_Stone_Dark",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1392,
+      "polygons": 1356
+    },
+    {
+      "name": "REF_Bombardment_Donkey_Hooves",
+      "material": "REF_Black",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 64,
+      "polygons": 40
+    },
+    {
+      "name": "REF_Bombardment_Donkey_Eyes_Tail",
+      "material": "REF_Black",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 196,
+      "polygons": 206
+    },
+    {
+      "name": "REF_Bombardment_Donkey_Harness",
+      "material": "REF_Wood",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 212
+    },
+    {
+      "name": "REF_Bombardment_Wagon_Planks_Spokes",
+      "material": "REF_Wood_Light",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 2688,
+      "polygons": 2248
+    },
+    {
+      "name": "REF_Bombardment_Wagon_Tyres_Axles",
+      "material": "REF_Iron",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1200,
+      "polygons": 1180
+    },
+    {
+      "name": "REF_Bombardment_Field_Cannon_Wooden_Carriage",
+      "material": "REF_Wood_Light",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1344,
+      "polygons": 1124
+    },
+    {
+      "name": "REF_Bombardment_Field_Cannon_Barrel_Axle_Tyre",
+      "material": "REF_Iron",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1584,
+      "polygons": 1502
+    },
+    {
+      "name": "REF_Bombardment_Field_Cannon_Shield",
+      "material": "REF_Olive",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 6,
+      "polygons": 1
+    },
+    {
+      "name": "REF_Bombardment_Trench_Log_Revetment",
+      "material": "REF_Wood",
+      "reference_images": "4,8",
+      "basis": "photo-estimated",
+      "vertices": 1248,
+      "polygons": 728
+    },
+    {
+      "name": "REF_Bombardment_Loose_Stones_0",
+      "material": "REF_Limestone",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1024,
+      "polygons": 640
+    },
+    {
+      "name": "REF_Bombardment_Loose_Stones_1",
+      "material": "REF_Stone_Dark",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1008,
+      "polygons": 630
+    },
+    {
+      "name": "REF_Bombardment_Loose_Stones_2",
+      "material": "REF_Stone_Light",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 1008,
+      "polygons": 630
+    },
+    {
+      "name": "REF_Bombardment_Broken_Timber",
+      "material": "REF_Wood",
+      "reference_images": "8",
+      "basis": "photo-estimated",
+      "vertices": 416,
+      "polygons": 260
+    },
+    {
+      "name": "REF_Workshop_Curved_Mural",
+      "material": "REF_Mural_Workshop",
+      "reference_images": "1,6",
+      "basis": "photo-projected; source-model-derived-bay",
+      "vertices": 302,
+      "polygons": 150
+    },
+    {
+      "name": "REF_Workshop_Mural_Top_Soffit",
+      "material": "REF_Soffit",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 258,
+      "polygons": 128
+    },
+    {
+      "name": "REF_Workshop_Earth_Floor",
+      "material": "REF_Earth",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 1746,
+      "polygons": 3326
+    },
+    {
+      "name": "REF_Workshop_Loom_Frame",
+      "material": "REF_Wood_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 304,
+      "polygons": 182
+    },
+    {
+      "name": "REF_Workshop_Loom_Warp_Threads",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 440,
+      "polygons": 308
+    },
+    {
+      "name": "REF_Workshop_Loom_Shuttle",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 16,
+      "polygons": 10
+    },
+    {
+      "name": "REF_Workshop_Spinning_Wheel_Frame",
+      "material": "REF_Wood",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 788,
+      "polygons": 632
+    },
+    {
+      "name": "REF_Workshop_Spinning_Wheel_Bands",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 288,
+      "polygons": 288
+    },
+    {
+      "name": "REF_Workshop_Chair_0",
+      "material": "REF_Wood_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 256,
+      "polygons": 160
+    },
+    {
+      "name": "REF_Workshop_Chair_1",
+      "material": "REF_Wood_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 256,
+      "polygons": 160
+    },
+    {
+      "name": "REF_Workshop_Chair_2",
+      "material": "REF_Wood_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 256,
+      "polygons": 160
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Tunic",
+      "material": "REF_Cloth_Red",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Dress_Trousers",
+      "material": "REF_Cloth_Green",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Shoes",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Headscarf_Turban",
+      "material": "REF_Cloth_Green",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Workshop_Standing_Weaver_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 120,
+      "polygons": 60
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Tunic",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Dress_Trousers",
+      "material": "REF_Cloth_Red",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 72
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Shoes",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Headscarf_Turban",
+      "material": "REF_Cloth_Blue",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Workshop_Seated_Weaver_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 24
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Tunic",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Dress_Trousers",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 144,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Shoes",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Headscarf_Turban",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 282,
+      "polygons": 274
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Workshop_Back_Attendant_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 120,
+      "polygons": 60
+    },
+    {
+      "name": "REF_Workshop_Child_Skin",
+      "material": "REF_Skin_Light",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 982,
+      "polygons": 1058
+    },
+    {
+      "name": "REF_Workshop_Child_Tunic",
+      "material": "REF_Cloth_Green",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 224,
+      "polygons": 146
+    },
+    {
+      "name": "REF_Workshop_Child_Dress_Trousers",
+      "material": "REF_Cloth_Green",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 128,
+      "polygons": 72
+    },
+    {
+      "name": "REF_Workshop_Child_Shoes",
+      "material": "REF_Black",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 284,
+      "polygons": 320
+    },
+    {
+      "name": "REF_Workshop_Child_Headscarf_Turban",
+      "material": "REF_Cloth_Cream",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 554,
+      "polygons": 576
+    },
+    {
+      "name": "REF_Workshop_Child_Face_Details",
+      "material": "REF_Black",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 140,
+      "polygons": 154
+    },
+    {
+      "name": "REF_Workshop_Child_Sash_Hem",
+      "material": "REF_Cloth_Ochre",
+      "reference_images": "6",
+      "basis": "photo-estimated",
+      "vertices": 48,
+      "polygons": 24
+    },
+    {
+      "name": "REF_Workshop_Wagon_Planks_Spokes",
+      "material": "REF_Wood_Light",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 2688,
+      "polygons": 2248
+    },
+    {
+      "name": "REF_Workshop_Wagon_Tyres_Axles",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 1200,
+      "polygons": 1180
+    },
+    {
+      "name": "REF_Workshop_Bucket_0",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Workshop_Bucket_1",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Workshop_Bucket_2",
+      "material": "REF_Iron",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 816,
+      "polygons": 754
+    },
+    {
+      "name": "REF_Workshop_Visitor_Wood_Fence",
+      "material": "REF_Wood",
+      "reference_images": "1,6",
+      "basis": "photo-estimated",
+      "vertices": 176,
+      "polygons": 110
+    },
+    {
+      "name": "REF_Workshop_Draped_Cloth_Catenary_Rope",
+      "material": "REF_Wood_Light",
+      "reference_images": "1",
+      "basis": "photo-estimated",
+      "vertices": 576,
+      "polygons": 384
+    },
+    {
+      "name": "REF_Workshop_Draped_Cloth_Hanging_Bandages",
+      "material": "REF_Cloth_White",
+      "reference_images": "1",
+      "basis": "photo-estimated",
+      "vertices": 135,
+      "polygons": 80
+    },
+    {
+      "name": "REF_Workshop_Straw_Pile",
+      "material": "REF_Straw",
+      "reference_images": "1",
+      "basis": "photo-estimated",
+      "vertices": 1800,
+      "polygons": 1260
+    }
+  ]
+}

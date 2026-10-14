@@ -1,0 +1,94 @@
+# ==========================================================
+# macOS & General
+# ==========================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.swp
+*.tmp
+*.log
+*.zip
+
+# ==========================================================
+# Local Backups & Raw Field Photo Archives
+# ==========================================================
+/backups/
+/drive-download*/
+/references/
+/Start Museum Review.command
+/READ-ME.txt
+
+# ==========================================================
+# Large 3D Binaries & Videos (Published via GitHub Releases)
+# ==========================================================
+*.fbx
+*.FBX
+*.blend
+*.blend1
+*.blend2
+*.glb
+*.gltf
+*.obj
+*.mtl
+*.mp4
+*.mov
+*.webm
+
+# ==========================================================
+# Intermediate Reconstruction & Heavy Review Dumps
+# ==========================================================
+__pycache__/
+*.py[cod]
+/reconstruction/*-scene.json
+/reconstruction/3d-asset-candidates/
+/reconstruction/imagegen-inputs/
+/reconstruction/imagegen-results/
+/reconstruction/part03-source/
+/reconstruction/fidelity-pass-*/
+/reconstruction/session-state.json
+/review/*
+!/review/qa/
+/review/qa/*
+!/review/qa/whole-cycle/
+!/review/qa/video-followup-2026-10-26/
+!/review/qa/*.md
+!/review/qa/*.json
+/output/*/models/
+/output/*/textures/
+/output/*/video/smooth-export/
+
+# ==========================================================
+# Unity 3D (for /unity project directory)
+# ==========================================================
+/[Uu]nity/[Ll]ibrary/
+/[Uu]nity/[Tt]emp/
+/[Uu]nity/[Oo]bj/
+/[Uu]nity/[Bb]uild/
+/[Uu]nity/[Bb]uilds/
+/[Uu]nity/[Ll]ogs/
+/[Uu]nity/[Uu]ser[Ss]ettings/
+/[Uu]nity/[Mm]emoryCaptures/
+/[Uu]nity/[Rr]ecordings/
+/[Uu]nity/Assets/AssetStoreTools*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
