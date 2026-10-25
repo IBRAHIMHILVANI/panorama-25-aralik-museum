@@ -1,0 +1,211 @@
+{
+  "fur_uniform": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/uniform2048-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2048",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine tailoring inferred; fur-cap side profile needs refinement against reference."
+  },
+  "local_light": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_light-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2072.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine tailoring inferred. Original display headless construction preserved."
+  },
+  "floral_outfit": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/floral_outfit-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2075.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine tailoring inferred. Original display headless construction preserved."
+  },
+  "local_gold": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_gold-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2070.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "cream_left": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/cream_left-tripo-p2-repaired.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2047.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source.",
+    "repair": "Missing charcoal mannequin head restored using neighboring mannequin head geometry; fitted proportions estimated"
+  },
+  "cream_right": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/cream_right-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2047.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "white_uniform": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/white_uniform-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2049.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "blue_helmet_a": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_helmet_a-tripo-p2-repaired.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2050.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source.",
+    "repair": "Missing charcoal mannequin head restored using neighboring mannequin head geometry; fitted proportions estimated"
+  },
+  "blue_red_cap": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_red_cap-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2050.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "blue_helmet_b": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_helmet_b-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2053.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "blue_held_helmet": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_held_helmet-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2054.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "blue_red_collar": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_red_collar-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2054.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "brown_uniform": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/brown_uniform-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2056.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "yellow_uniform": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/yellow_uniform-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2057.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "local_red_shawl": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_red_shawl-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2069.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "local_suit": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_suit-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2069.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "local_khaki_a": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_khaki_a-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2071.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "local_khaki_b": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/local_khaki_b-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2073.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides, fine tailoring, inscription details and unseen equipment inferred. Original photos remain verification source."
+  },
+  "blue_child": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/blue_child-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2076.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine embroidery inferred. Headless museum forms retained. Check fine trim against original HEICs on SSD."
+  },
+  "orange_robe": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/orange_robe-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2077.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine embroidery inferred. Headless museum forms retained. Check fine trim against original HEICs on SSD."
+  },
+  "red_white_vest": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/red_white_vest-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2074.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine embroidery inferred. Headless museum forms retained. Check fine trim against original HEICs on SSD."
+  },
+  "red_check_vest": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/red_check_vest-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2079.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine embroidery inferred. Headless museum forms retained. Check fine trim against original HEICs on SSD."
+  },
+  "purple_child": {
+    "path": "output/Gaziantep-Museum-2026-10-25/models/purple_child-tripo-p2.glb",
+    "front_axis": "+X",
+    "status": "visually_reviewed_3d_candidate",
+    "source": "IMG_2080.HEIC",
+    "engine": "Tripo P2",
+    "credits": 2545,
+    "limitations": "Back/sides and fine embroidery inferred. Headless museum forms retained. Check fine trim against original HEICs on SSD."
+  }
+}

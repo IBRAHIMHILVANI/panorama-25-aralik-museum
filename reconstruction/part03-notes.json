@@ -1,0 +1,30 @@
+{
+  "title": "الوثائق والأزياء والأسلحة",
+  "stage": "local draft before visual QA",
+  "source_photos": "IMG_1978 through IMG_2080",
+  "observed": [
+    "22-document wall in two rows",
+    "Low glass archive cases",
+    "Curved uniform case and nine-hat cabinet",
+    "Unshielded wooden-wheel cannon and rifle racks",
+    "Two circular costume cases",
+    "Dense gray weapon-silhouette installation",
+    "Exposed ceiling services and dark stone floor"
+  ],
+  "representation_limits": [
+    "Room dimensions, route and absolute placement remain unmeasured",
+    "Display figures use traced source-photo fronts on rounded review meshes; depth and rear surfaces are estimates, not recovered 360-degree garments",
+    "Other artifact geometry is simplified and editable",
+    "Original document lettering is preserved as source pixels, with source glare/resolution limits",
+    "Relief map is a photo surface, not a recovered elevation survey",
+    "Fine tailoring, artifact identification and counts require source comparison during review"
+  ],
+  "imagegen_used_for_this_part": false,
+  "accuracy_100_percent": false,
+  "duplicate_check": "IMG_2012 and IMG_2170 show the same painting; reserved for the paintings section, not duplicated here",
+  "qa_reports": [
+    "../review/qa/part03-navigation.json",
+    "../review/qa/part03-clearance.json",
+    "../output/Gaziantep-Museum-2026-10-25/part03-verification.json"
+  ]
+}

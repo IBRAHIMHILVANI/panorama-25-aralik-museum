@@ -1,0 +1,28 @@
+{
+  "title": "اللوحات والتاريخ",
+  "source_photos": "2144-2188; 2012 and 2170 are one painting",
+  "observed_large_paintings": 10,
+  "painting_source_ids": [
+    2012,
+    2158,
+    2150,
+    2148,
+    2157,
+    2154,
+    2166,
+    2165,
+    2168,
+    2167
+  ],
+  "duplicates_avoided": [
+    "2012/2170",
+    "2144/2158/2159"
+  ],
+  "stage": "first integrated build, awaiting second review",
+  "accuracy_100_percent": false,
+  "limits": [
+    "All positions and sizes are photo-informed estimates",
+    "10 distinct large paintings were identified in this supplied sequence; no extra paintings invented to force a published total",
+    "High-resolution original photographs are currently unavailable because the external SSD is disconnected; recovered contact-sheet regions remain temporary"
+  ]
+}
