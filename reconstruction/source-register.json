@@ -1,0 +1,27 @@
+[
+  {
+    "id": "municipal_dimensions",
+    "url": "https://www.gaziantep.bel.tr/tr/haberler/25-aralik-panorama-muzesine-ziyaretci-akini",
+    "used_for": "Published panorama canvas 122 x 13 m; not whole building dimensions"
+  },
+  {
+    "id": "architect",
+    "url": "https://efektanet.com/en/projects/cultural/gaziantep-panorama-museum",
+    "used_for": "Exterior massing and central courtyard design intent"
+  },
+  {
+    "id": "architect_publication",
+    "url": "https://www.yapikatalogu.com/proje/kultur-sanat-yapilari-gaziantep-panorama_1222",
+    "used_for": "Architect project aerial and completed building photos"
+  },
+  {
+    "id": "municipal_plans",
+    "url": "https://www.gaziantep.bel.tr/tr/sayfa/25-aralik-gaziantepin-kurtulusunun-100-yil-aniti-ve-cevre-duzenlenmesi-ulusal-proje-yarismasi",
+    "used_for": "Evidence of archival plans; actual ZIP unavailable, not used as dimensional evidence"
+  },
+  {
+    "id": "museum_gallery_names",
+    "url": "https://gamaakademi.com.tr/",
+    "used_for": "Gallery naming corroborated by user photos"
+  }
+]

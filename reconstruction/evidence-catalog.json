@@ -1,0 +1,3834 @@
+{
+  "source_count": 319,
+  "status": "recovery preview catalog; originals remain on unavailable SSD",
+  "photos": [
+    {
+      "id": 1935,
+      "file": "IMG_1935.HEIC",
+      "review": "review/photo-catalog/images/IMG_1935.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1936,
+      "file": "IMG_1936.HEIC",
+      "review": "review/photo-catalog/images/IMG_1936.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1937,
+      "file": "IMG_1937.HEIC",
+      "review": "review/photo-catalog/images/IMG_1937.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1938,
+      "file": "IMG_1938.HEIC",
+      "review": "review/photo-catalog/images/IMG_1938.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1939,
+      "file": "IMG_1939.HEIC",
+      "review": "review/photo-catalog/images/IMG_1939.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1940,
+      "file": "IMG_1940.HEIC",
+      "review": "review/photo-catalog/images/IMG_1940.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1941,
+      "file": "IMG_1941.HEIC",
+      "review": "review/photo-catalog/images/IMG_1941.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1946,
+      "file": "IMG_1946.HEIC",
+      "review": "review/photo-catalog/images/IMG_1946.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1947,
+      "file": "IMG_1947.HEIC",
+      "review": "review/photo-catalog/images/IMG_1947.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1948,
+      "file": "IMG_1948.HEIC",
+      "review": "review/photo-catalog/images/IMG_1948.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1949,
+      "file": "IMG_1949.HEIC",
+      "review": "review/photo-catalog/images/IMG_1949.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1950,
+      "file": "IMG_1950.HEIC",
+      "review": "review/photo-catalog/images/IMG_1950.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1951,
+      "file": "IMG_1951.HEIC",
+      "review": "review/photo-catalog/images/IMG_1951.jpg",
+      "available_resolution": [
+        1280,
+        588
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1952,
+      "file": "IMG_1952.HEIC",
+      "review": "review/photo-catalog/images/IMG_1952.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1953,
+      "file": "IMG_1953.HEIC",
+      "review": "review/photo-catalog/images/IMG_1953.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1954,
+      "file": "IMG_1954.HEIC",
+      "review": "review/photo-catalog/images/IMG_1954.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1955,
+      "file": "IMG_1955.HEIC",
+      "review": "review/photo-catalog/images/IMG_1955.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1956,
+      "file": "IMG_1956.HEIC",
+      "review": "review/photo-catalog/images/IMG_1956.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1957,
+      "file": "IMG_1957.HEIC",
+      "review": "review/photo-catalog/images/IMG_1957.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1958,
+      "file": "IMG_1958.HEIC",
+      "review": "review/photo-catalog/images/IMG_1958.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1959,
+      "file": "IMG_1959.HEIC",
+      "review": "review/photo-catalog/images/IMG_1959.jpg",
+      "available_resolution": [
+        178,
+        206
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1960,
+      "file": "IMG_1960.HEIC",
+      "review": "review/photo-catalog/images/IMG_1960.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1961,
+      "file": "IMG_1961.HEIC",
+      "review": "review/photo-catalog/images/IMG_1961.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1962,
+      "file": "IMG_1962.HEIC",
+      "review": "review/photo-catalog/images/IMG_1962.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1963,
+      "file": "IMG_1963.HEIC",
+      "review": "review/photo-catalog/images/IMG_1963.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1964,
+      "file": "IMG_1964.HEIC",
+      "review": "review/photo-catalog/images/IMG_1964.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1965,
+      "file": "IMG_1965.HEIC",
+      "review": "review/photo-catalog/images/IMG_1965.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1966,
+      "file": "IMG_1966.HEIC",
+      "review": "review/photo-catalog/images/IMG_1966.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1967,
+      "file": "IMG_1967.HEIC",
+      "review": "review/photo-catalog/images/IMG_1967.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1968,
+      "file": "IMG_1968.HEIC",
+      "review": "review/photo-catalog/images/IMG_1968.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1969,
+      "file": "IMG_1969.HEIC",
+      "review": "review/photo-catalog/images/IMG_1969.jpg",
+      "available_resolution": [
+        1280,
+        331
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1970,
+      "file": "IMG_1970.HEIC",
+      "review": "review/photo-catalog/images/IMG_1970.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1971,
+      "file": "IMG_1971.HEIC",
+      "review": "review/photo-catalog/images/IMG_1971.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1972,
+      "file": "IMG_1972.HEIC",
+      "review": "review/photo-catalog/images/IMG_1972.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1973,
+      "file": "IMG_1973.HEIC",
+      "review": "review/photo-catalog/images/IMG_1973.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1974,
+      "file": "IMG_1974.HEIC",
+      "review": "review/photo-catalog/images/IMG_1974.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1975,
+      "file": "IMG_1975.HEIC",
+      "review": "review/photo-catalog/images/IMG_1975.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1976,
+      "file": "IMG_1976.HEIC",
+      "review": "review/photo-catalog/images/IMG_1976.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1977,
+      "file": "IMG_1977.HEIC",
+      "review": "review/photo-catalog/images/IMG_1977.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1978,
+      "file": "IMG_1978.HEIC",
+      "review": "review/photo-catalog/images/IMG_1978.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1979,
+      "file": "IMG_1979.HEIC",
+      "review": "review/photo-catalog/images/IMG_1979.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1980,
+      "file": "IMG_1980.HEIC",
+      "review": "review/photo-catalog/images/IMG_1980.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1981,
+      "file": "IMG_1981.HEIC",
+      "review": "review/photo-catalog/images/IMG_1981.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1982,
+      "file": "IMG_1982.HEIC",
+      "review": "review/photo-catalog/images/IMG_1982.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1983,
+      "file": "IMG_1983.HEIC",
+      "review": "review/photo-catalog/images/IMG_1983.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1984,
+      "file": "IMG_1984.HEIC",
+      "review": "review/photo-catalog/images/IMG_1984.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1985,
+      "file": "IMG_1985.HEIC",
+      "review": "review/photo-catalog/images/IMG_1985.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1986,
+      "file": "IMG_1986.HEIC",
+      "review": "review/photo-catalog/images/IMG_1986.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1987,
+      "file": "IMG_1987.HEIC",
+      "review": "review/photo-catalog/images/IMG_1987.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1988,
+      "file": "IMG_1988.HEIC",
+      "review": "review/photo-catalog/images/IMG_1988.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1989,
+      "file": "IMG_1989.HEIC",
+      "review": "review/photo-catalog/images/IMG_1989.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1990,
+      "file": "IMG_1990.HEIC",
+      "review": "review/photo-catalog/images/IMG_1990.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1991,
+      "file": "IMG_1991.HEIC",
+      "review": "review/photo-catalog/images/IMG_1991.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1992,
+      "file": "IMG_1992.HEIC",
+      "review": "review/photo-catalog/images/IMG_1992.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1993,
+      "file": "IMG_1993.HEIC",
+      "review": "review/photo-catalog/images/IMG_1993.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1994,
+      "file": "IMG_1994.HEIC",
+      "review": "review/photo-catalog/images/IMG_1994.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1995,
+      "file": "IMG_1995.HEIC",
+      "review": "review/photo-catalog/images/IMG_1995.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1996,
+      "file": "IMG_1996.HEIC",
+      "review": "review/photo-catalog/images/IMG_1996.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1997,
+      "file": "IMG_1997.HEIC",
+      "review": "review/photo-catalog/images/IMG_1997.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 1998,
+      "file": "IMG_1998.HEIC",
+      "review": "review/photo-catalog/images/IMG_1998.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 1999,
+      "file": "IMG_1999.HEIC",
+      "review": "review/photo-catalog/images/IMG_1999.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2001,
+      "file": "IMG_2001.HEIC",
+      "review": "review/photo-catalog/images/IMG_2001.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2002,
+      "file": "IMG_2002.HEIC",
+      "review": "review/photo-catalog/images/IMG_2002.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2003,
+      "file": "IMG_2003.HEIC",
+      "review": "review/photo-catalog/images/IMG_2003.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2004,
+      "file": "IMG_2004.HEIC",
+      "review": "review/photo-catalog/images/IMG_2004.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2005,
+      "file": "IMG_2005.HEIC",
+      "review": "review/photo-catalog/images/IMG_2005.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2006,
+      "file": "IMG_2006.HEIC",
+      "review": "review/photo-catalog/images/IMG_2006.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2007,
+      "file": "IMG_2007.HEIC",
+      "review": "review/photo-catalog/images/IMG_2007.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2008,
+      "file": "IMG_2008.HEIC",
+      "review": "review/photo-catalog/images/IMG_2008.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2009,
+      "file": "IMG_2009.HEIC",
+      "review": "review/photo-catalog/images/IMG_2009.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2010,
+      "file": "IMG_2010.HEIC",
+      "review": "review/photo-catalog/images/IMG_2010.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2011,
+      "file": "IMG_2011.HEIC",
+      "review": "review/photo-catalog/images/IMG_2011.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2012,
+      "file": "IMG_2012.HEIC",
+      "review": "review/photo-catalog/images/IMG_2012.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2013,
+      "file": "IMG_2013.HEIC",
+      "review": "review/photo-catalog/images/IMG_2013.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2014,
+      "file": "IMG_2014.HEIC",
+      "review": "review/photo-catalog/images/IMG_2014.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2015,
+      "file": "IMG_2015.HEIC",
+      "review": "review/photo-catalog/images/IMG_2015.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2016,
+      "file": "IMG_2016.HEIC",
+      "review": "review/photo-catalog/images/IMG_2016.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2017,
+      "file": "IMG_2017.HEIC",
+      "review": "review/photo-catalog/images/IMG_2017.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2018,
+      "file": "IMG_2018.HEIC",
+      "review": "review/photo-catalog/images/IMG_2018.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2019,
+      "file": "IMG_2019.HEIC",
+      "review": "review/photo-catalog/images/IMG_2019.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2020,
+      "file": "IMG_2020.HEIC",
+      "review": "review/photo-catalog/images/IMG_2020.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2021,
+      "file": "IMG_2021.HEIC",
+      "review": "review/photo-catalog/images/IMG_2021.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2022,
+      "file": "IMG_2022.HEIC",
+      "review": "review/photo-catalog/images/IMG_2022.jpg",
+      "available_resolution": [
+        178,
+        226
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2023,
+      "file": "IMG_2023.HEIC",
+      "review": "review/photo-catalog/images/IMG_2023.jpg",
+      "available_resolution": [
+        180,
+        231
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2024,
+      "file": "IMG_2024.HEIC",
+      "review": "review/photo-catalog/images/IMG_2024.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2025,
+      "file": "IMG_2025.HEIC",
+      "review": "review/photo-catalog/images/IMG_2025.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2026,
+      "file": "IMG_2026.HEIC",
+      "review": "review/photo-catalog/images/IMG_2026.jpg",
+      "available_resolution": [
+        179,
+        213
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2027,
+      "file": "IMG_2027.HEIC",
+      "review": "review/photo-catalog/images/IMG_2027.jpg",
+      "available_resolution": [
+        166,
+        203
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2028,
+      "file": "IMG_2028.HEIC",
+      "review": "review/photo-catalog/images/IMG_2028.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2029,
+      "file": "IMG_2029.HEIC",
+      "review": "review/photo-catalog/images/IMG_2029.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2030,
+      "file": "IMG_2030.HEIC",
+      "review": "review/photo-catalog/images/IMG_2030.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2031,
+      "file": "IMG_2031.HEIC",
+      "review": "review/photo-catalog/images/IMG_2031.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2032,
+      "file": "IMG_2032.HEIC",
+      "review": "review/photo-catalog/images/IMG_2032.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2033,
+      "file": "IMG_2033.HEIC",
+      "review": "review/photo-catalog/images/IMG_2033.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2034,
+      "file": "IMG_2034.HEIC",
+      "review": "review/photo-catalog/images/IMG_2034.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2035,
+      "file": "IMG_2035.HEIC",
+      "review": "review/photo-catalog/images/IMG_2035.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2036,
+      "file": "IMG_2036.HEIC",
+      "review": "review/photo-catalog/images/IMG_2036.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2037,
+      "file": "IMG_2037.HEIC",
+      "review": "review/photo-catalog/images/IMG_2037.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2038,
+      "file": "IMG_2038.HEIC",
+      "review": "review/photo-catalog/images/IMG_2038.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2039,
+      "file": "IMG_2039.HEIC",
+      "review": "review/photo-catalog/images/IMG_2039.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2040,
+      "file": "IMG_2040.HEIC",
+      "review": "review/photo-catalog/images/IMG_2040.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2041,
+      "file": "IMG_2041.HEIC",
+      "review": "review/photo-catalog/images/IMG_2041.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2042,
+      "file": "IMG_2042.HEIC",
+      "review": "review/photo-catalog/images/IMG_2042.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2043,
+      "file": "IMG_2043.HEIC",
+      "review": "review/photo-catalog/images/IMG_2043.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2044,
+      "file": "IMG_2044.HEIC",
+      "review": "review/photo-catalog/images/IMG_2044.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2045,
+      "file": "IMG_2045.HEIC",
+      "review": "review/photo-catalog/images/IMG_2045.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2046,
+      "file": "IMG_2046.HEIC",
+      "review": "review/photo-catalog/images/IMG_2046.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2047,
+      "file": "IMG_2047.HEIC",
+      "review": "review/photo-catalog/images/IMG_2047.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2048,
+      "file": "IMG_2048.HEIC",
+      "review": "review/photo-catalog/images/IMG_2048.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2049,
+      "file": "IMG_2049.HEIC",
+      "review": "review/photo-catalog/images/IMG_2049.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2050,
+      "file": "IMG_2050.HEIC",
+      "review": "review/photo-catalog/images/IMG_2050.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2051,
+      "file": "IMG_2051.HEIC",
+      "review": "review/photo-catalog/images/IMG_2051.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2052,
+      "file": "IMG_2052.HEIC",
+      "review": "review/photo-catalog/images/IMG_2052.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2053,
+      "file": "IMG_2053.HEIC",
+      "review": "review/photo-catalog/images/IMG_2053.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2054,
+      "file": "IMG_2054.HEIC",
+      "review": "review/photo-catalog/images/IMG_2054.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2055,
+      "file": "IMG_2055.HEIC",
+      "review": "review/photo-catalog/images/IMG_2055.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2056,
+      "file": "IMG_2056.HEIC",
+      "review": "review/photo-catalog/images/IMG_2056.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2057,
+      "file": "IMG_2057.HEIC",
+      "review": "review/photo-catalog/images/IMG_2057.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2058,
+      "file": "IMG_2058.HEIC",
+      "review": "review/photo-catalog/images/IMG_2058.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2059,
+      "file": "IMG_2059.HEIC",
+      "review": "review/photo-catalog/images/IMG_2059.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2060,
+      "file": "IMG_2060.HEIC",
+      "review": "review/photo-catalog/images/IMG_2060.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2061,
+      "file": "IMG_2061.HEIC",
+      "review": "review/photo-catalog/images/IMG_2061.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2062,
+      "file": "IMG_2062.HEIC",
+      "review": "review/photo-catalog/images/IMG_2062.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2063,
+      "file": "IMG_2063.HEIC",
+      "review": "review/photo-catalog/images/IMG_2063.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2064,
+      "file": "IMG_2064.HEIC",
+      "review": "review/photo-catalog/images/IMG_2064.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2065,
+      "file": "IMG_2065.HEIC",
+      "review": "review/photo-catalog/images/IMG_2065.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2066,
+      "file": "IMG_2066.HEIC",
+      "review": "review/photo-catalog/images/IMG_2066.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2067,
+      "file": "IMG_2067.HEIC",
+      "review": "review/photo-catalog/images/IMG_2067.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2068,
+      "file": "IMG_2068.HEIC",
+      "review": "review/photo-catalog/images/IMG_2068.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2069,
+      "file": "IMG_2069.HEIC",
+      "review": "review/photo-catalog/images/IMG_2069.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2070,
+      "file": "IMG_2070.HEIC",
+      "review": "review/photo-catalog/images/IMG_2070.jpg",
+      "available_resolution": [
+        1368,
+        1824
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2071,
+      "file": "IMG_2071.HEIC",
+      "review": "review/photo-catalog/images/IMG_2071.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2072,
+      "file": "IMG_2072.HEIC",
+      "review": "review/photo-catalog/images/IMG_2072.jpg",
+      "available_resolution": [
+        1368,
+        1824
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2073,
+      "file": "IMG_2073.HEIC",
+      "review": "review/photo-catalog/images/IMG_2073.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2074,
+      "file": "IMG_2074.HEIC",
+      "review": "review/photo-catalog/images/IMG_2074.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2075,
+      "file": "IMG_2075.HEIC",
+      "review": "review/photo-catalog/images/IMG_2075.jpg",
+      "available_resolution": [
+        1368,
+        1824
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2076,
+      "file": "IMG_2076.HEIC",
+      "review": "review/photo-catalog/images/IMG_2076.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2077,
+      "file": "IMG_2077.HEIC",
+      "review": "review/photo-catalog/images/IMG_2077.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2078,
+      "file": "IMG_2078.HEIC",
+      "review": "review/photo-catalog/images/IMG_2078.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2079,
+      "file": "IMG_2079.HEIC",
+      "review": "review/photo-catalog/images/IMG_2079.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2080,
+      "file": "IMG_2080.HEIC",
+      "review": "review/photo-catalog/images/IMG_2080.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2081,
+      "file": "IMG_2081.HEIC",
+      "review": "review/photo-catalog/images/IMG_2081.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2082,
+      "file": "IMG_2082.HEIC",
+      "review": "review/photo-catalog/images/IMG_2082.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2083,
+      "file": "IMG_2083.HEIC",
+      "review": "review/photo-catalog/images/IMG_2083.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2084,
+      "file": "IMG_2084.HEIC",
+      "review": "review/photo-catalog/images/IMG_2084.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2085,
+      "file": "IMG_2085.HEIC",
+      "review": "review/photo-catalog/images/IMG_2085.jpg",
+      "available_resolution": [
+        182,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2086,
+      "file": "IMG_2086.HEIC",
+      "review": "review/photo-catalog/images/IMG_2086.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2087,
+      "file": "IMG_2087.HEIC",
+      "review": "review/photo-catalog/images/IMG_2087.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2088,
+      "file": "IMG_2088.HEIC",
+      "review": "review/photo-catalog/images/IMG_2088.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2089,
+      "file": "IMG_2089.HEIC",
+      "review": "review/photo-catalog/images/IMG_2089.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2090,
+      "file": "IMG_2090.HEIC",
+      "review": "review/photo-catalog/images/IMG_2090.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2091,
+      "file": "IMG_2091.HEIC",
+      "review": "review/photo-catalog/images/IMG_2091.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2092,
+      "file": "IMG_2092.HEIC",
+      "review": "review/photo-catalog/images/IMG_2092.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2093,
+      "file": "IMG_2093.HEIC",
+      "review": "review/photo-catalog/images/IMG_2093.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2094,
+      "file": "IMG_2094.HEIC",
+      "review": "review/photo-catalog/images/IMG_2094.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2095,
+      "file": "IMG_2095.HEIC",
+      "review": "review/photo-catalog/images/IMG_2095.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2096,
+      "file": "IMG_2096.HEIC",
+      "review": "review/photo-catalog/images/IMG_2096.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2097,
+      "file": "IMG_2097.HEIC",
+      "review": "review/photo-catalog/images/IMG_2097.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2098,
+      "file": "IMG_2098.HEIC",
+      "review": "review/photo-catalog/images/IMG_2098.jpg",
+      "available_resolution": [
+        178,
+        210
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2099,
+      "file": "IMG_2099.HEIC",
+      "review": "review/photo-catalog/images/IMG_2099.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2100,
+      "file": "IMG_2100.HEIC",
+      "review": "review/photo-catalog/images/IMG_2100.jpg",
+      "available_resolution": [
+        178,
+        231
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2101,
+      "file": "IMG_2101.HEIC",
+      "review": "review/photo-catalog/images/IMG_2101.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2102,
+      "file": "IMG_2102.HEIC",
+      "review": "review/photo-catalog/images/IMG_2102.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2103,
+      "file": "IMG_2103.HEIC",
+      "review": "review/photo-catalog/images/IMG_2103.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2104,
+      "file": "IMG_2104.HEIC",
+      "review": "review/photo-catalog/images/IMG_2104.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2105,
+      "file": "IMG_2105.HEIC",
+      "review": "review/photo-catalog/images/IMG_2105.jpg",
+      "available_resolution": [
+        178,
+        202
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2106,
+      "file": "IMG_2106.HEIC",
+      "review": "review/photo-catalog/images/IMG_2106.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2107,
+      "file": "IMG_2107.HEIC",
+      "review": "review/photo-catalog/images/IMG_2107.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2108,
+      "file": "IMG_2108.HEIC",
+      "review": "review/photo-catalog/images/IMG_2108.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2109,
+      "file": "IMG_2109.HEIC",
+      "review": "review/photo-catalog/images/IMG_2109.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2110,
+      "file": "IMG_2110.HEIC",
+      "review": "review/photo-catalog/images/IMG_2110.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2111,
+      "file": "IMG_2111.HEIC",
+      "review": "review/photo-catalog/images/IMG_2111.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2112,
+      "file": "IMG_2112.HEIC",
+      "review": "review/photo-catalog/images/IMG_2112.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2113,
+      "file": "IMG_2113.HEIC",
+      "review": "review/photo-catalog/images/IMG_2113.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2114,
+      "file": "IMG_2114.HEIC",
+      "review": "review/photo-catalog/images/IMG_2114.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2115,
+      "file": "IMG_2115.HEIC",
+      "review": "review/photo-catalog/images/IMG_2115.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2116,
+      "file": "IMG_2116.HEIC",
+      "review": "review/photo-catalog/images/IMG_2116.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2117,
+      "file": "IMG_2117.HEIC",
+      "review": "review/photo-catalog/images/IMG_2117.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2118,
+      "file": "IMG_2118.HEIC",
+      "review": "review/photo-catalog/images/IMG_2118.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2119,
+      "file": "IMG_2119.HEIC",
+      "review": "review/photo-catalog/images/IMG_2119.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2120,
+      "file": "IMG_2120.HEIC",
+      "review": "review/photo-catalog/images/IMG_2120.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2121,
+      "file": "IMG_2121.HEIC",
+      "review": "review/photo-catalog/images/IMG_2121.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2122,
+      "file": "IMG_2122.HEIC",
+      "review": "review/photo-catalog/images/IMG_2122.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2123,
+      "file": "IMG_2123.HEIC",
+      "review": "review/photo-catalog/images/IMG_2123.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2124,
+      "file": "IMG_2124.HEIC",
+      "review": "review/photo-catalog/images/IMG_2124.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2125,
+      "file": "IMG_2125.HEIC",
+      "review": "review/photo-catalog/images/IMG_2125.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2126,
+      "file": "IMG_2126.HEIC",
+      "review": "review/photo-catalog/images/IMG_2126.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2127,
+      "file": "IMG_2127.HEIC",
+      "review": "review/photo-catalog/images/IMG_2127.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2128,
+      "file": "IMG_2128.HEIC",
+      "review": "review/photo-catalog/images/IMG_2128.jpg",
+      "available_resolution": [
+        1280,
+        960
+      ],
+      "recovery_source": "retained_tool_image",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": false
+    },
+    {
+      "id": 2129,
+      "file": "IMG_2129.HEIC",
+      "review": "review/photo-catalog/images/IMG_2129.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2130,
+      "file": "IMG_2130.HEIC",
+      "review": "review/photo-catalog/images/IMG_2130.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2131,
+      "file": "IMG_2131.HEIC",
+      "review": "review/photo-catalog/images/IMG_2131.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2132,
+      "file": "IMG_2132.HEIC",
+      "review": "review/photo-catalog/images/IMG_2132.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2133,
+      "file": "IMG_2133.HEIC",
+      "review": "review/photo-catalog/images/IMG_2133.jpg",
+      "available_resolution": [
+        179,
+        214
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2134,
+      "file": "IMG_2134.HEIC",
+      "review": "review/photo-catalog/images/IMG_2134.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2135,
+      "file": "IMG_2135.HEIC",
+      "review": "review/photo-catalog/images/IMG_2135.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2136,
+      "file": "IMG_2136.HEIC",
+      "review": "review/photo-catalog/images/IMG_2136.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2137,
+      "file": "IMG_2137.HEIC",
+      "review": "review/photo-catalog/images/IMG_2137.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2138,
+      "file": "IMG_2138.HEIC",
+      "review": "review/photo-catalog/images/IMG_2138.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2139,
+      "file": "IMG_2139.HEIC",
+      "review": "review/photo-catalog/images/IMG_2139.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2140,
+      "file": "IMG_2140.HEIC",
+      "review": "review/photo-catalog/images/IMG_2140.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2141,
+      "file": "IMG_2141.HEIC",
+      "review": "review/photo-catalog/images/IMG_2141.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2142,
+      "file": "IMG_2142.HEIC",
+      "review": "review/photo-catalog/images/IMG_2142.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2143,
+      "file": "IMG_2143.HEIC",
+      "review": "review/photo-catalog/images/IMG_2143.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2144,
+      "file": "IMG_2144.HEIC",
+      "review": "review/photo-catalog/images/IMG_2144.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2145,
+      "file": "IMG_2145.HEIC",
+      "review": "review/photo-catalog/images/IMG_2145.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2146,
+      "file": "IMG_2146.HEIC",
+      "review": "review/photo-catalog/images/IMG_2146.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2147,
+      "file": "IMG_2147.HEIC",
+      "review": "review/photo-catalog/images/IMG_2147.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2148,
+      "file": "IMG_2148.HEIC",
+      "review": "review/photo-catalog/images/IMG_2148.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2149,
+      "file": "IMG_2149.HEIC",
+      "review": "review/photo-catalog/images/IMG_2149.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2150,
+      "file": "IMG_2150.HEIC",
+      "review": "review/photo-catalog/images/IMG_2150.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2151,
+      "file": "IMG_2151.HEIC",
+      "review": "review/photo-catalog/images/IMG_2151.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2152,
+      "file": "IMG_2152.HEIC",
+      "review": "review/photo-catalog/images/IMG_2152.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2153,
+      "file": "IMG_2153.HEIC",
+      "review": "review/photo-catalog/images/IMG_2153.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2154,
+      "file": "IMG_2154.HEIC",
+      "review": "review/photo-catalog/images/IMG_2154.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2155,
+      "file": "IMG_2155.HEIC",
+      "review": "review/photo-catalog/images/IMG_2155.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2156,
+      "file": "IMG_2156.HEIC",
+      "review": "review/photo-catalog/images/IMG_2156.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2157,
+      "file": "IMG_2157.HEIC",
+      "review": "review/photo-catalog/images/IMG_2157.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2158,
+      "file": "IMG_2158.HEIC",
+      "review": "review/photo-catalog/images/IMG_2158.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2159,
+      "file": "IMG_2159.HEIC",
+      "review": "review/photo-catalog/images/IMG_2159.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2160,
+      "file": "IMG_2160.HEIC",
+      "review": "review/photo-catalog/images/IMG_2160.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2161,
+      "file": "IMG_2161.HEIC",
+      "review": "review/photo-catalog/images/IMG_2161.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2162,
+      "file": "IMG_2162.HEIC",
+      "review": "review/photo-catalog/images/IMG_2162.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2163,
+      "file": "IMG_2163.HEIC",
+      "review": "review/photo-catalog/images/IMG_2163.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2164,
+      "file": "IMG_2164.HEIC",
+      "review": "review/photo-catalog/images/IMG_2164.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2165,
+      "file": "IMG_2165.HEIC",
+      "review": "review/photo-catalog/images/IMG_2165.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2166,
+      "file": "IMG_2166.HEIC",
+      "review": "review/photo-catalog/images/IMG_2166.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2167,
+      "file": "IMG_2167.HEIC",
+      "review": "review/photo-catalog/images/IMG_2167.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2168,
+      "file": "IMG_2168.HEIC",
+      "review": "review/photo-catalog/images/IMG_2168.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2169,
+      "file": "IMG_2169.HEIC",
+      "review": "review/photo-catalog/images/IMG_2169.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2170,
+      "file": "IMG_2170.HEIC",
+      "review": "review/photo-catalog/images/IMG_2170.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2171,
+      "file": "IMG_2171.HEIC",
+      "review": "review/photo-catalog/images/IMG_2171.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2172,
+      "file": "IMG_2172.HEIC",
+      "review": "review/photo-catalog/images/IMG_2172.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2173,
+      "file": "IMG_2173.HEIC",
+      "review": "review/photo-catalog/images/IMG_2173.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2174,
+      "file": "IMG_2174.HEIC",
+      "review": "review/photo-catalog/images/IMG_2174.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2175,
+      "file": "IMG_2175.HEIC",
+      "review": "review/photo-catalog/images/IMG_2175.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2176,
+      "file": "IMG_2176.HEIC",
+      "review": "review/photo-catalog/images/IMG_2176.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2177,
+      "file": "IMG_2177.HEIC",
+      "review": "review/photo-catalog/images/IMG_2177.jpg",
+      "available_resolution": [
+        179,
+        231
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2178,
+      "file": "IMG_2178.HEIC",
+      "review": "review/photo-catalog/images/IMG_2178.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2179,
+      "file": "IMG_2179.HEIC",
+      "review": "review/photo-catalog/images/IMG_2179.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2180,
+      "file": "IMG_2180.HEIC",
+      "review": "review/photo-catalog/images/IMG_2180.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2181,
+      "file": "IMG_2181.HEIC",
+      "review": "review/photo-catalog/images/IMG_2181.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2182,
+      "file": "IMG_2182.HEIC",
+      "review": "review/photo-catalog/images/IMG_2182.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2183,
+      "file": "IMG_2183.HEIC",
+      "review": "review/photo-catalog/images/IMG_2183.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2184,
+      "file": "IMG_2184.HEIC",
+      "review": "review/photo-catalog/images/IMG_2184.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2185,
+      "file": "IMG_2185.HEIC",
+      "review": "review/photo-catalog/images/IMG_2185.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2186,
+      "file": "IMG_2186.HEIC",
+      "review": "review/photo-catalog/images/IMG_2186.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2187,
+      "file": "IMG_2187.HEIC",
+      "review": "review/photo-catalog/images/IMG_2187.jpg",
+      "available_resolution": [
+        178,
+        228
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2188,
+      "file": "IMG_2188.HEIC",
+      "review": "review/photo-catalog/images/IMG_2188.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2189,
+      "file": "IMG_2189.HEIC",
+      "review": "review/photo-catalog/images/IMG_2189.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2190,
+      "file": "IMG_2190.HEIC",
+      "review": "review/photo-catalog/images/IMG_2190.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2191,
+      "file": "IMG_2191.HEIC",
+      "review": "review/photo-catalog/images/IMG_2191.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2192,
+      "file": "IMG_2192.HEIC",
+      "review": "review/photo-catalog/images/IMG_2192.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2193,
+      "file": "IMG_2193.HEIC",
+      "review": "review/photo-catalog/images/IMG_2193.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2194,
+      "file": "IMG_2194.HEIC",
+      "review": "review/photo-catalog/images/IMG_2194.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2195,
+      "file": "IMG_2195.HEIC",
+      "review": "review/photo-catalog/images/IMG_2195.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2196,
+      "file": "IMG_2196.HEIC",
+      "review": "review/photo-catalog/images/IMG_2196.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2197,
+      "file": "IMG_2197.HEIC",
+      "review": "review/photo-catalog/images/IMG_2197.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2198,
+      "file": "IMG_2198.HEIC",
+      "review": "review/photo-catalog/images/IMG_2198.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2199,
+      "file": "IMG_2199.HEIC",
+      "review": "review/photo-catalog/images/IMG_2199.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2200,
+      "file": "IMG_2200.HEIC",
+      "review": "review/photo-catalog/images/IMG_2200.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2201,
+      "file": "IMG_2201.HEIC",
+      "review": "review/photo-catalog/images/IMG_2201.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2202,
+      "file": "IMG_2202.HEIC",
+      "review": "review/photo-catalog/images/IMG_2202.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2203,
+      "file": "IMG_2203.HEIC",
+      "review": "review/photo-catalog/images/IMG_2203.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2204,
+      "file": "IMG_2204.HEIC",
+      "review": "review/photo-catalog/images/IMG_2204.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2205,
+      "file": "IMG_2205.HEIC",
+      "review": "review/photo-catalog/images/IMG_2205.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2206,
+      "file": "IMG_2206.HEIC",
+      "review": "review/photo-catalog/images/IMG_2206.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2207,
+      "file": "IMG_2207.HEIC",
+      "review": "review/photo-catalog/images/IMG_2207.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2208,
+      "file": "IMG_2208.HEIC",
+      "review": "review/photo-catalog/images/IMG_2208.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2209,
+      "file": "IMG_2209.HEIC",
+      "review": "review/photo-catalog/images/IMG_2209.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2210,
+      "file": "IMG_2210.HEIC",
+      "review": "review/photo-catalog/images/IMG_2210.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2211,
+      "file": "IMG_2211.HEIC",
+      "review": "review/photo-catalog/images/IMG_2211.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2212,
+      "file": "IMG_2212.HEIC",
+      "review": "review/photo-catalog/images/IMG_2212.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2213,
+      "file": "IMG_2213.HEIC",
+      "review": "review/photo-catalog/images/IMG_2213.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2214,
+      "file": "IMG_2214.HEIC",
+      "review": "review/photo-catalog/images/IMG_2214.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2215,
+      "file": "IMG_2215.HEIC",
+      "review": "review/photo-catalog/images/IMG_2215.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2216,
+      "file": "IMG_2216.HEIC",
+      "review": "review/photo-catalog/images/IMG_2216.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2217,
+      "file": "IMG_2217.HEIC",
+      "review": "review/photo-catalog/images/IMG_2217.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2218,
+      "file": "IMG_2218.HEIC",
+      "review": "review/photo-catalog/images/IMG_2218.jpg",
+      "available_resolution": [
+        179,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2219,
+      "file": "IMG_2219.HEIC",
+      "review": "review/photo-catalog/images/IMG_2219.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2220,
+      "file": "IMG_2220.HEIC",
+      "review": "review/photo-catalog/images/IMG_2220.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2221,
+      "file": "IMG_2221.HEIC",
+      "review": "review/photo-catalog/images/IMG_2221.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2222,
+      "file": "IMG_2222.HEIC",
+      "review": "review/photo-catalog/images/IMG_2222.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2223,
+      "file": "IMG_2223.HEIC",
+      "review": "review/photo-catalog/images/IMG_2223.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2224,
+      "file": "IMG_2224.HEIC",
+      "review": "review/photo-catalog/images/IMG_2224.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2225,
+      "file": "IMG_2225.HEIC",
+      "review": "review/photo-catalog/images/IMG_2225.jpg",
+      "available_resolution": [
+        312,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2226,
+      "file": "IMG_2226.HEIC",
+      "review": "review/photo-catalog/images/IMG_2226.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2227,
+      "file": "IMG_2227.HEIC",
+      "review": "review/photo-catalog/images/IMG_2227.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2228,
+      "file": "IMG_2228.HEIC",
+      "review": "review/photo-catalog/images/IMG_2228.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2229,
+      "file": "IMG_2229.HEIC",
+      "review": "review/photo-catalog/images/IMG_2229.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2230,
+      "file": "IMG_2230.HEIC",
+      "review": "review/photo-catalog/images/IMG_2230.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2231,
+      "file": "IMG_2231.HEIC",
+      "review": "review/photo-catalog/images/IMG_2231.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2232,
+      "file": "IMG_2232.HEIC",
+      "review": "review/photo-catalog/images/IMG_2232.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2233,
+      "file": "IMG_2233.HEIC",
+      "review": "review/photo-catalog/images/IMG_2233.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2234,
+      "file": "IMG_2234.HEIC",
+      "review": "review/photo-catalog/images/IMG_2234.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2235,
+      "file": "IMG_2235.HEIC",
+      "review": "review/photo-catalog/images/IMG_2235.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2236,
+      "file": "IMG_2236.HEIC",
+      "review": "review/photo-catalog/images/IMG_2236.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2237,
+      "file": "IMG_2237.HEIC",
+      "review": "review/photo-catalog/images/IMG_2237.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2238,
+      "file": "IMG_2238.HEIC",
+      "review": "review/photo-catalog/images/IMG_2238.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2239,
+      "file": "IMG_2239.HEIC",
+      "review": "review/photo-catalog/images/IMG_2239.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2240,
+      "file": "IMG_2240.HEIC",
+      "review": "review/photo-catalog/images/IMG_2240.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2241,
+      "file": "IMG_2241.HEIC",
+      "review": "review/photo-catalog/images/IMG_2241.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2242,
+      "file": "IMG_2242.HEIC",
+      "review": "review/photo-catalog/images/IMG_2242.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2243,
+      "file": "IMG_2243.HEIC",
+      "review": "review/photo-catalog/images/IMG_2243.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2244,
+      "file": "IMG_2244.HEIC",
+      "review": "review/photo-catalog/images/IMG_2244.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2245,
+      "file": "IMG_2245.HEIC",
+      "review": "review/photo-catalog/images/IMG_2245.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2246,
+      "file": "IMG_2246.HEIC",
+      "review": "review/photo-catalog/images/IMG_2246.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2247,
+      "file": "IMG_2247.HEIC",
+      "review": "review/photo-catalog/images/IMG_2247.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2248,
+      "file": "IMG_2248.HEIC",
+      "review": "review/photo-catalog/images/IMG_2248.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2249,
+      "file": "IMG_2249.HEIC",
+      "review": "review/photo-catalog/images/IMG_2249.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2250,
+      "file": "IMG_2250.HEIC",
+      "review": "review/photo-catalog/images/IMG_2250.jpg",
+      "available_resolution": [
+        178,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2251,
+      "file": "IMG_2251.HEIC",
+      "review": "review/photo-catalog/images/IMG_2251.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2252,
+      "file": "IMG_2252.HEIC",
+      "review": "review/photo-catalog/images/IMG_2252.jpg",
+      "available_resolution": [
+        180,
+        232
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2253,
+      "file": "IMG_2253.HEIC",
+      "review": "review/photo-catalog/images/IMG_2253.jpg",
+      "available_resolution": [
+        312,
+        218
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2254,
+      "file": "IMG_2254.HEIC",
+      "review": "review/photo-catalog/images/IMG_2254.jpg",
+      "available_resolution": [
+        312,
+        175
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2255,
+      "file": "IMG_2255.HEIC",
+      "review": "review/photo-catalog/images/IMG_2255.jpg",
+      "available_resolution": [
+        312,
+        151
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2256,
+      "file": "IMG_2256.HEIC",
+      "review": "review/photo-catalog/images/IMG_2256.jpg",
+      "available_resolution": [
+        312,
+        141
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2257,
+      "file": "IMG_2257.HEIC",
+      "review": "review/photo-catalog/images/IMG_2257.jpg",
+      "available_resolution": [
+        312,
+        144
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    },
+    {
+      "id": 2258,
+      "file": "IMG_2258.HEIC",
+      "review": "review/photo-catalog/images/IMG_2258.jpg",
+      "available_resolution": [
+        312,
+        131
+      ],
+      "recovery_source": "contact_sheet_region",
+      "original_heic_available": false,
+      "needs_original_for_final_texture": true
+    }
+  ]
+}
