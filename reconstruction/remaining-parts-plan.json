@@ -1,0 +1,88 @@
+{
+  "status": "User authorized finish all remaining parts plus second full review, with tram start and >=100m surroundings; no more per-part approval gates.",
+  "coordinates": "Authoring metres, Z up; all placement still reconstruction estimates",
+  "draft_gallery_spine": {
+    "center": [
+      -6,
+      23.5
+    ],
+    "inner_radius": 33,
+    "outer_radius": 45,
+    "floor_z": -4.2,
+    "entry_bridge": [
+      30.2,
+      35.8,
+      21,
+      26
+    ]
+  },
+  "parts": [
+    {
+      "id": "part03",
+      "name": "Archives, uniforms, weapons and local costumes",
+      "photos": "1978-2080",
+      "angles_deg": [
+        0,
+        62
+      ]
+    },
+    {
+      "id": "part04",
+      "name": "Portrait corridor, red Sahin Bey room, stone Kastel and telegraph",
+      "photos": "2081-2143",
+      "angles_deg": [
+        62,
+        105
+      ]
+    },
+    {
+      "id": "part05",
+      "name": "Paintings and history galleries",
+      "photos": "2144-2188",
+      "angles_deg": [
+        105,
+        140
+      ]
+    },
+    {
+      "id": "part06",
+      "name": "Three dioramas and transition",
+      "photos": "2189-2213",
+      "angles_deg": [
+        140,
+        168
+      ]
+    },
+    {
+      "id": "part07",
+      "name": "Curved entry stairs and main panorama",
+      "photos": "2214-2258",
+      "center": [
+        -26,
+        13
+      ],
+      "panorama_canvas_length_m": 122,
+      "panorama_canvas_height_m": 13,
+      "platform_z_estimate": 2.2
+    }
+  ],
+  "constraints": [
+    "Do not use the rejected generated legend text",
+    "No 100-percent as-built claim without measured plans",
+    "Retain all original HEIC files",
+    "Use the supplied original panorama photos instead of the old reference_04 image from another museum",
+    "Validate visible structural geometry as well as navigation colliders"
+  ],
+  "exterior_scope": {
+    "start": "15 Temmuz Demokrasi Meydanı tram stop, Gaziantep",
+    "radius_buffer_from_museum_boundary_m": 100,
+    "include": [
+      "tram and station platform",
+      "walking route to museum",
+      "roads, alleys, crossings and sidewalks",
+      "surrounding building massing and visible facades"
+    ],
+    "evidence_target_date": "2026-10-25",
+    "reconstruction_type": "actual walkable 3D geometry; images are references/textures, not a substitute for street/building volume"
+  }
+}

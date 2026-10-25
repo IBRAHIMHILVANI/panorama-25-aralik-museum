@@ -1,0 +1,32 @@
+{
+  "status": "reference review and draft layout; unpublished",
+  "source_photos": "2081-2143",
+  "corrected_observations": [
+    "2081-2084 curved portrait/name wall and timber slat ceiling",
+    "2083-2086 red Sahin Bey room",
+    "2087-2127 pointed stone portals, rough rock-like ceiling, low steps and a ramp/rail, backlit historical panels",
+    "2128-2137 wall of cast forearms/hands; not birds",
+    "2132-2134 typewriter and stacked papers in glass case",
+    "2138-2140 large hanging manuscript",
+    "2129,2141-2143 two rows of framed documents with a reading kiosk"
+  ],
+  "draft_coordinates": {
+    "center": [
+      -6,
+      23.5
+    ],
+    "angle_start": 62,
+    "angle_end": 105,
+    "inner_radius": 33,
+    "outer_radius": 45,
+    "corridor_outer_radius": 36.8,
+    "corridor_floor": -4.2,
+    "kastel_floor_estimate": -4.95
+  },
+  "unverified": [
+    "Absolute dimensions and adjacency",
+    "Source portrait/name text limited by image resolution",
+    "Exact count of entrances and alcove connectivity beyond photographed viewpoints"
+  ],
+  "imagegen_needed": false
+}
