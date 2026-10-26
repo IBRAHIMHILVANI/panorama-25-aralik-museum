@@ -1,0 +1,212 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "test": "status",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_foreign_origin",
+      "passed": true,
+      "status": 403
+    },
+    {
+      "test": "reject_rebound_host",
+      "passed": true,
+      "status": 403
+    },
+    {
+      "test": "reject_path_field",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "reject_unapproved_codec",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "reject_wrong_speed",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "reject_wrong_fps",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "reject_stale_route",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_wrong_pilot_frames",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "reject_oversized_chunk_header",
+      "passed": true,
+      "status": 413
+    },
+    {
+      "test": "reject_unknown_session",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "valid_pilot_start",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_second_active_export",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_out_of_order_chunk",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_non_annexb_first_chunk",
+      "passed": true,
+      "status": 422
+    },
+    {
+      "test": "upload_chunk_zero",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "idempotent_chunk_retry",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_conflicting_duplicate",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "upload_chunk_one",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_finish_chunk_mismatch",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_finish_frame_mismatch",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_finish_timing_hash",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "reject_finish_source_end",
+      "passed": true,
+      "status": 400
+    },
+    {
+      "test": "remux_and_verify_600_real_decoded_frames",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "idempotent_finish_retry",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_conflicting_finish_retry",
+      "passed": true,
+      "status": 409
+    },
+    {
+      "test": "start_decode_count_negative_case",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "upload_one_frame_negative_case",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "reject_actual_decoded_frame_shortfall",
+      "passed": true,
+      "status": 422
+    },
+    {
+      "test": "failed_session_status",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "valid_full_1p5x_contract",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "abort_full_contract_fixture",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "idempotent_abort",
+      "passed": true,
+      "status": 200
+    },
+    {
+      "test": "no_active_export_after_tests",
+      "passed": true,
+      "status": 200
+    }
+  ],
+  "test_count": 34,
+  "full_expected_frames": 9416,
+  "full_expected_video_duration_seconds": 313.80555555555554,
+  "pilot_fixture_results": [
+    {
+      "sessionId": "c5350a2530684765a88ab5be53d94711",
+      "complete": true,
+      "completed_route": false,
+      "mode": "pilot",
+      "path": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_pilot_20261026T103314Z_c5350a253068.mp4",
+      "url": "/output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_pilot_20261026T103314Z_c5350a253068.mp4",
+      "raw_path": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_pilot_20261026T103314Z_c5350a253068.h264",
+      "metadata_path": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_pilot_20261026T103314Z_c5350a253068.recording.json",
+      "frames": 600,
+      "duration_seconds": 20.0,
+      "verification": {
+        "passed": true,
+        "decoded_frames": 600,
+        "requested_frames": 600,
+        "width": 1280,
+        "height": 720,
+        "codec": "h264",
+        "profile": "Constrained Baseline",
+        "has_b_frames": 0,
+        "fps": 30,
+        "duration_seconds": 20.0,
+        "expected_video_duration_seconds": 20.0,
+        "maximum_frame_timestamp_error_seconds": 3.3333333604446125e-07,
+        "raw_h264_sha256": "75995958f327ed3819a45d577d29d9449d58bbec70d6c7df1942b55ee77ca8b5",
+        "mp4_sha256": "075a9f230ab475fa770f677ab33219a79df3228777c89c0e88c8d4c38d3229f4",
+        "ffmpeg_command_uses_stream_copy": true,
+        "content_uniqueness_checked": false
+      }
+    }
+  ],
+  "generated_at_unix": 1793010795.2861419,
+  "note": "Synthetic protocol fixtures are not museum footage."
+}

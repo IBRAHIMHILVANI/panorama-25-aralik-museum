@@ -1,0 +1,121 @@
+{
+  "reviewed_at": "2026-10-26",
+  "video": "output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_2026-10-26_3420fbf7.webm",
+  "method": "Read-only local ffmpeg frame extraction and visual inspection. No browser actions or model/code edits.",
+  "time_basis": "Actual WebM file seconds. The final file is about 536 seconds; route clock 7:50 is not the file-time basis.",
+  "reviewed_file_seconds": [
+    5,
+    250,
+    255,
+    265,
+    270,
+    280,
+    415,
+    430,
+    445,
+    460,
+    485,
+    500,
+    515,
+    520,
+    525,
+    530,
+    533
+  ],
+  "result": "The previously prominent exterior opening and foreign shop-glazing blocks are absent from the corresponding sampled corrected scenes. Bounded visual pass with remaining small seams/roughness; not 100 percent fidelity or every-frame verification.",
+  "checks": [
+    {
+      "file_seconds": 5,
+      "frame": "independent-final-5s.jpg",
+      "scene": "Tram interior",
+      "finding": "Rendered articulated interior and aisle present; no missing-image/blank frame in this sample."
+    },
+    {
+      "file_seconds": 270,
+      "frame": "independent-final-270s.jpg",
+      "scene": "Cinema",
+      "finding": "Clear rear-room view: full screen, rows of seats, center aisle, ceiling projector and side exit. No major hole or foreign occluder visible."
+    },
+    {
+      "file_seconds": 280,
+      "frame": "independent-final-280s.jpg",
+      "scene": "Map hall and atrium",
+      "finding": "Map floor, structural columns and open atrium with upper railing present; no large outside opening visible."
+    },
+    {
+      "file_seconds": 430,
+      "frame": "independent-final-430s.jpg",
+      "scene": "Part06 end corridor toward Part07",
+      "finding": "Previously exposed exterior buildings/sky at end are replaced by enclosing walls/portal. Large prior leak is not visible in this matching corridor view."
+    },
+    {
+      "file_seconds": 445,
+      "frame": "independent-final-445s.jpg",
+      "scene": "Part06 to Part07 enclosed corridor",
+      "finding": "Walls, floor and ceiling enclose the passage. Small jagged dark ceiling overlaps remain as finish roughness; no broad sky view."
+    },
+    {
+      "file_seconds": 460,
+      "frame": "independent-final-460s.jpg",
+      "scene": "Covered entrance to panorama",
+      "finding": "Covered beams, wall return, lamp and paved panorama path visible; no outside-building view in this sample."
+    },
+    {
+      "file_seconds": [
+        485,
+        500,
+        515,
+        520
+      ],
+      "frames": [
+        "independent-final-485s.jpg",
+        "independent-final-500s.jpg",
+        "independent-final-515s.jpg",
+        "independent-final-520s.jpg"
+      ],
+      "scene": "Panorama mural and dioramas",
+      "finding": "Well/rubble, wagon/tank and broad mural views render without the previous large black shop-glazing panels crossing the mural in these sampled angles."
+    },
+    {
+      "file_seconds": 525,
+      "frame": "independent-final-525s.jpg",
+      "scene": "Hospital/clinic alcove in panorama",
+      "finding": "Two staff figures and patient/table are unobscured inside the alcove. No foreign black shop backing across this scene. A narrow top joint remains visible."
+    },
+    {
+      "file_seconds": [
+        530,
+        533
+      ],
+      "scene": "Closing panorama view",
+      "finding": "Final mural/diorama image is present; no large black backing block visible."
+    }
+  ],
+  "known_quality_limits": [
+    {
+      "file_seconds": [
+        255,
+        515,
+        520,
+        525
+      ],
+      "finding": "Narrow bright slivers/joints remain at some wall/ceiling/canopy junctions. These are visible finish seams; source beyond each seam was not established by static frames. They are not the prior broad exterior-building opening."
+    },
+    {
+      "file_seconds": 445,
+      "finding": "Jagged dark ceiling overlap is visible in the enclosed passage."
+    },
+    {
+      "file_seconds": 265,
+      "finding": "Camera briefly frames a cinema wall close up during the route; this frame alone does not establish collision or blocked access."
+    },
+    {
+      "finding": "Diorama geometry and mural panel joins remain visibly simplified; no real-world 100 percent matching claim."
+    }
+  ],
+  "limits": [
+    "17 bounded still samples, not every video frame.",
+    "MP4 encoding and full decode validation are handled separately by the parent agent.",
+    "No new repair task started and no scene modified."
+  ]
+}

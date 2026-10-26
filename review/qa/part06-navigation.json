@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "colliders": 1556,
+  "tests": [
+    {
+      "test": "diorama_gallery_entry",
+      "passed": true,
+      "end": [
+        -34.96848866327149,
+        44.5974223469612,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "all_three_dioramas",
+      "passed": true,
+      "end": [
+        -40.39740152707727,
+        33.42071195192561,
+        -2.5499898145066187
+      ]
+    },
+    {
+      "test": "projection_transition",
+      "passed": true,
+      "end": [
+        -42.06793711884048,
+        31.74237052303699,
+        -2.549989815248129
+      ]
+    },
+    {
+      "test": "return_to_history",
+      "passed": true,
+      "end": [
+        -35.41811182737387,
+        49.04133201467419,
+        -2.5499898092651363
+      ]
+    }
+  ],
+  "failures": [],
+  "glb_sha256": {
+    "part00": "8ca701af5e72fec654367868918e5f0d47b0cb7d5f21c70c8b9083d01156ac51",
+    "part01": "ac8d08250f218af2cdec34e85848dfc0016911cdf4ffb926654fdb829575a868",
+    "part02": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0",
+    "part03": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b",
+    "part04": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c",
+    "part05": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b",
+    "part06": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a",
+    "part07": "7149a58715e8397a054d753dfbc48900f1bbb6563c19c1180669c00aa75c16d5",
+    "part08": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+  }
+}

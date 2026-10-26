@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "source": "output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_full_20261026T104048Z_e11cd385ac3f.mp4",
+  "duration_seconds": 313.866667,
+  "decoded_frames": 9416,
+  "full_decode_error_output": "",
+  "visual_samples": [
+    {
+      "name": "tram",
+      "seconds": 1,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-tram.jpg"
+    },
+    {
+      "name": "street",
+      "seconds": 74,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-street.jpg"
+    },
+    {
+      "name": "courtyard",
+      "seconds": 107.8,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-courtyard.jpg"
+    },
+    {
+      "name": "cinema",
+      "seconds": 139.98,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-cinema.jpg"
+    },
+    {
+      "name": "map",
+      "seconds": 154.27,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-map.jpg"
+    },
+    {
+      "name": "stair",
+      "seconds": 260,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-stair.jpg"
+    },
+    {
+      "name": "panorama",
+      "seconds": 267.65,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-panorama.jpg"
+    },
+    {
+      "name": "hospital",
+      "seconds": 297.19,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-hospital.jpg"
+    },
+    {
+      "name": "end",
+      "seconds": 313,
+      "file": "review/qa/video-followup-2026-10-26/smooth-full-end.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "part": "part00",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 24234504,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part01",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 25050484,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part02",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 13526824,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part03",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 39243716,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part04",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 5985956,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part05",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 7866948,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part06",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 4976032,
+    "missing_reference_photos": []
+  },
+  {
+    "part": "part07",
+    "http": 200,
+    "glb_magic": "glTF",
+    "bytes": 12909588,
+    "missing_reference_photos": []
+  }
+]

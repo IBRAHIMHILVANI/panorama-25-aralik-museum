@@ -1,0 +1,37 @@
+{
+  "scope": "Standalone room only. Entrance connection to museum not yet established.",
+  "passed": true,
+  "navigation_checks": 3,
+  "tests": [
+    {
+      "name": "centre_aisle_to_screen",
+      "passed": true,
+      "end": [
+        8.288374935298184e-8,
+        0.7482670347120131,
+        1.6500100000000004
+      ]
+    },
+    {
+      "name": "screen_to_back",
+      "passed": true,
+      "end": [
+        4.189299805119976e-8,
+        7.5016305767627145,
+        1.6500100000000009
+      ]
+    },
+    {
+      "name": "approach_observed_front_door",
+      "passed": true,
+      "end": [
+        -0.06084767418365339,
+        0.6927667254407824,
+        1.6500100000000004
+      ]
+    }
+  ],
+  "body_samples": 74,
+  "obstructions": [],
+  "glb_sha256": "c2bec7aab619055a08b93fa15101a8b970c75beca9b152542e89278efde573c1"
+}

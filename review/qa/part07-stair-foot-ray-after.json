@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "glb_sha256": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8",
+  "scope": "Original escaping foot rays and dark roof patch, exact64deg verticalFOV at1024x576; visible exported geometry only",
+  "rays": [
+    {
+      "time": 387,
+      "pixel": [
+        655,
+        488
+      ],
+      "passed": true,
+      "hit": {
+        "name": "Panorama_Stair_Below_Floor_Foundation",
+        "distance": 4.884222323337881,
+        "author": [
+          -32.06477981737431,
+          17.185925556279905,
+          -4.420000076293945
+        ]
+      }
+    },
+    {
+      "time": 387,
+      "pixel": [
+        658,
+        487
+      ],
+      "passed": true,
+      "hit": {
+        "name": "Panorama_Stair_Below_Floor_Foundation",
+        "distance": 4.91297380065533,
+        "author": [
+          -32.07610746353132,
+          17.14643702818811,
+          -4.420000076293945
+        ]
+      }
+    },
+    {
+      "time": 387,
+      "pixel": [
+        660,
+        494
+      ],
+      "passed": true,
+      "hit": {
+        "name": "Panorama_Stair_Below_Floor_Foundation",
+        "distance": 4.775652303276939,
+        "author": [
+          -32.15383853566777,
+          17.27460763339369,
+          -4.420000076293945
+        ]
+      }
+    },
+    {
+      "time": 390,
+      "pixel": [
+        450,
+        240
+      ],
+      "passed": true,
+      "hit": {
+        "name": "Village_Inner_Stone_Wall_121",
+        "distance": 4.392485209773658,
+        "author": [
+          -31.644458877496266,
+          13.916820616702557,
+          0
+        ]
+      }
+    }
+  ]
+}

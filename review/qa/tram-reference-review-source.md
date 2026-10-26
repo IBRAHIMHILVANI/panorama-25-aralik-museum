@@ -1,0 +1,25 @@
+# Tram and station — independent reference review
+
+2026-10-26. Read-only inspection of builder sources and the supplied photographs. No builder edits, exports, or UI actions by this reviewer. Current combined render review is pending; earlier native interior/station renders were inspected only as corroboration of source geometry, not evidence of the current combined scene.
+
+## Five largest correctable discrepancies
+
+1. **PT8 front fascia and lamp/belt ordering.** The rightmost white/black/orange tram in `references/tram/gaziulas-tram-types.png` has opaque black fascia below the windshield, with the municipal mark and oval lamp assembly on that black area; the orange belt is below the lamps. `build_part00.py` lines 198–213 instead make the lower nose white, put the lamps at z=0.99, and run the orange nose strip higher at z=1.20. The mark starts at z=1.43 within the glass band. Correct the mask and relative order together: windscreen, black fascia with mark and lamps, orange belt, pale lower skirt. The exact metric boundaries need visual fitting; the photo supports the ordering without supporting a surveyed dimension. Do not copy the other tram types in the same lineup or invent a vehicle ID.
+
+2. **Side-window subdivisions and door framing.** Official interior photos 7 and 9 show a strong horizontal black divider separating each smaller upper glazing panel from the main lower panel, plus rounded black window seals. `build_part00.py` lines 176–180 currently provide a single rectangular pane with only its top/bottom bars. The earlier native `traminterior.png` confirms the empty rectangular openings visually dominate both side walls. Add the reference-supported upper divider and perimeter seals; refine rounded door glazing where visible. Preserve actual door openings and check clearance after changes. Exact pane spacing along the unseen full vehicle remains estimated.
+
+3. **Station canopy structure.** Both dated station photos `YG01-2024-04-04-IMG_2115.jpg` and `2116.jpg` show substantial grey square/rectangular uprights, deep cantilever rafters, multiple glass divisions, and a thick rounded leading-edge fascia with longitudinal grooves. `build_part00.py` lines 140–145 use narrow round cylinders and one uninterrupted roof pane. This creates a visibly skeletal shelter in the earlier station render. Rebuild the observed section profiles and glass subdivisions, using the photograph for proportions without claiming measured member sizes or exact shelter spacing. Source-supported silhouettes matter more than adding unsupported advertisements.
+
+4. **Articulation surround material and shape.** Official interior photos 7 and 8 show a broad reflective silver upper surround with continuous rounded shoulders. `tram_interior.py` lines 69–73 assigns off-white to the whole surround and builds a stepped central opening; the earlier native `tramjoint.png` reads as a painted squared doorway. Give the observed upper surround a metal finish and refine its rounded shoulders, keeping the proven clear central opening. Do not infer the hidden mechanical joint or change the seating layout from this limited view.
+
+5. **Track-paving unit shape and surface variation.** The close foreground of station photos 2115/2116 shows worn red/grey interlocking pavers with distinct shaped edges and pale irregular wear. `museum_landscape.py` lines 52–58 creates clean square 0.234 m faces with random uniform colors. The new median location is supported, but the track-bed closeup will remain visibly generic until the paver outline, joint rhythm, and restrained wear variation follow the source. Use actual geometric profiles and source-derived surface detail; unit dimensions remain estimates. The photo supports short dense turf in the median, not a surveyed arrangement of individual blades or current maintenance condition.
+
+## What is already supported
+
+- Grass belongs in the median **between** the paved track beds, not as a blanket inside both track gauges. The new geometry follows that relationship.
+- Black upholstery with orange/red flowing marks, white vertical poles, orange overhead rails, grouped black hand loops, grey flooring, ceiling strips, and door readers are visible in official interior photographs 7–9. Exact total seating arrangement and unphotographed placement cannot be recovered from those views.
+- Oval twin-element lamps and the municipal wordmark are supported for the chosen rightmost reference tram. Their implementation still needs the front fascia/order correction above.
+
+## Evidence limits
+
+Station photos are dated 2024-04-04. Official interior image capture dates are unconfirmed. These are feature/shape references, not proof of the vehicle or advertising currently at this stop. The provided station images do not establish the precise museum-entrance shrub species, individual plant locations, or a measured landscape plan. A closeup of the current grass and entrance planting render is still needed before judging visual density or leaf scale.

@@ -1,0 +1,57 @@
+{
+  "reference": "YG01 15 Temmuz station photographs, 2024-04-04: grass median and red/grey brick track infill",
+  "grass_area_m2": 18.45,
+  "individual_blade_positions": "procedural; no surveyed placement",
+  "blade_height_above_surface_m": [
+    0.008,
+    0.026
+  ],
+  "blade_full_width_m": [
+    0.002,
+    0.004
+  ],
+  "track_bed": "red-grey interlocking brick infill on continuous neutral grout; 2024 photographed condition",
+  "paver_lattice_m": [
+    0.24,
+    0.17
+  ],
+  "paver_row_shift_m": 0.12,
+  "joint_width_m": 0.003,
+  "turf_texture": {
+    "source": "references/tram/YG01-2024-04-04-IMG_2115.jpg",
+    "source_date": "2024-04-04",
+    "sha256": "61586236ba356ef489bf2bcdf32d2b27ce98a8757201d325d7ecf52c4ff5bf30",
+    "source_pixels_unchanged": true,
+    "uv_quad_source_pixels": [
+      [
+        250.0,
+        1330.0
+      ],
+      [
+        560.0,
+        1228.0
+      ],
+      [
+        560.0,
+        1275.0
+      ],
+      [
+        250.0,
+        1375.0
+      ]
+    ],
+    "source_dimensions_px": [
+      1368,
+      1824
+    ],
+    "texture_mapping": "bounded clean-turf region tiled with alternating UV reflection; no source image edits",
+    "metric_texture_scale": "estimated; not a surveyed ground orthophoto"
+  },
+  "validation": {
+    "no_uncovered_area_before_joints": true,
+    "zero_lattice_overlaps": true,
+    "smoke_scope": "helper only, synthetic parallel tracks; no part00 build/export",
+    "objects": 12,
+    "all_new_geometry_noncolliding": true
+  }
+}

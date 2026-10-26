@@ -1,0 +1,1222 @@
+[
+  {
+    "ang": 17,
+    "z": 1.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_5",
+        "mat": "Interior_Shadow",
+        "distance": 10.124992121014264,
+        "point": [
+          -9.62806984983251,
+          18.549999237060547,
+          1.5479000782294166
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.273545050600449,
+        "point": [
+          -7.517013148795629,
+          18.949060376461098,
+          1.526232054300325
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.353946200803895,
+        "point": [
+          -7.438015147596399,
+          18.963993671409284,
+          1.5254212136537926
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.454275285175562,
+        "point": [
+          -7.33943699159421,
+          18.982628278066187,
+          1.5244094010188727
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.626116477133955,
+        "point": [
+          -7.1705947467500035,
+          19.01454517474328,
+          1.5226763931845833
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 17,
+    "z": 2.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_5",
+        "mat": "Interior_Shadow",
+        "distance": 10.140995560129328,
+        "point": [
+          -9.62806984983251,
+          18.549999237060547,
+          2.2285875108711295
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.292944466283513,
+        "point": [
+          -7.517013148795627,
+          18.949060376461098,
+          2.351363350211765
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.373472697564818,
+        "point": [
+          -7.438015147596399,
+          18.963993671409284,
+          2.355957753525851
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.473960360864156,
+        "point": [
+          -7.33943699159421,
+          18.982628278066187,
+          2.3616909087925366
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.646073162915686,
+        "point": [
+          -7.17059474675,
+          19.01454517474328,
+          2.371510516345817
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 17,
+    "z": 3.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.367487315705121,
+        "point": [
+          -7.517013148795627,
+          18.949060376461098,
+          3.1764946461232055
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.44850385992358,
+        "point": [
+          -7.438015147596399,
+          18.963993671409284,
+          3.18649429339791
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.549600867613481,
+        "point": [
+          -7.33943699159421,
+          18.982628278066187,
+          3.1989724165662006
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Court_Left_Stone_Fascia_5",
+        "mat": "Stone_Grey_Light",
+        "distance": 12.706701851079362,
+        "point": [
+          -7.186250209808348,
+          19.011585762557505,
+          3.218362955083025
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.722757339773667,
+        "point": [
+          -7.170594746750002,
+          19.01454517474328,
+          3.2203446395070503
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 17,
+    "z": 4.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.496186805106133,
+        "point": [
+          -7.517013148795629,
+          18.949060376461098,
+          4.001625942034645
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.578046429863734,
+        "point": [
+          -7.438015147596399,
+          18.963993671409284,
+          4.017030833269969
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.680195480942686,
+        "point": [
+          -7.339436991594212,
+          18.982628278066187,
+          4.036253924339864
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.855153867184901,
+        "point": [
+          -7.1705947467500035,
+          19.01454517474328,
+          4.069178762668283
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.295955736007718,
+        "point": [
+          -6.745202293938226,
+          19.094958740531485,
+          4.152131804117602
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 23,
+    "z": 1.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_6",
+        "mat": "Interior_Shadow",
+        "distance": 10.175600372867546,
+        "point": [
+          -9.99149990081787,
+          20.084467925800624,
+          1.5460267481454442
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.0911016715161,
+        "point": [
+          -8.18720184242686,
+          20.727329177674847,
+          1.5264524678409424
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.17118471133391,
+        "point": [
+          -8.111767973833157,
+          20.75420584085826,
+          1.5256341087669307
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.272724236639977,
+        "point": [
+          -8.016123262712918,
+          20.78828351357977,
+          1.5245964884156789
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.441834703749448,
+        "point": [
+          -7.856830398920819,
+          20.845038665177803,
+          1.5228683686342088
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 23,
+    "z": 2.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_6",
+        "mat": "Interior_Shadow",
+        "distance": 10.19211351479249,
+        "point": [
+          -9.991499900817871,
+          20.084467925800624,
+          2.2392022154779943
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.110723322388225,
+        "point": [
+          -8.187201842426862,
+          20.727329177674847,
+          2.3501144381033083
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.190936322361097,
+        "point": [
+          -8.111767973833157,
+          20.754205840858262,
+          2.3547514424984772
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.29264062778145,
+        "point": [
+          -8.01612326271292,
+          20.78828351357977,
+          2.3606308300217123
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.46202553030918,
+        "point": [
+          -7.856830398920819,
+          20.845038665177803,
+          2.37042274078134
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 23,
+    "z": 3.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.18611247422449,
+        "point": [
+          -8.187201842426862,
+          20.727329177674847,
+          3.173776408365674
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.266824799454264,
+        "point": [
+          -8.111767973833157,
+          20.754205840858262,
+          3.1838687762300237
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.36916221332897,
+        "point": [
+          -8.016123262712918,
+          20.78828351357977,
+          3.196665171627746
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.539601535464474,
+        "point": [
+          -7.85683039892082,
+          20.845038665177803,
+          3.2179771129284704
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.97462012670898,
+        "point": [
+          -7.4502613259280785,
+          20.9898969395754,
+          3.272372369640158
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 23,
+    "z": 4.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.316245091746687,
+        "point": [
+          -8.187201842426864,
+          20.727329177674847,
+          3.9974383786280403
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.397819324838437,
+        "point": [
+          -8.111767973833157,
+          20.754205840858262,
+          4.01298610996157
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.501249575790276,
+        "point": [
+          -8.016123262712922,
+          20.78828351357977,
+          4.03269951323378
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.673508979199864,
+        "point": [
+          -7.856830398920819,
+          20.845038665177803,
+          4.065531485075601
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.113173031256357,
+        "point": [
+          -7.4502613259280785,
+          20.9898969395754,
+          4.149329742188203
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 29,
+    "z": 1.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_7",
+        "mat": "Interior_Shadow",
+        "distance": 10.845931319274124,
+        "point": [
+          -10.056750297546385,
+          21.865472888475995,
+          1.538601242748924
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.020294093355213,
+        "point": [
+          -9.02599716081851,
+          22.428083216045003,
+          1.5265382586334155
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.100258452996755,
+        "point": [
+          -8.95581142575768,
+          22.466392310615014,
+          1.525716869518014
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.200488178235458,
+        "point": [
+          -8.86783852167444,
+          22.51441007803175,
+          1.5246873157803267
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.370280066672203,
+        "point": [
+          -8.718810022594102,
+          22.59575348577618,
+          1.5229432236664078
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 29,
+    "z": 2.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_7",
+        "mat": "Interior_Shadow",
+        "distance": 10.863715387379067,
+        "point": [
+          -10.056750297546387,
+          21.865472888475995,
+          2.2812767793869884
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.04000376350754,
+        "point": [
+          -9.025997160818509,
+          22.428083216045003,
+          2.3496283284059944
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.120099240669187,
+        "point": [
+          -8.955811425757682,
+          22.466392310615014,
+          2.3542825016891085
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.220493312537728,
+        "point": [
+          -8.86783852167444,
+          22.514410078031748,
+          2.3601161819870686
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.390563608648165,
+        "point": [
+          -8.718810022594104,
+          22.59575348577618,
+          2.3699985955322314
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 29,
+    "z": 3.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.115728029537376,
+        "point": [
+          -9.025997160818513,
+          22.428083216045003,
+          3.172718398178573
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.19632725830405,
+        "point": [
+          -8.955811425757682,
+          22.466392310615014,
+          3.1828481338602033
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.29735274753386,
+        "point": [
+          -8.86783852167444,
+          22.51441007803175,
+          3.195545048193811
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.468492681876926,
+        "point": [
+          -8.718810022594102,
+          22.59575348577618,
+          3.2170539673980554
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.9021065661477,
+        "point": [
+          -8.341219446780691,
+          22.801851677453513,
+          3.2715506927732245
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 29,
+    "z": 4.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.246427857627548,
+        "point": [
+          -9.025997160818513,
+          22.428083216045003,
+          3.995808467951152
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.32789655996761,
+        "point": [
+          -8.95581142575768,
+          22.466392310615014,
+          4.011413766031298
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.430011873436031,
+        "point": [
+          -8.86783852167444,
+          22.51441007803175,
+          4.030973914400553
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.602997999765535,
+        "point": [
+          -8.718810022594104,
+          22.59575348577618,
+          4.064109339263879
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.041289544346405,
+        "point": [
+          -8.341219446780693,
+          22.801851677453513,
+          4.148063913262646
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 35,
+    "z": 1.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_8",
+        "mat": "Interior_Shadow",
+        "distance": 11.942451966260075,
+        "point": [
+          -10.121999740600584,
+          23.964792657021697,
+          1.527722992014297
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.063214002741441,
+        "point": [
+          -10.026397258317477,
+          24.038563286281345,
+          1.5264864261766207
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.143288303715066,
+        "point": [
+          -9.96300563158432,
+          24.087478754606213,
+          1.5256664901441983
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.24350337156928,
+        "point": [
+          -9.883669363927796,
+          24.14869773395031,
+          1.5246403188991642
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.413632026583947,
+        "point": [
+          -9.748985300949132,
+          24.252625245453203,
+          1.5228982541830445
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 35,
+    "z": 2.5,
+    "hits": [
+      {
+        "part": "part01",
+        "name": "Court_Left_Interior_8",
+        "mat": "Interior_Shadow",
+        "distance": 11.961911331388766,
+        "point": [
+          -10.121999740600586,
+          23.964792657021693,
+          2.3429153657607342
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.082870140908724,
+        "point": [
+          -10.026397258317477,
+          24.038563286281345,
+          2.349922022626053
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.163074917187124,
+        "point": [
+          -9.96300563158432,
+          24.087478754606213,
+          2.3545679624180584
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.263453278274774,
+        "point": [
+          -9.883669363927797,
+          24.148697733950307,
+          2.3603824767608783
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.433859145676493,
+        "point": [
+          -9.748985300949132,
+          24.252625245453203,
+          2.370253402619518
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 35,
+    "z": 3.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.158390599548532,
+        "point": [
+          -10.026397258317477,
+          24.03856328628135,
+          3.1733576190754853
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.239096672407877,
+        "point": [
+          -9.96300563158432,
+          24.087478754606217,
+          3.1834694346919186
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.340102419189359,
+        "point": [
+          -9.883669363927797,
+          24.148697733950307,
+          3.196124634622593
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.511573358805794,
+        "point": [
+          -9.748985300949132,
+          24.252625245453203,
+          3.217608551055992
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.945846862193436,
+        "point": [
+          -9.40787957183221,
+          24.515835819907856,
+          3.2720194948397605
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 35,
+    "z": 4.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.288745479637727,
+        "point": [
+          -10.026397258317475,
+          24.03856328628135,
+          3.9967932155249177
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.370316833996615,
+        "point": [
+          -9.96300563158432,
+          24.087478754606213,
+          4.01237090696578
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.472405503053235,
+        "point": [
+          -9.883669363927796,
+          24.14869773395031,
+          4.0318667924843075
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.64571484994812,
+        "point": [
+          -9.748985300949132,
+          24.252625245453203,
+          4.064963699492466
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.084644370100195,
+        "point": [
+          -9.407879571832208,
+          24.515835819907856,
+          4.148786123221407
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 41,
+    "z": 1.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.218585701946719,
+        "point": [
+          -11.18107876445861,
+          25.546245084278656,
+          1.526298820220071
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.298972358156915,
+        "point": [
+          -11.125845796258504,
+          25.60464603704855,
+          1.5254849184870134
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.401067165878638,
+        "point": [
+          -11.055697347073792,
+          25.678817974592725,
+          1.5244512252740055
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.570552539267165,
+        "point": [
+          -10.939245429801927,
+          25.801949197523175,
+          1.5227352136169445
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.003699666612444,
+        "point": [
+          -10.641633828094399,
+          26.116630838968263,
+          1.5183496698683228
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 41,
+    "z": 2.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.238051238087577,
+        "point": [
+          -11.18107876445861,
+          25.546245084278656,
+          2.3509850396716345
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.318565958985443,
+        "point": [
+          -11.125845796258504,
+          25.60464603704855,
+          2.3555967877823045
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.420823414841575,
+        "point": [
+          -11.055697347073792,
+          25.678817974592725,
+          2.3614539232674367
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.59057879686625,
+        "point": [
+          -10.939245429801927,
+          25.801949197523175,
+          2.371177226703108
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.024415974702421,
+        "point": [
+          -10.641633828094397,
+          26.116630838968263,
+          2.39602669227801
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 41,
+    "z": 3.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.312845908944187,
+        "point": [
+          -11.18107876445861,
+          25.546245084278656,
+          3.175671259123198
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.393852707537393,
+        "point": [
+          -11.125845796258504,
+          25.60464603704855,
+          3.1857086570775954
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.496735125048334,
+        "point": [
+          -11.05569734707379,
+          25.678817974592725,
+          3.1984566212608687
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.667527992345594,
+        "point": [
+          -10.939245429801927,
+          25.801949197523175,
+          3.219619239789272
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.1040166306382,
+        "point": [
+          -10.641633828094399,
+          26.116630838968263,
+          3.273703714687697
+        ]
+      }
+    ]
+  },
+  {
+    "ang": 41,
+    "z": 4.5,
+    "hits": [
+      {
+        "part": "part07",
+        "name": "Panorama_Original_Canvas_2247",
+        "mat": "Photo_IMG_2247",
+        "distance": 12.441971924492394,
+        "point": [
+          -11.18107876445861,
+          25.546245084278656,
+          4.000357478574761
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.523828249280598,
+        "point": [
+          -11.125845796258504,
+          25.604646037048546,
+          4.015820526372886
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 12.627789604735003,
+        "point": [
+          -11.05569734707379,
+          25.678817974592725,
+          4.0354593192543
+        ]
+      },
+      {
+        "part": "part07",
+        "name": "Panorama_Upper_Envelope",
+        "mat": "Backstage",
+        "distance": 12.800373593483895,
+        "point": [
+          -10.939245429801927,
+          25.801949197523175,
+          4.068061252875435
+        ]
+      },
+      {
+        "part": "part01",
+        "name": "Context_Rotunda_Base",
+        "mat": "Stone_Grey",
+        "distance": 13.241439730683869,
+        "point": [
+          -10.641633828094399,
+          26.116630838968263,
+          4.151380737097384
+        ]
+      }
+    ]
+  }
+]

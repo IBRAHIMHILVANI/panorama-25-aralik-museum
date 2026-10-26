@@ -1,0 +1,80 @@
+{
+  "navigation": {
+    "passed": true,
+    "colliders": 1414,
+    "tests": [
+      {
+        "test": "leave_tram_through_open_door",
+        "passed": true,
+        "end": [
+          137.88172189444938,
+          -172.85392889583287,
+          0.2650100046290036
+        ]
+      },
+      {
+        "test": "tram_platform_to_museum_frontage",
+        "passed": true,
+        "end": [
+          -0.04214249604850666,
+          -25.04248383884559,
+          0.05000997615762148
+        ]
+      },
+      {
+        "test": "exterior_entrance_stair_ascent",
+        "passed": true,
+        "end": [
+          8.33191091530897e-9,
+          11.941179507143818,
+          1.650009999999991
+        ]
+      },
+      {
+        "test": "exterior_entrance_stair_descent",
+        "passed": true,
+        "end": [
+          3.286210955855064e-12,
+          -24.939261760127362,
+          0.050009976158133074
+        ]
+      },
+      {
+        "test": "museum_frontage_return_to_station",
+        "passed": true,
+        "end": [
+          137.9178260967527,
+          -172.78798842712706,
+          0.2650100095362324
+        ]
+      },
+      {
+        "test": "board_tram_from_platform",
+        "passed": true,
+        "end": [
+          135.37010247486035,
+          -173.95257888856975,
+          0.8950100047683678
+        ]
+      }
+    ],
+    "failures": [],
+    "glb_sha256": {
+      "part00": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86",
+      "part01": "32b512574e383cc30d9ad59ddc34bc678f371e020aa97c877cbb646278e7a86c",
+      "part02": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1",
+      "part03": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4",
+      "part04": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d",
+      "part05": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66",
+      "part06": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441",
+      "part07": "490f82843969b324141f53428329a482968e912a50a3f323bbc20d63a418076a"
+    }
+  },
+  "clearance": {
+    "passed": true,
+    "samples": 1834,
+    "obstructions": [],
+    "scope": "All visible part00 and part01 geometry and colliders; 0.2–1.8m body envelope over the actual exported walking surfaces",
+    "glb_sha256": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86"
+  }
+}

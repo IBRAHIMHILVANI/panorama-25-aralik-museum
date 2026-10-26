@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "samples": 480,
+  "obstructions": [],
+  "scope": "All visible part07 geometry and colliders; 0.2–1.8m body envelope over the actual exported walking surfaces",
+  "glb_sha256": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8"
+}

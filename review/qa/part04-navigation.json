@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "colliders": 1414,
+  "tests": [
+    {
+      "test": "continuous_portrait_passage",
+      "passed": true,
+      "end": [
+        -14.457176741844203,
+        57.66834430779252,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "enter_and_leave_red_room",
+      "passed": true,
+      "end": [
+        8.058785666751074,
+        55.832992988724186,
+        -2.5499898092651363
+      ]
+    },
+    {
+      "test": "descend_first_kastel_stair",
+      "passed": true,
+      "end": [
+        5.009773624267111,
+        61.89557627093347,
+        -3.2999898092651123
+      ]
+    },
+    {
+      "test": "enter_stone_alcove",
+      "passed": true,
+      "end": [
+        0.2661810643254031,
+        63.0629999459497,
+        -3.2999898092651394
+      ]
+    },
+    {
+      "test": "return_via_access_ramp",
+      "passed": true,
+      "end": [
+        -1.7342453077310878,
+        58.494053415507196,
+        -2.5499898092650892
+      ]
+    },
+    {
+      "test": "third_stair_roundtrip",
+      "passed": true,
+      "end": [
+        -6.9229760974274965,
+        58.747073372122344,
+        -2.5499898092651483
+      ]
+    },
+    {
+      "test": "correspondence_exhibits_and_reading_kiosk",
+      "passed": true,
+      "end": [
+        -14.719369299200567,
+        58.481466867059,
+        -2.5499898092651367
+      ]
+    }
+  ],
+  "failures": [],
+  "glb_sha256": {
+    "part00": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86",
+    "part01": "e1bafd6e7e57e6c37327f6317f793e0ebdfbfba2a9a43d82d173a850c2f383a5",
+    "part02": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1",
+    "part03": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4",
+    "part04": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d",
+    "part05": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66",
+    "part06": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441",
+    "part07": "490f82843969b324141f53428329a482968e912a50a3f323bbc20d63a418076a"
+  }
+}

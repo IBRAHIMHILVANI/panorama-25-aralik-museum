@@ -1,0 +1,40 @@
+{
+  "sessionId": "3f1ae6117b134ece9c6bfa848535d88f",
+  "state": "complete",
+  "path": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_2026-10-26_3f1ae611.webm",
+  "stem": "Gaziantep_Full_Journey_2026-10-26_3f1ae611",
+  "bytes": 151258967,
+  "chunks": 112,
+  "started_at": 1793004727.9569302,
+  "updated_at": 1793005305.03274,
+  "request": {
+    "route_sha256": "cf0d590046b39877bbd5fc9a3d9bda91ea24e9903b2399951cb0fb1ce8d11ffb",
+    "duration_seconds": 470.7083333333333,
+    "fps": 30,
+    "width": 1280,
+    "height": 720,
+    "mimeType": "video/webm;codecs=vp9"
+  },
+  "finished_at": 1793005305.0798569,
+  "client_metadata": {
+    "sessionId": "3f1ae6117b134ece9c6bfa848535d88f",
+    "chunks": 112,
+    "playback_seconds": 470.7083333333333,
+    "frames_rendered": 22910,
+    "uploaded_bytes": 151258967,
+    "completed_route": true,
+    "stop_reason": "completed",
+    "wall_seconds": 575.457599999994,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "mimeType": "video/webm;codecs=vp9"
+  },
+  "complete": true,
+  "delivery_status": "QA_CAPTURE_REJECTED_PENDING_GEOMETRY_FIXES",
+  "issues_to_fix": [
+    "Part06 end opening reveals outdoor environment",
+    "Part07 covered entrance/stair-foot enclosure incomplete",
+    "Part01 generic shop interior backings intrude into panorama mural"
+  ]
+}

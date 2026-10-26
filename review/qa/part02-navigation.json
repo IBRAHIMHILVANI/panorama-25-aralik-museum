@@ -1,0 +1,51 @@
+{
+  "colliders": 1540,
+  "passed": true,
+  "tests": [
+    {
+      "test": "courtyard_to_atrium_and_stair_top",
+      "passed": true,
+      "end": [
+        41.054974086677845,
+        13.8189769152173,
+        1.6500100000000124
+      ]
+    },
+    {
+      "test": "descend_stair_to_lower_map_hall",
+      "passed": true,
+      "end": [
+        41.10020651646028,
+        0.9013808771127841,
+        -2.5499898098232645
+      ]
+    },
+    {
+      "test": "walk_across_map_hall",
+      "passed": true,
+      "end": [
+        33.028324555915056,
+        7.960640671537896,
+        -2.5499898092650968
+      ]
+    },
+    {
+      "test": "return_up_stair",
+      "passed": true,
+      "end": [
+        41.099786695826154,
+        13.748145927695111,
+        1.6500100000000355
+      ]
+    },
+    {
+      "test": "balcony_glass_prevents_fall",
+      "passed": true,
+      "end": [
+        33,
+        14.010010016948033,
+        1.6597444618319168
+      ]
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "passed": true,
+  "panorama_canvas_radius_m": 19.416903057211233,
+  "minimum_storefront_radius_m": 20.330413473099824,
+  "objects": [
+    {
+      "object": "Court_Left_Glass_0",
+      "minimum_radius_m": 20.570387647022976
+    },
+    {
+      "object": "Court_Left_Interior_0",
+      "minimum_radius_m": 20.330413473099824
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_0",
+      "minimum_radius_m": 20.430050831341497
+    },
+    {
+      "object": "Court_Left_Glass_1",
+      "minimum_radius_m": 20.571519146626
+    },
+    {
+      "object": "Court_Left_Interior_1",
+      "minimum_radius_m": 20.331537079129063
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_1",
+      "minimum_radius_m": 20.431850748280244
+    },
+    {
+      "object": "Court_Left_Glass_2",
+      "minimum_radius_m": 20.571201956045996
+    },
+    {
+      "object": "Court_Left_Interior_2",
+      "minimum_radius_m": 20.331615466536533
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_2",
+      "minimum_radius_m": 20.429988909150005
+    },
+    {
+      "object": "Court_Left_Glass_3",
+      "minimum_radius_m": 20.57119509723251
+    },
+    {
+      "object": "Court_Left_Interior_3",
+      "minimum_radius_m": 20.33321831221267
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_3",
+      "minimum_radius_m": 20.429142189461274
+    },
+    {
+      "object": "Court_Left_Glass_4",
+      "minimum_radius_m": 20.56952929252412
+    },
+    {
+      "object": "Court_Left_Interior_4",
+      "minimum_radius_m": 20.33440148686462
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_4",
+      "minimum_radius_m": 20.4273557666002
+    },
+    {
+      "object": "Court_Left_Glass_5",
+      "minimum_radius_m": 20.56614205480409
+    },
+    {
+      "object": "Court_Left_Interior_5",
+      "minimum_radius_m": 20.335149366419596
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_5",
+      "minimum_radius_m": 20.424594229698652
+    },
+    {
+      "object": "Court_Left_Glass_6",
+      "minimum_radius_m": 20.560936468324602
+    },
+    {
+      "object": "Court_Left_Interior_6",
+      "minimum_radius_m": 20.33543771630255
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_6",
+      "minimum_radius_m": 20.420802775739386
+    },
+    {
+      "object": "Court_Left_Glass_7",
+      "minimum_radius_m": 20.63291643375943
+    },
+    {
+      "object": "Court_Left_Interior_7",
+      "minimum_radius_m": 20.41420291273945
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_7",
+      "minimum_radius_m": 20.49498610788746
+    },
+    {
+      "object": "Court_Left_Glass_8",
+      "minimum_radius_m": 21.21019952758578
+    },
+    {
+      "object": "Court_Left_Interior_8",
+      "minimum_radius_m": 20.998245736251395
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_8",
+      "minimum_radius_m": 21.074760947635916
+    },
+    {
+      "object": "Court_Left_Glass_9",
+      "minimum_radius_m": 21.868731160323406
+    },
+    {
+      "object": "Court_Left_Interior_9",
+      "minimum_radius_m": 21.663944298361272
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_9",
+      "minimum_radius_m": 21.736148636833065
+    },
+    {
+      "object": "Court_Left_Glass_10",
+      "minimum_radius_m": 22.601410492489176
+    },
+    {
+      "object": "Court_Left_Interior_10",
+      "minimum_radius_m": 22.404020983966245
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_10",
+      "minimum_radius_m": 22.471944313966244
+    },
+    {
+      "object": "Court_Left_Glass_11",
+      "minimum_radius_m": 23.401274005115614
+    },
+    {
+      "object": "Court_Left_Interior_11",
+      "minimum_radius_m": 23.211362412889507
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_11",
+      "minimum_radius_m": 23.275092267539986
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_12",
+      "minimum_radius_m": 24.138870603240733
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_13",
+      "minimum_radius_m": 25.057009858770055
+    },
+    {
+      "object": "Court_Left_Glass_14",
+      "minimum_radius_m": 26.139784280861992
+    },
+    {
+      "object": "Court_Left_Interior_14",
+      "minimum_radius_m": 25.971715427556948
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_14",
+      "minimum_radius_m": 26.02375697799992
+    },
+    {
+      "object": "Court_Left_Glass_15",
+      "minimum_radius_m": 27.14660663070984
+    },
+    {
+      "object": "Court_Left_Interior_15",
+      "minimum_radius_m": 26.98538959441756
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_15",
+      "minimum_radius_m": 27.033897731598
+    },
+    {
+      "object": "Court_Left_Glass_16",
+      "minimum_radius_m": 28.192227581374258
+    },
+    {
+      "object": "Court_Left_Interior_16",
+      "minimum_radius_m": 28.03758220674528
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_16",
+      "minimum_radius_m": 28.0827498831578
+    },
+    {
+      "object": "Court_Left_Glass_17",
+      "minimum_radius_m": 29.272489739728318
+    },
+    {
+      "object": "Court_Left_Interior_17",
+      "minimum_radius_m": 29.12411879460904
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_17",
+      "minimum_radius_m": 29.16613739531684
+    },
+    {
+      "object": "Court_Left_Glass_18",
+      "minimum_radius_m": 30.383698429420985
+    },
+    {
+      "object": "Court_Left_Interior_18",
+      "minimum_radius_m": 30.241297760678183
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_18",
+      "minimum_radius_m": 30.280353618311647
+    },
+    {
+      "object": "Court_Left_Glass_19",
+      "minimum_radius_m": 31.52258111358426
+    },
+    {
+      "object": "Court_Left_Interior_19",
+      "minimum_radius_m": 31.38584712991668
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_19",
+      "minimum_radius_m": 31.422119200692034
+    },
+    {
+      "object": "Court_Left_Glass_20",
+      "minimum_radius_m": 32.686245195800616
+    },
+    {
+      "object": "Court_Left_Interior_20",
+      "minimum_radius_m": 32.5548802025134
+    },
+    {
+      "object": "Court_Left_Stone_Fascia_20",
+      "minimum_radius_m": 32.58853862940158
+    },
+    {
+      "object": "Court_Left_Mullions__Metal_Bronze",
+      "minimum_radius_m": 20.566642121463232
+    }
+  ]
+}

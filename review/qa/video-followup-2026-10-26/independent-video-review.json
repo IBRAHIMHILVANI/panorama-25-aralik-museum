@@ -1,0 +1,59 @@
+{
+  "reviewed_at": "2026-10-26",
+  "video": "Gaziantep_Full_Journey_2026-10-26_3f1ae611.webm",
+  "scope": "Bounded read-only visual inspection for additional unintended interior sky/holes or massive cross-room occluders. No UI, model or code edits.",
+  "source_time_basis": "Seconds in the first recorded WebM, not route-clock seconds; these differ in the capture.",
+  "supplied_frames_reviewed_seconds": [
+    200,
+    250,
+    300,
+    350,
+    400,
+    450,
+    500,
+    550
+  ],
+  "extra_frames_reviewed_seconds": [
+    270,
+    320,
+    360,
+    420,
+    440,
+    460
+  ],
+  "new_confirmed_actionable_findings": [],
+  "conclusion": "No additional independent major hole or massive occluder confirmed in these 14 sampled frames beyond the existing fixes.",
+  "existing_findings_not_duplicated": [
+    {
+      "frame": "independent-460s.jpg",
+      "observation": "Large exterior sky/building view through later-gallery end opening. This is the known Part06 end enclosure issue."
+    },
+    {
+      "frame": "first-review-550s.jpg",
+      "observation": "Black rectangles behind hospital diorama. These are the known Court_Left_Interior5..8 backing intrusions already being trimmed."
+    },
+    {
+      "observation": "Known Part07 stair-foot/entry enclosure issue is already assigned; not raised again."
+    }
+  ],
+  "uncertain_small_detail": [
+    {
+      "frame": "first-review-450s.jpg",
+      "area": "Upper-left edge of black ceiling",
+      "observation": "Narrow pale blue/grey sliver at ceiling edge. Could be a roof seam in the same Part06 enclosure area; no separate cause was established from the bounded frame review.",
+      "recommendation": "Check this view during existing enclosure recheck; not a new broad repair request."
+    }
+  ],
+  "negative_checks": [
+    "Cinema frame 300 s and atrium frame 270 s show no major interior sky opening or massive foreign occluder.",
+    "Uniform/exhibit frame 360 s, arched gallery frame 400 s, documents frame 420 s and gallery frame 440 s show no new confirmed major hole.",
+    "Close wall framing at 350 s is not enough evidence of a cross-room occluder.",
+    "Outdoor sky at 200/250 s was not classified as an indoor enclosure bug.",
+    "Panorama roof/canopy mass at 500 s was not classified as foreign geometry without evidence."
+  ],
+  "limitations": [
+    "Not every frame inspected.",
+    "No claim that repaired second capture is verified.",
+    "No new geometry edits or re-render performed."
+  ]
+}

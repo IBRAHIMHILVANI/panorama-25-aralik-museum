@@ -1,0 +1,227 @@
+{
+  "generated_at": "2026-10-26T08:05:06.976Z",
+  "scope": "Integrated exported part00 + part02 + part08: stair bottom, around lower parapet, cinema doorway, front cross aisle, central aisle and return. No surveyed dimensional accuracy claim.",
+  "user_observation": "Cinema beside the stair on the right; interpreted from map-hall viewpoint.",
+  "estimated_geometry": "Origin [44.5,0.11,-4.2], yaw -pi/2, 0.8m doorway, room dimensions and connector are estimates.",
+  "parameters": {
+    "capsule_radius_m": 0.3,
+    "eye_height_m": 1.65,
+    "body_clearance_range_m": [
+      0.2,
+      1.8
+    ],
+    "body_penetration_tolerance_m": 0.01,
+    "route_spacing_m": 0.08,
+    "floor_height_m": -4.2
+  },
+  "inputs": [
+    {
+      "part": "part00",
+      "bytes": 44952880,
+      "mtime": "2026-10-26T08:00:44.783Z",
+      "sha256": "501137a583ba35decc54b311ed0ae6713efab4f6a13323be2680fbe7544a29e8"
+    },
+    {
+      "part": "part02",
+      "bytes": 20023020,
+      "mtime": "2026-10-26T07:49:49.725Z",
+      "sha256": "24d1f26c654365833d8747784210206ed09b73f1d3244b5a409a086405c3114b"
+    },
+    {
+      "part": "part08",
+      "bytes": 5108292,
+      "mtime": "2026-10-26T07:52:42.098Z",
+      "sha256": "7da3c3f4b5c7ae2d53470b315df74dbbcc36ee7e2e04e77e25606f04e745680f"
+    }
+  ],
+  "passed": true,
+  "tests": [
+    {
+      "name": "stair_bottom_to_cinema_rear",
+      "passed": true,
+      "max_floor_error_m": 0.000010190734863080309,
+      "waypoints": [
+        {
+          "target": [
+            42.9,
+            0.25
+          ],
+          "reached": true,
+          "end": [
+            42.841666666666434,
+            0.25,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            43.5,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            43.48582628586014,
+            2.353644859732915,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            44.5,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            44.43816534526799,
+            2.397173705003881,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            45.3,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            45.24487891105652,
+            2.399819224264828,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            45.3,
+            0.11
+          ],
+          "reached": true,
+          "end": [
+            45.298704905525234,
+            0.16380032002962341,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            48,
+            0.11
+          ],
+          "reached": true,
+          "end": [
+            47.93818146130341,
+            0.11123120838313623,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            51.5,
+            0.11
+          ],
+          "reached": true,
+          "end": [
+            51.43991484433862,
+            0.11002263770490836,
+            -2.5499898092651367
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cinema_rear_to_stair_bottom",
+      "passed": true,
+      "max_floor_error_m": 0.000010190734863080309,
+      "waypoints": [
+        {
+          "target": [
+            48,
+            0.11
+          ],
+          "reached": true,
+          "end": [
+            48.05336931102236,
+            0.11000505040812096,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            45.3,
+            0.11
+          ],
+          "reached": true,
+          "end": [
+            45.3583693110269,
+            0.11000010706476654,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            45.3,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            45.301377909073246,
+            2.345940570914629,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            44.5,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            44.55141569266489,
+            2.396531595193699,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            43.5,
+            2.4
+          ],
+          "reached": true,
+          "end": [
+            43.561461221851864,
+            2.3997972599541093,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            42.9,
+            0.25
+          ],
+          "reached": true,
+          "end": [
+            42.91449769630314,
+            0.2971146732072136,
+            -2.5499898092651367
+          ]
+        },
+        {
+          "target": [
+            41.1,
+            0.25
+          ],
+          "reached": true,
+          "end": [
+            41.155090707177955,
+            0.25143046787589246,
+            -2.5499898092651367
+          ]
+        }
+      ]
+    }
+  ],
+  "body_samples": 325,
+  "obstructed_samples": 0,
+  "obstruction_objects": [],
+  "obstructions": [],
+  "floor_failures": []
+}

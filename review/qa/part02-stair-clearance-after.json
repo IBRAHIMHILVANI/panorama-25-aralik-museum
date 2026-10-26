@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "scope": "All visible geometry plus collision helpers; torso and head from 0.2m to 1.8m above the ramp surface",
+  "columns": [
+    {
+      "name": "Atrium_Column_0",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 0.18291854858398438
+    },
+    {
+      "name": "Atrium_Column_1",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 6.734205927209482
+    },
+    {
+      "name": "Atrium_Column_2",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 13.822818756103516
+    },
+    {
+      "name": "Atrium_Column_3",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 13.822818756103516
+    },
+    {
+      "name": "Atrium_Column_4",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 6.470428528735295
+    },
+    {
+      "name": "Atrium_Column_5",
+      "intersects_stair_envelope": false,
+      "horizontal_clearance_m": 0.18291854858398438
+    }
+  ],
+  "standing_clearance_samples": 81,
+  "obstructions": []
+}

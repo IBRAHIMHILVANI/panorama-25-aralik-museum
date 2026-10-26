@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "waypoints_requested": 326,
+  "waypoints_reached": 326,
+  "failed_waypoints": [],
+  "floor_samples": 9415,
+  "floor_failures": [],
+  "body_clearance_samples": 3732,
+  "body_failures": [],
+  "glb_sha256": {
+    "part00": "f2d626561db447e30c427e67dbe2e59ee01516905c4a7eba4280a5e11fc0ec24",
+    "part01": "17133d6d7332d156512e02874d560ee086f397035f3b0ddda23b179a32e1b12b",
+    "part02": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0",
+    "part03": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b",
+    "part04": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c",
+    "part05": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b",
+    "part06": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a",
+    "part07": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8",
+    "part08": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+  },
+  "duration_seconds": 470.7083333333333,
+  "distance_m": 642.8886833430657,
+  "sample_count": 9415,
+  "pauses": 25
+}

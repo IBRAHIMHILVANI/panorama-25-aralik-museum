@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-25",
+  "reviewed_views": [
+    "archives",
+    "documents",
+    "relief",
+    "archivecases",
+    "uniforms",
+    "uniformdetail",
+    "hats",
+    "menswear",
+    "artillery",
+    "womenswear",
+    "sculpture",
+    "return"
+  ],
+  "keyboard_controls_exercised": [
+    "W",
+    "S",
+    "F",
+    "E",
+    "Q"
+  ],
+  "observed_fps_in_samples": [
+    67,
+    165
+  ],
+  "performance_note": "Observed desktop samples; the lower values occurred with two simultaneous review tabs. Not a sustained benchmark or promise for other hardware.",
+  "photo_figures": "Original source faces with estimated rounded depth/back; not full 360-degree reconstructions",
+  "screenshots": [
+    "part03-contact-review.jpg",
+    "part03-keyboard-walk.png",
+    "part03-keyboard-fly-up.png",
+    "part03-hats-final.png",
+    "part03-artillery-final.png",
+    "part03-menswear-final.png",
+    "part03-womenswear-final.png",
+    "part03-user-handoff.png"
+  ],
+  "glb_sha256": "2dccd626d8f42b435c73e7fa193b3dc54183466c952cbf105400b9ed6d440b99"
+}

@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "colliders": 1555,
+  "tests": [
+    {
+      "test": "leave_tram_through_open_door",
+      "passed": true,
+      "end": [
+        137.88168096291835,
+        -172.8539467899631,
+        0.26501000461986585
+      ]
+    },
+    {
+      "test": "tram_platform_to_museum_frontage",
+      "passed": true,
+      "end": [
+        -0.042522278833780125,
+        -25.04287592626149,
+        0.05000997615761156
+      ]
+    },
+    {
+      "test": "exterior_entrance_stair_ascent",
+      "passed": true,
+      "end": [
+        8.380648301600855e-9,
+        11.94107607822482,
+        1.650009999999992
+      ]
+    },
+    {
+      "test": "exterior_entrance_stair_descent",
+      "passed": true,
+      "end": [
+        3.312611299955407e-12,
+        -24.939125364539734,
+        0.0500099761581352
+      ]
+    },
+    {
+      "test": "museum_frontage_return_to_station",
+      "passed": true,
+      "end": [
+        137.9137610167628,
+        -172.7711673805544,
+        0.26501000953622783
+      ]
+    },
+    {
+      "test": "board_tram_from_platform",
+      "passed": true,
+      "end": [
+        135.37028854569104,
+        -173.952497499763,
+        0.8950100047683678
+      ]
+    },
+    {
+      "test": "tram_interior_full_aisle_forward",
+      "passed": true,
+      "end": [
+        144.09586295631806,
+        -194.96708172366954,
+        0.8950100047683716
+      ]
+    },
+    {
+      "test": "tram_interior_full_aisle_return",
+      "passed": true,
+      "end": [
+        134.43738930037665,
+        -172.8869692377797,
+        0.8950100047683714
+      ]
+    }
+  ],
+  "failures": [],
+  "glb_sha256": {
+    "part00": "f2d626561db447e30c427e67dbe2e59ee01516905c4a7eba4280a5e11fc0ec24",
+    "part01": "5325cd90574482e7aba3010cc78dc23eed9b1bf7cb1d5da59fa7a25c249944ce",
+    "part02": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0",
+    "part03": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b",
+    "part04": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c",
+    "part05": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b",
+    "part06": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a",
+    "part07": "a0a00a2687c952941729ddac8491efedee9d64e7ee24b98c8e05f7ff48009f02",
+    "part08": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+  }
+}

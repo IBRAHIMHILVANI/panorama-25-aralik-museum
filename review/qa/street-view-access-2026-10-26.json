@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-26T05:49:28.179397+00:00",
+  "requested_task": "Traverse Google Maps Street View from and around 15 Temmuz Demokrasi Meydani tram platforms toward Panorama 25 Aralik Museum; inspect 360-degree street/building views.",
+  "status": "BLOCKED_BEFORE_BROWSER_INITIALIZATION",
+  "tool": "mcp__cua_repl",
+  "error": "failed to start Node runtime: No such file or directory (os error 2)",
+  "reset_attempted": true,
+  "reset_retry_result": "SAME_ERROR",
+  "original_workspace_exists": false,
+  "ssd_mount_exists": false,
+  "active_recovery_workspace": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project",
+  "runtime_binary": "/Applications/ChatGPT.app/Contents/Resources/cua_node/bin/node",
+  "runtime_check": "--version succeeded: v24.21.0 from recovery workspace; subprocess spawn failed from missing original workspace",
+  "root_cause_assessment": "Missing original workspace is a likely cause; tool launcher internals were not inspected or modified.",
+  "queued_browser_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.0661293,37.3769643&heading=90&pitch=0&fov=85",
+  "queued_is_not_verified_open": true,
+  "new_streetview_captures": 0,
+  "new_facades_verified": 0,
+  "model_changes_this_attempt": false,
+  "next_recovery_step": "Restore the real SSD connection and verify original workspace availability, then retry the supported browser tool."
+}

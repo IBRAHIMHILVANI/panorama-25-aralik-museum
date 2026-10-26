@@ -1,0 +1,62 @@
+{
+  "navigation": {
+    "passed": true,
+    "colliders": 1473,
+    "tests": [
+      {
+        "test": "gallery_to_panorama_stair",
+        "passed": true,
+        "end": [
+          -31.002721204561492,
+          18.023673912828677,
+          -2.527787387803069
+        ]
+      },
+      {
+        "test": "curved_panorama_ascent",
+        "passed": true,
+        "end": [
+          -28.51186338307573,
+          19.9002246037835,
+          1.6500099943592972
+        ]
+      },
+      {
+        "test": "complete_panorama_viewing_ring",
+        "passed": true,
+        "end": [
+          -28.48675121104047,
+          19.96731987664599,
+          1.6500099983214218
+        ]
+      },
+      {
+        "test": "panorama_return_descent",
+        "passed": true,
+        "end": [
+          -42.087156965341336,
+          31.650228374909457,
+          -2.549989809265136
+        ]
+      }
+    ],
+    "failures": [],
+    "glb_sha256": {
+      "part00": "b0a47915f49729a6b9cae973a7422c238ae4e4b858879064d188b9597e8f4d3a",
+      "part01": "32b512574e383cc30d9ad59ddc34bc678f371e020aa97c877cbb646278e7a86c",
+      "part02": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1",
+      "part03": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4",
+      "part04": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d",
+      "part05": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66",
+      "part06": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441",
+      "part07": "89b587c62d641a1a29fa91fe0ba944bbb7ec450adbeb6f3e7545788474697307"
+    }
+  },
+  "clearance": {
+    "passed": true,
+    "samples": 478,
+    "obstructions": [],
+    "scope": "All visible part07 geometry and colliders; 0.2–1.8m body envelope over the actual exported walking surfaces",
+    "glb_sha256": "89b587c62d641a1a29fa91fe0ba944bbb7ec450adbeb6f3e7545788474697307"
+  }
+}

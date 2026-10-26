@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "rows": [
+    {
+      "ang": 17,
+      "z": 1.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 17,
+      "z": 2.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 23,
+      "z": 1.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 23,
+      "z": 2.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 29,
+      "z": 1.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 29,
+      "z": 2.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 35,
+      "z": 1.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    },
+    {
+      "ang": 35,
+      "z": 2.5,
+      "first": "Panorama_Original_Canvas_2247",
+      "passed": true
+    }
+  ]
+}

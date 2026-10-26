@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "colliders": 1559,
+  "tests": [
+    {
+      "test": "gallery_to_panorama_stair",
+      "passed": true,
+      "end": [
+        -31.0030516795502,
+        18.024272141268575,
+        -2.5278595100830326
+      ]
+    },
+    {
+      "test": "curved_panorama_ascent",
+      "passed": true,
+      "end": [
+        -28.51185098502824,
+        19.899518196113583,
+        1.650010000000003
+      ]
+    },
+    {
+      "test": "complete_panorama_viewing_ring",
+      "passed": true,
+      "end": [
+        -28.47214667660176,
+        19.971840927161004,
+        1.6500100000000306
+      ]
+    },
+    {
+      "test": "panorama_return_descent",
+      "passed": true,
+      "end": [
+        -42.087131303085116,
+        31.649961425097313,
+        -2.5499898149300226
+      ]
+    }
+  ],
+  "failures": [],
+  "glb_sha256": {
+    "part00": "f2d626561db447e30c427e67dbe2e59ee01516905c4a7eba4280a5e11fc0ec24",
+    "part01": "17133d6d7332d156512e02874d560ee086f397035f3b0ddda23b179a32e1b12b",
+    "part02": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0",
+    "part03": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b",
+    "part04": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c",
+    "part05": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b",
+    "part06": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a",
+    "part07": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8",
+    "part08": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+  }
+}

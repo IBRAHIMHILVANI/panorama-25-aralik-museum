@@ -1,0 +1,62 @@
+{
+  "navigation": {
+    "passed": true,
+    "colliders": 1414,
+    "tests": [
+      {
+        "test": "diorama_gallery_entry",
+        "passed": true,
+        "end": [
+          -34.96854056744847,
+          44.597964543212754,
+          -2.5499898092651367
+        ]
+      },
+      {
+        "test": "all_three_dioramas",
+        "passed": true,
+        "end": [
+          -40.39745888789335,
+          33.420521416101806,
+          -2.5499898144167594
+        ]
+      },
+      {
+        "test": "projection_transition",
+        "passed": true,
+        "end": [
+          -42.063110824700864,
+          31.75959053179568,
+          -2.54998981275847
+        ]
+      },
+      {
+        "test": "return_to_history",
+        "passed": true,
+        "end": [
+          -35.41841170217615,
+          49.042406945938936,
+          -2.5499898092651363
+        ]
+      }
+    ],
+    "failures": [],
+    "glb_sha256": {
+      "part00": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86",
+      "part01": "e1bafd6e7e57e6c37327f6317f793e0ebdfbfba2a9a43d82d173a850c2f383a5",
+      "part02": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1",
+      "part03": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4",
+      "part04": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d",
+      "part05": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66",
+      "part06": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441",
+      "part07": "490f82843969b324141f53428329a482968e912a50a3f323bbc20d63a418076a"
+    }
+  },
+  "clearance": {
+    "passed": true,
+    "samples": 225,
+    "obstructions": [],
+    "scope": "All visible part06 geometry and colliders; 0.2–1.8m body envelope over the actual exported walking surfaces",
+    "glb_sha256": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441"
+  }
+}

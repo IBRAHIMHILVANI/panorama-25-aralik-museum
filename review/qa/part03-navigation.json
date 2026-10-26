@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "colliders": 1414,
+  "tests": [
+    {
+      "test": "map_hall_to_archive_documents",
+      "passed": true,
+      "end": [
+        31.793128248344665,
+        37.19174777347034,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "archives_to_round_menswear",
+      "passed": true,
+      "end": [
+        23.613150511556988,
+        42.52655064700622,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "inner_route_both_round_cases_and_sculpture",
+      "passed": true,
+      "end": [
+        11.645020259020194,
+        53.957221800496015,
+        -2.549989809519865
+      ]
+    },
+    {
+      "test": "outer_route_cannon_and_uniforms",
+      "passed": true,
+      "end": [
+        29.74674942560925,
+        41.779733624484464,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "return_from_uniforms_to_map_hall",
+      "passed": true,
+      "end": [
+        33.00015998778299,
+        8.047106465786614,
+        -2.5499898092651367
+      ]
+    },
+    {
+      "test": "uniform_case_glass_blocks_entry",
+      "passed": true,
+      "end": [
+        30.42404149652836,
+        43.80182387037498,
+        -2.549999158473763
+      ]
+    },
+    {
+      "test": "round_case_glass_blocks_entry",
+      "passed": true,
+      "end": [
+        15.893789550697731,
+        51.598959178822405,
+        -2.549999158473738
+      ]
+    }
+  ],
+  "failurePoints": [],
+  "glb_sha256": {
+    "part00": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86",
+    "part01": "e1bafd6e7e57e6c37327f6317f793e0ebdfbfba2a9a43d82d173a850c2f383a5",
+    "part02": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1",
+    "part03": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4",
+    "part04": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d",
+    "part05": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66",
+    "part06": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441",
+    "part07": "490f82843969b324141f53428329a482968e912a50a3f323bbc20d63a418076a"
+  }
+}

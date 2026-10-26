@@ -1,0 +1,51 @@
+{
+  "colliders": 236,
+  "passed": true,
+  "tests": [
+    {
+      "test": "street_to_courtyard_through_steps_and_portal",
+      "passed": true,
+      "end": [
+        -5.18850339722612e-7,
+        14.941800368205984,
+        1.6500099999999924
+      ]
+    },
+    {
+      "test": "courtyard_through_open_door",
+      "passed": true,
+      "end": [
+        23.15070427736454,
+        11.121238409230237,
+        1.6500099999999924
+      ]
+    },
+    {
+      "test": "right_passage_wall_blocks_player",
+      "passed": true,
+      "end": [
+        3.8899900751720047,
+        -8,
+        1.6500005989229092
+      ]
+    },
+    {
+      "test": "left_glazing_blocks_player",
+      "passed": true,
+      "end": [
+        -3.8424899416576004,
+        -7.999980667986345,
+        1.6500005989229114
+      ]
+    },
+    {
+      "test": "return_through_portal_and_down_steps",
+      "passed": true,
+      "end": [
+        -2.8640245385177096e-7,
+        -24.945452202458636,
+        0.05000997615813485
+      ]
+    }
+  ]
+}

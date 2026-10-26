@@ -1,0 +1,158 @@
+[
+  {
+    "position": [
+      39.932619728756116,
+      0.6999913894167071,
+      -2.5499947258292384
+    ],
+    "hits": [
+      {
+        "name": "part02/Stair_Timber_Rail_-1",
+        "depth": 0.01079047108069535
+      }
+    ],
+    "floors": [
+      {
+        "dx": -0.25,
+        "dy": -0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": -0.25,
+        "dy": 0,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": -0.25,
+        "dy": 0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0,
+        "dy": -0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0,
+        "dy": 0,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0,
+        "dy": 0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0.25,
+        "dy": -0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0.25,
+        "dy": 0,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      },
+      {
+        "dx": 0.25,
+        "dy": 0.25,
+        "name": "part02/Atrium_Lower_Base_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500005083435898
+      }
+    ]
+  },
+  {
+    "position": [
+      -35.287796814197776,
+      48.78340215971625,
+      -2.5499898092657043
+    ],
+    "hits": [
+      {
+        "name": "part06/Community_Cart_Wood",
+        "depth": 0.05648607020153273
+      }
+    ],
+    "floors": [
+      {
+        "dx": -0.25,
+        "dy": -0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": -0.25,
+        "dy": 0,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": -0.25,
+        "dy": 0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0,
+        "dy": -0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0,
+        "dy": 0,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0,
+        "dy": 0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0.25,
+        "dy": -0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0.25,
+        "dy": 0,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      },
+      {
+        "dx": 0.25,
+        "dy": 0.25,
+        "name": "part05/Painting_Gallery_Floor",
+        "z": -4.199999809265137,
+        "distance": 0.500009999999433
+      }
+    ]
+  }
+]
