@@ -1,0 +1,19 @@
+{
+  "source_photos": "2214-2258",
+  "canvas_circumference_m": 122,
+  "canvas_height_m": 13,
+  "canvas_radius_m": 19.416903057211233,
+  "levels_m": {
+    "gallery": -4.2,
+    "viewing_platform": 0,
+    "scenic_ground": -0.45
+  },
+  "accuracy_100_percent": false,
+  "limits": [
+    "Canvas dimensions from publication; platform elevation, stair and room layout are photo-informed estimates",
+    "Eight source-photo panels remain a provisional alignment; five now use visually matched5184px published photographs. The other three use restored original HEIC pixels. No seamless measured stitch claim",
+    "All fine figurine anatomy and unseen structures estimated",
+    "All 319 original source photographs restored locally on 2026-10-26, including IMG_2216/2217; no SSD or low-resolution-source blocker remains",
+    "Observed ironwork, cloth details and corridor joists/lanterns added in bounded areas; metric placement remains estimated and unlocated arch topology is unchanged"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "observed_sources": [
+    "live-review-2026-10-26/03,13,14,15,16",
+    "restored IMG_2214,2215,2216,2217,2239,2242"
+  ],
+  "original_textures_restored": 319,
+  "iron_bay": {
+    "model_angle_degrees": [
+      288,
+      306
+    ],
+    "placement": "estimated bay to camera-left of model tank; not surveyed",
+    "base_height_m": 0.24,
+    "top_rail_height_m": 1.125,
+    "continuous_hidden_barrier": true,
+    "walking_radius_m": 7.4
+  },
+  "canopy": {
+    "observed": "sagging overlapping cloth, seams, repair patches, projecting supports, tied rope loops",
+    "estimated_angular_extent_degrees": [
+      288,
+      360
+    ],
+    "sheets": 3,
+    "localized_repair_patches": 2,
+    "minimum_sheet_z_m": 2.621155068280974
+  },
+  "corridor": "round timber joists and two hanging lanterns within existing passage; spacing estimated",
+  "stair_foot_enclosure": {
+    "basis": "Local closure of existing modeled tunnel/landing boundaries; metric dimensions estimated, route unchanged",
+    "evidence": "Original IMG_2214-2217: continuous enclosed stair and passage",
+    "ceiling_height_above_landing_m": 2.6,
+    "retained_openings": [
+      "existing tunnel",
+      "existing continuing stair"
+    ],
+    "floor_plan": "union of existing tunnel tail, round landing and first12degrees of stair; full continuing stair flow excluded from wall shell, no rerouting",
+    "roof": "junction roof follows stair rise; main stair roof and underside extend through side-wall planes; upper landing roof and plain building roof at existing12.8m shell close remaining openings"
+  },
+  "unresolved": "stone arch exists in source but exact passage topology/position not established; no new arch or route added"
+}

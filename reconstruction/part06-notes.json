@@ -1,0 +1,18 @@
+{
+  "source_photos": "2189-2213",
+  "observed_dioramas": 3,
+  "basis": "original source sequence; estimated dimensions and figurine anatomy",
+  "accuracy_100_percent": false,
+  "architectural_enclosure": {
+    "evidence": "Original IMG_2189,2210,2211,2213 show enclosed basement walls and ceiling",
+    "end": "Permanent wall across existing end at168deg, with3.30m-wide and2.60m-high open portal aligned to existing part07 tunnel",
+    "transition": "Short enclosing returns and triangular floor/ceiling infills close oblique tunnel junction",
+    "entry": "0.15m ceiling height transition to part05 closed above passage",
+    "placement": "Existing model boundary retained; dimensions and metric alignment are estimates"
+  },
+  "limits": [
+    "No measured floor plan",
+    "All319 original photographs restored locally2026-10-26; source images are available at original resolution",
+    "Generated foreground scenery still requires comparison with original full-resolution photographs"
+  ]
+}
