@@ -1,0 +1,27 @@
+import {stripTextures} from './geometry_only_glb.mjs';
+import fs from 'node:fs/promises';
+import crypto from 'node:crypto';
+import * as THREE from '../review/walkthrough/node_modules/three/build/three.module.js';
+import {GLTFLoader} from '../review/walkthrough/node_modules/three/examples/jsm/loaders/GLTFLoader.js';
+import {Octree} from '../review/walkthrough/collision-octree.js';
+import {Capsule} from '../review/walkthrough/node_modules/three/examples/jsm/math/Capsule.js';
+globalThis.ProgressEvent=class{constructor(type,init={}){this.type=type;Object.assign(this,init);}};
+const ids=['part00','part01','part02','part03','part04','part05','part06','part07','part08'],root=new THREE.Group(),all=new THREE.Group(),floors=[],hashes={};let colliders=0;
+for(const id of ids){const b=await fs.readFile(new URL('../review/walkthrough/'+id+'.glb',import.meta.url));hashes[id]=crypto.createHash('sha256').update(b).digest('hex');const n=b.readUInt32LE(12),j=JSON.parse(b.subarray(20,20+n).toString());stripTextures(j,b,28+n);const g=await new Promise((res,rej)=>new GLTFLoader().parse(JSON.stringify(j),'',res,rej));g.scene.updateMatrixWorld(true);g.scene.traverse(o=>{if(!o.isMesh||o.name.startsWith('NAV_Boundary_')||ids.includes(o.userData.temporary_until))return;const copy=()=>{const m=new THREE.Mesh(o.geometry);o.matrixWorld.decompose(m.position,m.quaternion,m.scale);return m;};if(o.userData.collision){root.add(copy());colliders++;}if(id==='part04'){if(o.userData.collision||!o.userData.review_hidden)all.add(copy());if(o.userData.collision&&/Floor|Landing|NAV_Kastel_Stair|Access_Ramp/.test(o.name))floors.push(o);}});}
+root.updateMatrixWorld(true);all.updateMatrixWorld(true);const tree=new Octree().fromGraphNode(root),visibleTree=new Octree().fromGraphNode(all);
+function mover(start){let p=new THREE.Vector3(start[0],start[2],-start[1]),c=new Capsule(p.clone().add(new THREE.Vector3(0,-1.35,0)),p.clone().add(new THREE.Vector3(0,-.15,0)),.30),v=new THREE.Vector3();return{get pos(){return[c.end.x,-c.end.z,c.end.y+.15];},step(dx,dy){v.x=dx;v.z=-dy;v.y-=18/120;c.translate(v.clone().multiplyScalar(1/120));const h=tree.capsuleIntersect(c);if(h){c.translate(h.normal.clone().multiplyScalar(h.depth+.00001));const d=v.dot(h.normal);if(d<0)v.addScaledVector(h.normal,-d);}return this.pos;}};}
+function drive(m,t){for(let i=0;i<18*120;i++){const p=m.pos,dx=t[0]-p[0],dy=t[1]-p[1],d=Math.hypot(dx,dy);if(d<.065)return true;m.step(dx/d*2.3,dy/d*2.3);}return false;}
+const q=(r,a)=>[-6+r*Math.cos(a*Math.PI/180),23.5+r*Math.sin(a*Math.PI/180)],eye=(p,z=-2.55)=>[...p,z],tests=[],failures=[],routes=[];
+function run(name,start,route,z=-2.55){const m=mover(start);let ok=true;routes.push([start.slice(0,2),...route]);for(const t of route)if(!drive(m,t)){ok=false;failures.push({name,target:t,end:m.pos});break;}tests.push({test:name,passed:ok&&Math.abs(m.pos[2]-z)<.09,end:m.pos});}
+run('continuous_portrait_passage',eye(q(35.2,60)),Array.from({length:44},(_,i)=>q(35.2,61+i)));
+run('enter_and_leave_red_room',eye(q(35.2,66.5)),[q(38,66.5),q(43,66.5),q(38,66.5),q(35.2,66.5)]);
+run('descend_first_kastel_stair',eye(q(35.2,74)),[q(36.8,74),q(38.8,74),q(40,74)],-3.30);
+run('enter_stone_alcove',eye(q(40,79),-3.30),[q(40,81),q(43.3,81),q(40,81)],-3.30);
+run('return_via_access_ramp',eye(q(40.8,83),-3.30),[q(40.25,83),q(38.7,83.02),q(36.9,83.05),q(35.2,83.05)]);
+run('third_stair_roundtrip',eye(q(35.2,91.5)),[q(36.9,91.5),q(39.2,91.5),q(40,91.5),q(39.2,91.5),q(36.9,91.5),q(35.2,91.5)]);
+run('correspondence_exhibits_and_reading_kiosk',eye(q(35.2,98)),[q(40.4,98.3),q(40.4,101.1),q(40.4,103.8),q(36,104)]);
+const ray=new THREE.Raycaster(),samples=[];for(const path of routes)for(let i=1;i<path.length;i++){const a=path[i-1],b=path[i],n=Math.ceil(Math.hypot(a[0]-b[0],a[1]-b[1])/.28);for(let j=0;j<=n;j++)samples.push([a[0]+(b[0]-a[0])*j/n,a[1]+(b[1]-a[1])*j/n]);}
+const views=JSON.parse(await fs.readFile(new URL('../review/walkthrough/part04-views.json',import.meta.url),'utf8'));for(const v of views)samples.push(v.position.slice(0,2));
+const hits=[];let count=0;for(const[x,y]of samples){ray.set(new THREE.Vector3(x,8,-y),new THREE.Vector3(0,-1,0));const floor=ray.intersectObjects(floors,false).find(h=>h.face.normal.clone().transformDirection(h.object.matrixWorld).y>.5);if(!floor)continue;count++;const c=new Capsule(floor.point.clone().add(new THREE.Vector3(0,.50,0)),floor.point.clone().add(new THREE.Vector3(0,1.50,0)),.30);const h=visibleTree.capsuleIntersect(c);if(h&&h.depth>.01)hits.push({x,y,depth:h.depth});}
+const navigation={passed:tests.every(t=>t.passed),colliders,tests,failures,glb_sha256:hashes},clearance={passed:hits.length===0,samples:count,obstructions:hits,scope:'All visible part04 geometry and colliders; 0.2–1.8m body envelope over the actual exported walking surfaces',glb_sha256:hashes.part04};
+await fs.writeFile(new URL('../review/qa/part04-navigation.json',import.meta.url),JSON.stringify(navigation,null,2));await fs.writeFile(new URL('../review/qa/part04-clearance.json',import.meta.url),JSON.stringify(clearance,null,2));console.log(JSON.stringify({navigation,clearance},null,2));if(!navigation.passed||!clearance.passed)process.exitCode=1;

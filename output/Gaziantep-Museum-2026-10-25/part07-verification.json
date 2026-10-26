@@ -1,0 +1,105 @@
+{
+  "part": "part07",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 342,
+  "vertices": 249225,
+  "polygons": 138200,
+  "visible_bounds_m": {
+    "min": [
+      -45.766902923583984,
+      -6.766902923583984,
+      -4.650000095367432
+    ],
+    "max": [
+      -6.233097076416016,
+      32.766902923583984,
+      12.800000190734863
+    ]
+  },
+  "collision_meshes": 54,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "a502d3e443f1aeb433255c63385616f0c08450e4ed3d7f3a768a91f2297eca5f",
+  "fbx_bytes": 26167516,
+  "fbx_import_check": {
+    "imported_meshes": 342,
+    "expected_meshes": 342,
+    "bounds_max_error_m": 3.814697265625e-06,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_2246.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2247.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2252.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Published_Panorama_04.jpg": {
+        "size_px": [
+          5184,
+          3456
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Published_Panorama_05.jpg": {
+        "size_px": [
+          5184,
+          3456
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Published_Panorama_06.jpg": {
+        "size_px": [
+          5184,
+          3456
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Published_Panorama_09.jpg": {
+        "size_px": [
+          5184,
+          3456
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Published_Panorama_10.jpg": {
+        "size_px": [
+          5184,
+          3456
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

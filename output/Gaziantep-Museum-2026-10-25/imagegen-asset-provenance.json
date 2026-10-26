@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "prompts": "../../reconstruction/imagegen-prompts-final.json",
+  "assets": [
+    {
+      "file": "floor-map-imagegen-v1.png",
+      "role": "AI visual-restoration floor texture; cartographic precision unverified",
+      "sha256": "9aa5bab32ddac2518c68b7c410211b9e99c5aa6e28f3577d758e085052019edd",
+      "bytes": 2837047
+    },
+    {
+      "file": "map-legend-clean-background-v2.png",
+      "role": "AI cleaned background plus verified headings only",
+      "sha256": "7be5389fa0ddc82edfcf41d0e02317e207391e5b5ffba678999d1eb6f8db6e15",
+      "bytes": 2335113
+    },
+    {
+      "file": "map-legend-original-crop.png",
+      "role": "Source lettering and numbering; no generated place names",
+      "sha256": "33753aab26d9845ceabad89f8886e9c31704a86684bde30ddcf05c14acf8de35",
+      "bytes": 1016193
+    }
+  ],
+  "rejected_asset": "First generated legend contained altered names and numbers and is excluded from the model."
+}

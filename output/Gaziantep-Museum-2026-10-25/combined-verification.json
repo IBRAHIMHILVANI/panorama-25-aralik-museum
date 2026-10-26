@@ -1,0 +1,942 @@
+{
+  "part": "combined",
+  "units": "metres",
+  "up": "Z in Blender / Y in FBX",
+  "parts": [
+    {
+      "part": "part00",
+      "native_source": "Gaziantep_00_Tram_Streets_Surroundings.blend",
+      "fbx_sha256": "f1f9a95768764972323124b893998a01b5c56753fab4f2f08c5caae513fc963a",
+      "review_glb_sha256": "f2d626561db447e30c427e67dbe2e59ee01516905c4a7eba4280a5e11fc0ec24"
+    },
+    {
+      "part": "part01",
+      "native_source": "Gaziantep_01_Courtyard_Entrance.blend",
+      "fbx_sha256": "5bf5e68ab68bab2903e0564905f1e20e0f5c5527b9de4676ea949c6ead4a76e4",
+      "review_glb_sha256": "17133d6d7332d156512e02874d560ee086f397035f3b0ddda23b179a32e1b12b"
+    },
+    {
+      "part": "part02",
+      "native_source": "Gaziantep_02_Atrium_Map_Hall.blend",
+      "fbx_sha256": "b1790da37c430ac3f0d27b64ee33147a03d52a086d951daed61ebbe9709ced81",
+      "review_glb_sha256": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0"
+    },
+    {
+      "part": "part03",
+      "native_source": "Gaziantep_03_Archives_Uniforms_Weapons.blend",
+      "fbx_sha256": "b4cb0756ccc4b8f24272821a5867d1a8a4b37d80cd5fa3ed745dd99f577e05f5",
+      "review_glb_sha256": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b"
+    },
+    {
+      "part": "part04",
+      "native_source": "Gaziantep_04_Kastel_Correspondence.blend",
+      "fbx_sha256": "d3bae3b7c92a1ab53a737f5c2ba36976bf0bc4eae40480a779cf66a79ca92779",
+      "review_glb_sha256": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c"
+    },
+    {
+      "part": "part05",
+      "native_source": "Gaziantep_05_Paintings_History.blend",
+      "fbx_sha256": "6f496bef87b2ac880683f1764b5afe7621ad4ec837bb5a9e8014be7c184a49d8",
+      "review_glb_sha256": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b"
+    },
+    {
+      "part": "part06",
+      "native_source": "Gaziantep_06_Three_Dioramas.blend",
+      "fbx_sha256": "a1719ad27e182e36be36c217687d282f0c7a0538fd4e845b7b2852ba985d3d07",
+      "review_glb_sha256": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a"
+    },
+    {
+      "part": "part07",
+      "native_source": "Gaziantep_07_Panorama.blend",
+      "fbx_sha256": "a502d3e443f1aeb433255c63385616f0c08450e4ed3d7f3a768a91f2297eca5f",
+      "review_glb_sha256": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8"
+    },
+    {
+      "part": "part08",
+      "native_source": "Gaziantep_08_Cinema_Reference_Study.blend",
+      "fbx_sha256": "1a793394ede6d9aa139b89e1be5d25a53eada13d13c7d31283febf17aee0fb63",
+      "review_glb_sha256": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+    }
+  ],
+  "visible_meshes": 3227,
+  "collision_meshes": 1559,
+  "visible_bounds_m": {
+    "min": [
+      -159.7461700439453,
+      -322.194091796875,
+      -5.050000190734863
+    ],
+    "max": [
+      265.3853759765625,
+      180.7935791015625,
+      14.5
+    ]
+  },
+  "vertices": 3444488,
+  "polygons": 1861507,
+  "images": [
+    {
+      "name": "Cinema_Reference.jpg",
+      "file": "Cinema_Reference.jpg",
+      "exists": true,
+      "size": [
+        3000,
+        2000
+      ]
+    },
+    {
+      "name": "Color_05f4dac3-7997-43f7-a918-f9c54b288580",
+      "file": "Local_Family_Costume_5_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_1ca79950-73bb-4bf4-8149-bf1a9f7e8178",
+      "file": "Uniform_10_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_31179feb-c284-4ca3-bafd-1e3fef325013",
+      "file": "Local_Family_Costume_1_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_3e857a4e-ea20-4f75-8019-063b7c40acea",
+      "file": "Uniform_8_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_4396b097-c96f-47ab-97b2-51f5a736ea2b",
+      "file": "Local_Menswear_2_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_46c3b514-f1ed-434d-ae93-e56e4835f267",
+      "file": "Uniform_11_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_53bfd1e4-a65e-4f27-bb44-8702e5eca40b",
+      "file": "Local_Family_Costume_2_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_5ec23867-8ac9-4d40-96cd-f8adc22805cb",
+      "file": "Uniform_1_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_60952704-ad15-4411-ac3d-f2ee86e97d0f",
+      "file": "Local_Menswear_5_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_62e11fa4-61f5-48df-89f3-f6948791e5c4",
+      "file": "Local_Family_Costume_4_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_6c1ba8ae-3bea-45c6-a1e1-5f6071f699fb",
+      "file": "Uniform_6_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_888cb275-2c88-46c4-bd2d-0e6d63bbf921",
+      "file": "Local_Menswear_1_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_9b9a2c7b-fc34-4dd2-81b2-b6e24efc28e9",
+      "file": "Uniform_9_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_9d956162-703c-4f43-98cd-0e44e611ce5c",
+      "file": "Uniform_4_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_b47796f1-8f62-48bf-81dd-06ae0fc9f1ea",
+      "file": "Uniform_5_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_b5df6457-69ea-4c73-be7d-492e8e380029",
+      "file": "Local_Menswear_3_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_d5ebbb6c-56a1-4049-9ad3-05a711f57c23",
+      "file": "Local_Family_Costume_6_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_d7052815-6179-4352-b2d5-db4c0ee5f81d",
+      "file": "Uniform_2_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_e88df4e1-a599-4be9-b988-52d21d55d2e5",
+      "file": "Local_Menswear_4_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_e9edfd97-bd99-411e-8458-2316c2129279",
+      "file": "Local_Menswear_6_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_f3016a7b-4d39-4dde-86fb-e8efe20dcd73",
+      "file": "Uniform_3_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_f4ba9bd4-0595-49a8-b9b9-f96ebb016b5a",
+      "file": "Uniform_7_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "Color_fad6a62a-242a-42c2-a491-8f406a985b4b",
+      "file": "Local_Family_Costume_3_Texture_0.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ]
+    },
+    {
+      "name": "floor-map-imagegen-v1.png",
+      "file": "floor-map-imagegen-v1.png",
+      "exists": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "IMG_1949.jpg",
+      "file": "IMG_1949.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_1950.jpg",
+      "file": "IMG_1950.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_1951.jpg",
+      "file": "IMG_1951.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        1881
+      ]
+    },
+    {
+      "name": "IMG_1952.jpg",
+      "file": "IMG_1952.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1958.jpg",
+      "file": "IMG_1958.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1960.jpg",
+      "file": "IMG_1960.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1962.jpg",
+      "file": "IMG_1962.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1963.jpg",
+      "file": "IMG_1963.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1969.jpg",
+      "file": "IMG_1969.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        1060
+      ]
+    },
+    {
+      "name": "IMG_1979.jpg",
+      "file": "IMG_1979.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1981.jpg",
+      "file": "IMG_1981.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1982.jpg",
+      "file": "IMG_1982.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_1989.jpg",
+      "file": "IMG_1989.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1993.jpg",
+      "file": "IMG_1993.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_1998.jpg",
+      "file": "IMG_1998.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_2002.jpg",
+      "file": "IMG_2002.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2008.jpg",
+      "file": "IMG_2008.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2009.jpg",
+      "file": "IMG_2009.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2012.jpg",
+      "file": "IMG_2012.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_2015.jpg",
+      "file": "IMG_2015.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2028.jpg",
+      "file": "IMG_2028.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2048.jpg",
+      "file": "IMG_2048.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2052.jpg",
+      "file": "IMG_2052.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2053.jpg",
+      "file": "IMG_2053.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2067.jpg",
+      "file": "IMG_2067.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2081.jpg",
+      "file": "IMG_2081.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2084.jpg",
+      "file": "IMG_2084.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2085.jpg",
+      "file": "IMG_2085.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2096.jpg",
+      "file": "IMG_2096.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2097.jpg",
+      "file": "IMG_2097.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2102.jpg",
+      "file": "IMG_2102.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2103.jpg",
+      "file": "IMG_2103.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2107.jpg",
+      "file": "IMG_2107.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2108.jpg",
+      "file": "IMG_2108.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2114.jpg",
+      "file": "IMG_2114.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2115.jpg",
+      "file": "IMG_2115.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2140.jpg",
+      "file": "IMG_2140.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2141.jpg",
+      "file": "IMG_2141.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2142.jpg",
+      "file": "IMG_2142.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2148.jpg",
+      "file": "IMG_2148.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2150.jpg",
+      "file": "IMG_2150.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2154.jpg",
+      "file": "IMG_2154.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2157.jpg",
+      "file": "IMG_2157.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2158.jpg",
+      "file": "IMG_2158.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2165.jpg",
+      "file": "IMG_2165.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2166.jpg",
+      "file": "IMG_2166.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2167.jpg",
+      "file": "IMG_2167.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2168.jpg",
+      "file": "IMG_2168.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2179.jpg",
+      "file": "IMG_2179.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2187.jpg",
+      "file": "IMG_2187.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2188.jpg",
+      "file": "IMG_2188.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2194.jpg",
+      "file": "IMG_2194.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_2200.jpg",
+      "file": "IMG_2200.jpg",
+      "exists": true,
+      "size": [
+        4096,
+        3072
+      ]
+    },
+    {
+      "name": "IMG_2205.jpg",
+      "file": "IMG_2205.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2210.jpg",
+      "file": "IMG_2210.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2211.jpg",
+      "file": "IMG_2211.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2246.jpg",
+      "file": "IMG_2246.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2247.jpg",
+      "file": "IMG_2247.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "IMG_2252.jpg",
+      "file": "IMG_2252.jpg",
+      "exists": true,
+      "size": [
+        3072,
+        4096
+      ]
+    },
+    {
+      "name": "map-legend-clean-background-v2.png",
+      "file": "map-legend-clean-background-v2.png",
+      "exists": true,
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "name": "map-legend-original-crop.png",
+      "file": "map-legend-original-crop.png",
+      "exists": true,
+      "size": [
+        1069,
+        876
+      ]
+    },
+    {
+      "name": "part03-original-documents-atlas.jpg",
+      "file": "part03-original-documents-atlas.jpg",
+      "exists": true,
+      "size": [
+        2048,
+        520
+      ]
+    },
+    {
+      "name": "PT8_Official_Fabric.jpg",
+      "file": "PT8_Official_Fabric.jpg",
+      "exists": true,
+      "size": [
+        1560,
+        1040
+      ]
+    },
+    {
+      "name": "Published_Panorama_04.jpg",
+      "file": "Published_Panorama_04.jpg",
+      "exists": true,
+      "size": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "name": "Published_Panorama_05.jpg",
+      "file": "Published_Panorama_05.jpg",
+      "exists": true,
+      "size": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "name": "Published_Panorama_06.jpg",
+      "file": "Published_Panorama_06.jpg",
+      "exists": true,
+      "size": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "name": "Published_Panorama_09.jpg",
+      "file": "Published_Panorama_09.jpg",
+      "exists": true,
+      "size": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "name": "Published_Panorama_10.jpg",
+      "file": "Published_Panorama_10.jpg",
+      "exists": true,
+      "size": [
+        5184,
+        3456
+      ]
+    },
+    {
+      "name": "Station_Grass_Original_2024_04_04.jpg",
+      "file": "Station_Grass_Original_2024_04_04.jpg",
+      "exists": true,
+      "size": [
+        1368,
+        1824
+      ]
+    }
+  ],
+  "nonfinite_vertices": 0,
+  "accuracy_claim": "Full-scope photo-informed review reconstruction; NOT 100% measured/current-day fidelity. Original HEIC photographs restored on 2026-10-26; exact unmeasured geometry remains provisional.",
+  "fbx_sha256": "0a9a11230478ef7300e29b6da2726610d88ad57552196394f6afbdf524319e6b",
+  "fbx_bytes": 455510268,
+  "collision_fbx_sha256": "6b9692d16ce7129cd0317aceba30ed5a86b5b9c580641be98fd417f6b3e3f8cf",
+  "native_bytes": 239873509,
+  "fbx_import_check": {
+    "imported_meshes": 3227,
+    "expected_meshes": 3227,
+    "bounds_max_error_m": 1.0013580322265625e-05,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": 94,
+    "missing_files": [],
+    "passed": true
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "embedded_textures": 12,
+  "passed": true,
+  "items": [
+    {
+      "name": "IMG_1952.jpg",
+      "bytes": 1587421,
+      "size_px": [
+        1920,
+        2560
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1960.jpg",
+      "bytes": 1511953,
+      "size_px": [
+        1920,
+        2560
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1958.jpg",
+      "bytes": 1516182,
+      "size_px": [
+        1920,
+        2560
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1969.jpg",
+      "bytes": 5436808,
+      "size_px": [
+        8192,
+        2120
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "map-legend-clean-background-v2.png",
+      "bytes": 2335113,
+      "size_px": [
+        1448,
+        1086
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "map-legend-original-crop.png",
+      "bytes": 1016193,
+      "size_px": [
+        1069,
+        876
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1963.jpg",
+      "bytes": 1823974,
+      "size_px": [
+        1920,
+        2560
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1962.jpg",
+      "bytes": 1492588,
+      "size_px": [
+        1920,
+        2560
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "floor-map-imagegen-v1.png",
+      "bytes": 2837047,
+      "size_px": [
+        1254,
+        1254
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1951.jpg",
+      "bytes": 8734885,
+      "size_px": [
+        8192,
+        3763
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1949.jpg",
+      "bytes": 13243109,
+      "size_px": [
+        8192,
+        6144
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    },
+    {
+      "name": "IMG_1950.jpg",
+      "bytes": 11990265,
+      "size_px": [
+        8192,
+        6144
+      ],
+      "orientation": 1,
+      "matches_texture_file": true
+    }
+  ]
+}

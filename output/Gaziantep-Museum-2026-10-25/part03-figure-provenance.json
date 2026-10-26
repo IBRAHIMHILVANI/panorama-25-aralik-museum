@@ -1,0 +1,145 @@
+{
+  "method": "Manually traced source-photo silhouettes, unchanged photo UVs on rounded 3D review envelopes. Rear surfaces, depth, heights and placement are estimated. Not recovered 360-degree garment geometry.",
+  "figure_count": 23,
+  "source_definitions": "scripts/part03_figure_sources.py",
+  "figures": [
+    {
+      "key": "cream_left",
+      "source": "IMG_2047.HEIC",
+      "height_estimate_m": 1.84,
+      "outline_vertices": 38
+    },
+    {
+      "key": "cream_right",
+      "source": "IMG_2047.HEIC",
+      "height_estimate_m": 1.86,
+      "outline_vertices": 39
+    },
+    {
+      "key": "fur_uniform",
+      "source": "IMG_2048.HEIC",
+      "height_estimate_m": 1.86,
+      "outline_vertices": 46
+    },
+    {
+      "key": "white_uniform",
+      "source": "IMG_2049.HEIC",
+      "height_estimate_m": 1.83,
+      "outline_vertices": 46
+    },
+    {
+      "key": "blue_helmet_a",
+      "source": "IMG_2050.HEIC",
+      "height_estimate_m": 1.85,
+      "outline_vertices": 46
+    },
+    {
+      "key": "blue_red_cap",
+      "source": "IMG_2050.HEIC",
+      "height_estimate_m": 1.83,
+      "outline_vertices": 44
+    },
+    {
+      "key": "blue_helmet_b",
+      "source": "IMG_2053.HEIC",
+      "height_estimate_m": 1.85,
+      "outline_vertices": 48
+    },
+    {
+      "key": "blue_held_helmet",
+      "source": "IMG_2054.HEIC",
+      "height_estimate_m": 1.84,
+      "outline_vertices": 50
+    },
+    {
+      "key": "blue_red_collar",
+      "source": "IMG_2054.HEIC",
+      "height_estimate_m": 1.82,
+      "outline_vertices": 47
+    },
+    {
+      "key": "brown_uniform",
+      "source": "IMG_2056.HEIC",
+      "height_estimate_m": 1.85,
+      "outline_vertices": 55
+    },
+    {
+      "key": "yellow_uniform",
+      "source": "IMG_2057.HEIC",
+      "height_estimate_m": 1.84,
+      "outline_vertices": 54
+    },
+    {
+      "key": "local_suit",
+      "source": "IMG_2069.HEIC",
+      "height_estimate_m": 1.88,
+      "outline_vertices": 57
+    },
+    {
+      "key": "local_gold",
+      "source": "IMG_2070.HEIC",
+      "height_estimate_m": 1.87,
+      "outline_vertices": 62
+    },
+    {
+      "key": "local_khaki_a",
+      "source": "IMG_2071.HEIC",
+      "height_estimate_m": 1.87,
+      "outline_vertices": 58
+    },
+    {
+      "key": "local_light",
+      "source": "IMG_2072.HEIC",
+      "height_estimate_m": 1.82,
+      "outline_vertices": 65
+    },
+    {
+      "key": "local_khaki_b",
+      "source": "IMG_2073.HEIC",
+      "height_estimate_m": 1.85,
+      "outline_vertices": 61
+    },
+    {
+      "key": "local_red_shawl",
+      "source": "IMG_2069.HEIC",
+      "height_estimate_m": 1.61,
+      "outline_vertices": 39
+    },
+    {
+      "key": "floral_outfit",
+      "source": "IMG_2075.HEIC",
+      "height_estimate_m": 1.76,
+      "outline_vertices": 59
+    },
+    {
+      "key": "blue_child",
+      "source": "IMG_2076.HEIC",
+      "height_estimate_m": 1.24,
+      "outline_vertices": 57
+    },
+    {
+      "key": "orange_robe",
+      "source": "IMG_2077.HEIC",
+      "height_estimate_m": 1.82,
+      "outline_vertices": 63
+    },
+    {
+      "key": "red_white_vest",
+      "source": "IMG_2074.HEIC",
+      "height_estimate_m": 1.54,
+      "outline_vertices": 45
+    },
+    {
+      "key": "red_check_vest",
+      "source": "IMG_2079.HEIC",
+      "height_estimate_m": 1.56,
+      "outline_vertices": 54
+    },
+    {
+      "key": "purple_child",
+      "source": "IMG_2080.HEIC",
+      "height_estimate_m": 1.23,
+      "outline_vertices": 57
+    }
+  ]
+}

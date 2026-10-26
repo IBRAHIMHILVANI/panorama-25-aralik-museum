@@ -1,0 +1,153 @@
+{
+  "part": "part04",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 233,
+  "vertices": 99392,
+  "polygons": 39953,
+  "visible_bounds_m": {
+    "min": [
+      -17.69862174987793,
+      52.443023681640625,
+      -5.050000190734863
+    ],
+    "max": [
+      15.220114707946777,
+      68.69999694824219,
+      -0.5
+    ]
+  },
+  "collision_meshes": 47,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "d3bae3b7c92a1ab53a737f5c2ba36976bf0bc4eae40480a779cf66a79ca92779",
+  "fbx_bytes": 66116492,
+  "fbx_import_check": {
+    "imported_meshes": 233,
+    "expected_meshes": 233,
+    "bounds_max_error_m": 1.0013580322265625e-05,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_2096.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2097.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2102.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2103.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2107.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2108.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2114.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2115.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2141.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2084.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2081.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2140.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2142.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2085.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

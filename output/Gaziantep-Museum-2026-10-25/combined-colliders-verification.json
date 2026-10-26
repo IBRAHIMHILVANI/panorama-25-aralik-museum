@@ -1,0 +1,8 @@
+{
+  "expected_meshes": 1559,
+  "imported_meshes": 1559,
+  "bounds_max_error_m": 1.0013580322265625e-05,
+  "all_marked_collision": true,
+  "temporary_review_boundaries": 0,
+  "passed": true
+}

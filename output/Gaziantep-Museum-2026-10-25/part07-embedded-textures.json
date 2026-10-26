@@ -1,0 +1,103 @@
+{
+  "part": "part07",
+  "fbx_sha256": "80b2f02d0cdaa5bf0ff4de3cea9b1b6af0f6c86dbca6d2e645ecc607e8304466",
+  "images": [
+    {
+      "name": "IMG_2246.jpg",
+      "embedded_bytes": 25970,
+      "source_exists": true,
+      "sha256": "5e5b50dd7205f292142df1b005eeb3481c133db2fdc111e8f0ddb2f4c5d65d82",
+      "matches_texture_file": true,
+      "size_px": [
+        180,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2247.jpg",
+      "embedded_bytes": 32656,
+      "source_exists": true,
+      "sha256": "6c233a6d01142258cb65b9e75903bb296382c7c9a129444251cb9931530a5762",
+      "matches_texture_file": true,
+      "size_px": [
+        180,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2252.jpg",
+      "embedded_bytes": 31872,
+      "source_exists": true,
+      "sha256": "4241cfd9c94b0995bd620aa33bdc772398dfccdf36a3b232534a4a84a29fa5fb",
+      "matches_texture_file": true,
+      "size_px": [
+        180,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Published_Panorama_04.jpg",
+      "embedded_bytes": 997614,
+      "source_exists": true,
+      "sha256": "6e3970e2bbbac0d17a48172ecdac7e1daab98b5495884b2043dc2e995db0e0f9",
+      "matches_texture_file": true,
+      "size_px": [
+        5184,
+        3456
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Published_Panorama_05.jpg",
+      "embedded_bytes": 919398,
+      "source_exists": true,
+      "sha256": "4e98c615f6531954e9268d3dd9e150dc3fd78ed2a20c8cb5aa0a779c95b5f60c",
+      "matches_texture_file": true,
+      "size_px": [
+        5184,
+        3456
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Published_Panorama_06.jpg",
+      "embedded_bytes": 1093208,
+      "source_exists": true,
+      "sha256": "d058b614c702b4703daf21e93aac1e4ed266e80ade291efbcd98a136bf2afe38",
+      "matches_texture_file": true,
+      "size_px": [
+        5184,
+        3456
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Published_Panorama_09.jpg",
+      "embedded_bytes": 1102626,
+      "source_exists": true,
+      "sha256": "6169561c925884e6823a0d9ad1f3ebcd2c78400768410822165e2f55641ed416",
+      "matches_texture_file": true,
+      "size_px": [
+        5184,
+        3456
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Published_Panorama_10.jpg",
+      "embedded_bytes": 990164,
+      "source_exists": true,
+      "sha256": "db1d3a684e61def651de26a251765e0198082c1583857cf685dd5c2fcde1a19b",
+      "matches_texture_file": true,
+      "size_px": [
+        5184,
+        3456
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

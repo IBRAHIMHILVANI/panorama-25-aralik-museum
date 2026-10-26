@@ -1,0 +1,19 @@
+{
+  "part": "part08",
+  "fbx_sha256": "deac90448d079a30c8b24e29afb5dc73a41df411b5921c3d08f628bef0fb8873",
+  "images": [
+    {
+      "name": "Cinema_Reference.jpg",
+      "embedded_bytes": 1769301,
+      "source_exists": true,
+      "sha256": "9022d2cd9e3370cf5540ab6cf4de468005dae8fb26311a341b1f594f9994377d",
+      "matches_texture_file": true,
+      "size_px": [
+        3000,
+        2000
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,19 @@
+{
+  "part": "part00",
+  "fbx_sha256": "3f3a63b78dddb7115e3052695511e12d11f4c82ad29d16a476a90d85b805516f",
+  "images": [
+    {
+      "name": "PT8_Official_Fabric.jpg",
+      "embedded_bytes": 295607,
+      "source_exists": true,
+      "sha256": "b1191418ad239e4afd1c290ef6607fb8b89f8b983f7b7a26c0fcf5d63a17f2ac",
+      "matches_texture_file": true,
+      "size_px": [
+        1560,
+        1040
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

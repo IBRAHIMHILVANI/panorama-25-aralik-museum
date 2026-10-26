@@ -1,0 +1,157 @@
+{
+  "review_date": "2026-10-26",
+  "stage": "Complete recorded review journey; real-world fidelity acceptance remains incomplete",
+  "ssd": "reconnected; current build also retained on internal disk",
+  "source_photos_restored": 319,
+  "combined_fbx_sha256": "0a9a11230478ef7300e29b6da2726610d88ad57552196394f6afbdf524319e6b",
+  "visible_meshes": 3227,
+  "embedded_images": 94,
+  "part_count": 9,
+  "changes": [
+    "Original camera HEIC texture restoration with orientation/profile normalization",
+    "Original municipal and museum artwork traced into physical signs; Turkish flag construction follows real proportions",
+    "PT8 black front fascia, smooth glazing/nose, flush low orange belt, oval lamps, sidewindow dividers, metal articulation, source fabric projection and smaller D-shaped hand grips",
+    "Photograph-textured rail median, close-range turf, tessellated narrow-joint interlocking paving, heavier canopy profiles",
+    "Cinema connected beside stair following user observation; smooth entry route, source-derived carpet and adjusted browser light",
+    "Bounded iron balustrade, cloth canopy seams/overlaps/ropes, corridor joists and lanterns in upper panorama",
+    "Removed decorative frames crossing the courtyard entry and cinema doorway",
+    "Closed part06-to-part07 walls/ceilings and stair-foot gaps after reviewing the first full recording",
+    "Separated courtyard storefronts from the panorama interior; removed foreign panels from the mural view",
+    "Corrected ground cutouts outside the below-ground museum rooms",
+    "Recorded a continuous full journey of the final matching GLBs and encoded a validated phone-compatible MP4"
+  ],
+  "sources": [
+    "references/identity-2026-10-26/source-index.json",
+    "references/live-review-2026-10-26/findings.json",
+    "references/live-review-2026-10-26/street-route/observations.json"
+  ],
+  "verified": {
+    "fbx_roundtrip": {
+      "imported_meshes": 3227,
+      "expected_meshes": 3227,
+      "bounds_max_error_m": 1.0013580322265625e-05,
+      "passed": true
+    },
+    "embedded_images_byte_check": "review/qa/final-embedded-textures.log",
+    "continuous_tour": {
+      "passed": true,
+      "waypoints_requested": 326,
+      "waypoints_reached": 326,
+      "failed_waypoints": [],
+      "floor_samples": 9415,
+      "floor_failures": [],
+      "body_clearance_samples": 3732,
+      "body_failures": []
+    },
+    "browser_sections_loaded": 9,
+    "final_glb_sha256": {
+      "part00": "f2d626561db447e30c427e67dbe2e59ee01516905c4a7eba4280a5e11fc0ec24",
+      "part01": "17133d6d7332d156512e02874d560ee086f397035f3b0ddda23b179a32e1b12b",
+      "part02": "3975f0b730cc57909ee4c1080d22bb2341442ec333450f7fcdab9875145808a0",
+      "part03": "fa7b96d183f4c7be03f163110eeb271fa338b1eb792af831433b2b7c1f51fb9b",
+      "part04": "cc9381bd3d258994968e52625ab9bec429c225bbcc27b25f7104114115f14c9c",
+      "part05": "fb603ee2e7fb489ca940be2f970a0938617f9ebcaf1958af31912f8f5e86c21b",
+      "part06": "866bf076bba6b4ce46152b213a2d192f73fce4583ee4dbb55f48b71369198b7a",
+      "part07": "33df799abd49e45f2c4cb08001b362dc739094e1cf0bc2a0840a0d26a7bec4c8",
+      "part08": "11355acbd9cc7143cb0f86d1b59eeb3a52f6b78a158cbd1658dc90f72d14ac16"
+    },
+    "video": {
+      "passed": true,
+      "file": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_Smooth_1p5x_2026-10-26.mp4",
+      "bytes": 118906811,
+      "sha256": "121b8df92783d5986b81da423884582b0738cc08b1c4b4a8d894b4d4ed240d7b",
+      "video_seconds": 313.866667,
+      "speed": 1.5,
+      "rendering": "Deterministic frame-by-frame scene rendering and quality-mode H.264 encoding; playback time is independent of render wall time",
+      "source_recording_metadata": "output/Gaziantep-Museum-2026-10-25/video/smooth-export/Gaziantep_Smooth_1p5x_full_20261026T104048Z_e11cd385ac3f.recording.json",
+      "route_sha256": "66933e07cd846b69578c8df52fe5dcde0ea0315807c530b11f0d73f7e9f680f2",
+      "source_route_seconds": 470.7083333333333,
+      "frames_rendered": 9416,
+      "frames_encoded": 9416,
+      "verification": {
+        "passed": true,
+        "decoded_frames": 9416,
+        "requested_frames": 9416,
+        "width": 1280,
+        "height": 720,
+        "codec": "h264",
+        "profile": "Baseline",
+        "has_b_frames": 0,
+        "fps": 30,
+        "duration_seconds": 313.866667,
+        "expected_video_duration_seconds": 313.8666666666667,
+        "maximum_frame_timestamp_error_seconds": 3.333333467026023e-07,
+        "raw_h264_sha256": "836f34d431cb2223fb21728fe32d1e54fccebac542e73d0ca75fbff27aaa9c6b",
+        "mp4_sha256": "121b8df92783d5986b81da423884582b0738cc08b1c4b4a8d894b4d4ed240d7b",
+        "ffmpeg_command_uses_stream_copy": true,
+        "content_uniqueness_checked": false
+      },
+      "full_decode_integrity_report": "review/qa/video-followup-2026-10-26/smooth-full-integrity.json",
+      "content_motion_report": "review/qa/tour-motion/Gaziantep_Smooth_1p5x_full_20261026T104048Z_e11cd385ac3f/report.json",
+      "visual_review": [
+        "Street approach",
+        "Courtyard",
+        "Cinema at141.5/143/144s",
+        "Floor map",
+        "Curved stairs",
+        "Hospital panorama",
+        "Final panorama",
+        "Cinema view verified after camera turn; no missing section"
+      ],
+      "geometry_changed_for_this_export": false,
+      "model_accuracy_100_percent": false,
+      "content_motion_check": {
+        "status": "no_freeze_candidates_detected",
+        "candidate_count": 0,
+        "moving_frame_intervals": 7128,
+        "moving_exact_thumbnail_intervals": 0,
+        "moving_near_thumbnail_intervals": 0,
+        "longest_near_static_run_seconds": 0.0
+      },
+      "superseded_realtime_video_sha256": "47fd329ac221f432d0715b8312d73591d4d5808bd3dd8606dc6ec371d611e65b"
+    },
+    "visual_video_sample_review": {
+      "reviewed_frames": [
+        "review/qa/video-followup-2026-10-26/final-video-00.jpg",
+        "review/qa/video-followup-2026-10-26/final-video-01.jpg",
+        "review/qa/video-followup-2026-10-26/final-video-02.jpg",
+        "review/qa/video-followup-2026-10-26/final-video-03.jpg",
+        "review/qa/video-followup-2026-10-26/final-video-04.jpg",
+        "review/qa/video-followup-2026-10-26/final-video-05.jpg"
+      ],
+      "scope": "Six sampled frames from encoded MP4 inspected for visibility and rendering. This is not a claim of frame-by-frame visual inspection or measured authenticity.",
+      "observations": [
+        "Tram interior, street approach, courtyard, gallery and final panorama render in the encoded MP4",
+        "Surrounding building facades and some diorama figures are visibly simplified",
+        "The panorama mural still has source-photo transitions and uncertain absolute alignment"
+      ]
+    }
+  },
+  "tour": {
+    "route_duration_seconds": 470.7083333333333,
+    "distance_m": 642.8886833430657,
+    "video_status": "complete; deterministic frame-by-frame export, speed1.5x; no unexpected freeze candidates in decoded content",
+    "video_file": "video/Gaziantep_Full_Journey_Smooth_1p5x_2026-10-26.mp4",
+    "video_seconds": 313.866667,
+    "video_bytes": 118906811,
+    "source_recording": "e11cd385ac3f49989130eb8dee27c3dd",
+    "timing_note": "9416 newly rendered frames on a uniform30fps timeline. All470.708333source-route seconds are included at1.5x. Render wall-clock delays do not change video timing. Planned exhibit pauses are retained.",
+    "playback_speed": 1.5,
+    "frames": 9416
+  },
+  "remaining": [
+    "Exact whole-building floor plan and dimensions are not measured",
+    "Neighbor facade inventory has 231 buildings, none fully verified on all faces; existing masses/windows remain estimates",
+    "Street View imagery is dated 2024; the available interior panorama is May 2026 and has no connected lower-floor movement hotspots",
+    "Some diorama figures remain coarse representations and panorama photo transitions remain visible",
+    "Upper village arch absolute location and unphotographed rooms require more evidence",
+    "Seating counts, vehicle concealed details, trees/planting positions and exact current-day condition are not all verified",
+    "No Unity import or physical gamepad-device acceptance in this phase"
+  ],
+  "accuracy_100_percent": false,
+  "collision_meshes": 1559,
+  "vertices": 3444488,
+  "polygons": 1861507,
+  "final_video_verification": "video/Gaziantep_Full_Journey_Smooth_1p5x_2026-10-26.verification.json",
+  "superseded_qa_capture": "3f1ae611 had geometry defects;3420fbf7 had recorded frame pacing stalls; both superseded by e11cd385 deterministic export."
+}

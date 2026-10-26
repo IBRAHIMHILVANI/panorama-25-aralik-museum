@@ -1,0 +1,145 @@
+{
+  "part": "part05",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 208,
+  "vertices": 68492,
+  "polygons": 52574,
+  "visible_bounds_m": {
+    "min": [
+      -40.62520980834961,
+      47.202640533447266,
+      -4.199999809265137
+    ],
+    "max": [
+      -14.47970199584961,
+      67.15985107421875,
+      -0.5
+    ]
+  },
+  "collision_meshes": 132,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "6f496bef87b2ac880683f1764b5afe7621ad4ec837bb5a9e8014be7c184a49d8",
+  "fbx_bytes": 67482572,
+  "fbx_import_check": {
+    "imported_meshes": 208,
+    "expected_meshes": 208,
+    "bounds_max_error_m": 1.0967254638671875e-05,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_2187.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2179.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2188.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2157.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2148.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2012.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2168.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2167.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2154.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2150.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2165.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2158.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2166.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

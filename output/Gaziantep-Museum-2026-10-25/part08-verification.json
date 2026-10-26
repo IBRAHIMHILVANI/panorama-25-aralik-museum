@@ -1,0 +1,54 @@
+{
+  "part": "part08",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [
+    {
+      "mesh": "Cinema_Exit_Lettering",
+      "removed_zero_area_faces": 4
+    }
+  ],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 36,
+  "vertices": 86084,
+  "polygons": 24846,
+  "visible_bounds_m": {
+    "min": [
+      43.7400016784668,
+      -2.8499999046325684,
+      -4.199999809265137
+    ],
+    "max": [
+      52.560001373291016,
+      3.069999933242798,
+      -1.3799999952316284
+    ]
+  },
+  "collision_meshes": 42,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "1a793394ede6d9aa139b89e1be5d25a53eada13d13c7d31283febf17aee0fb63",
+  "fbx_bytes": 2709644,
+  "fbx_import_check": {
+    "imported_meshes": 36,
+    "expected_meshes": 36,
+    "bounds_max_error_m": 7.152557373046875e-07,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "Cinema_Reference.jpg": {
+        "size_px": [
+          3000,
+          2000
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "part": "part01",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [
+    {
+      "mesh": "Rotunda_Panorama_Original_Logo_red",
+      "removed_zero_area_faces": 9818
+    },
+    {
+      "mesh": "Rotunda_Panorama_Original_Logo_white",
+      "removed_zero_area_faces": 6001
+    },
+    {
+      "mesh": "North_Exit_Fedai",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "North_Exit_Dayi",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "North_Shop_Atalar",
+      "removed_zero_area_faces": 8
+    }
+  ],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 504,
+  "vertices": 936890,
+  "polygons": 469872,
+  "visible_bounds_m": {
+    "min": [
+      -46.20000076293945,
+      -29.0,
+      -1.7999999523162842
+    ],
+    "max": [
+      26.0,
+      52.5,
+      14.5
+    ]
+  },
+  "collision_meshes": 236,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "5bf5e68ab68bab2903e0564905f1e20e0f5c5527b9de4676ea949c6ead4a76e4",
+  "fbx_bytes": 19967948,
+  "fbx_import_check": {
+    "imported_meshes": 504,
+    "expected_meshes": 504,
+    "bounds_max_error_m": 3.5762786865234375e-06,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {},
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

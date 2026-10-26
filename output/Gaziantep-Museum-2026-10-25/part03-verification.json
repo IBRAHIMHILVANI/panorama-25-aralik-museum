@@ -1,0 +1,572 @@
+{
+  "part": "part03",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [
+    {
+      "mesh": "Uniform_1_Mesh_0",
+      "removed_zero_area_faces": 4
+    },
+    {
+      "mesh": "Uniform_1_Mesh_1",
+      "removed_zero_area_faces": 2
+    },
+    {
+      "mesh": "Uniform_2_Mesh_0",
+      "removed_zero_area_faces": 13
+    },
+    {
+      "mesh": "Uniform_3_Mesh_0",
+      "removed_zero_area_faces": 4
+    },
+    {
+      "mesh": "Uniform_5_Mesh_1",
+      "removed_zero_area_faces": 2
+    },
+    {
+      "mesh": "Uniform_6_Mesh_0",
+      "removed_zero_area_faces": 1
+    },
+    {
+      "mesh": "Uniform_7_Mesh_0",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Uniform_11_Mesh_0",
+      "removed_zero_area_faces": 1
+    },
+    {
+      "mesh": "Local_Menswear_1_Mesh_0",
+      "removed_zero_area_faces": 4
+    },
+    {
+      "mesh": "Local_Menswear_3_Mesh_0",
+      "removed_zero_area_faces": 4
+    },
+    {
+      "mesh": "Local_Family_Costume_3_Mesh_0",
+      "removed_zero_area_faces": 1
+    },
+    {
+      "mesh": "Local_Family_Costume_4_Mesh_0",
+      "removed_zero_area_faces": 1
+    },
+    {
+      "mesh": "Local_Family_Costume_6_Mesh_0",
+      "removed_zero_area_faces": 2
+    },
+    {
+      "mesh": "REVIEW_Part04_Label",
+      "removed_zero_area_faces": 12
+    }
+  ],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [
+    {
+      "name": "Uniform_1",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/cream_left-tripo-p2-repaired.glb",
+      "meshes": 2,
+      "height_m": 1.84,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_2",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/cream_right-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.86,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_3",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/uniform2048-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.86,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_4",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/white_uniform-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.83,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_5",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_helmet_a-tripo-p2-repaired.glb",
+      "meshes": 2,
+      "height_m": 1.85,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_6",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_red_cap-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.83,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_7",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_helmet_b-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.85,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_8",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_held_helmet-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.84,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_9",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_red_collar-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.82,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_10",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/brown_uniform-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.85,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Uniform_11",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/yellow_uniform-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.84,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_1",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_red_shawl-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.61,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_2",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_suit-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.88,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_3",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_gold-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.87,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_4",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_khaki_a-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.87,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_5",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_light-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.82,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Menswear_6",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/local_khaki_b-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.85,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_1",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/floral_outfit-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.76,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_2",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/blue_child-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.24,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_3",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/orange_robe-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.82,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_4",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/red_white_vest-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.54,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_5",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/purple_child-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.23,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    },
+    {
+      "name": "Local_Family_Costume_6",
+      "source_glb": "output/Gaziantep-Museum-2026-10-25/models/red_check_vest-tripo-p2.glb",
+      "meshes": 1,
+      "height_m": 1.56,
+      "basis": "Full 3D reconstruction from source photo; side/back and fine details inferred"
+    }
+  ],
+  "visible_meshes": 455,
+  "vertices": 585381,
+  "polygons": 531660,
+  "visible_bounds_m": {
+    "min": [
+      9.417060852050781,
+      22.37422752380371,
+      -4.199999809265137
+    ],
+    "max": [
+      39.220001220703125,
+      63.4268913269043,
+      -0.5
+    ]
+  },
+  "collision_meshes": 161,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "b4cb0756ccc4b8f24272821a5867d1a8a4b37d80cd5fa3ed745dd99f577e05f5",
+  "fbx_bytes": 188287740,
+  "fbx_import_check": {
+    "imported_meshes": 455,
+    "expected_meshes": 455,
+    "bounds_max_error_m": 1.049041748046875e-05,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_2028.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_1_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_2_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_3_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_4_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_5_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Family_Costume_6_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_1_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_2_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_3_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_4_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_5_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Local_Menswear_6_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1993.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1981.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2002.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1989.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "part03-original-documents-atlas.jpg": {
+        "size_px": [
+          2048,
+          520
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2052.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1979.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2008.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1982.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1998.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2015.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_10_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_11_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_1_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_2_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_3_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_4_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_5_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_6_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_7_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_8_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Uniform_9_Texture_0.jpg": {
+        "size_px": [
+          4096,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2048.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2053.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2009.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2067.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

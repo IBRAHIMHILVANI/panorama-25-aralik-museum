@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1935,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1935.HEIC",
+    "texture": "textures/IMG_1935.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1936,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1936.HEIC",
+    "texture": "textures/IMG_1936.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1940,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1940.HEIC",
+    "texture": "textures/IMG_1940.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1941,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1941.HEIC",
+    "texture": "textures/IMG_1941.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1946,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1946.HEIC",
+    "texture": "textures/IMG_1946.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1949,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1949.HEIC",
+    "texture": "textures/IMG_1949.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1950,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1950.HEIC",
+    "texture": "textures/IMG_1950.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1951,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1951.HEIC",
+    "texture": "textures/IMG_1951.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1952,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1952.HEIC",
+    "texture": "textures/IMG_1952.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1955,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1955.HEIC",
+    "texture": "textures/IMG_1955.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1958,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1958.HEIC",
+    "texture": "textures/IMG_1958.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1960,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1960.HEIC",
+    "texture": "textures/IMG_1960.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1962,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1962.HEIC",
+    "texture": "textures/IMG_1962.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1963,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1963.HEIC",
+    "texture": "textures/IMG_1963.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1969,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1969.HEIC",
+    "texture": "textures/IMG_1969.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1973,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1973.HEIC",
+    "texture": "textures/IMG_1973.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1976,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1976.HEIC",
+    "texture": "textures/IMG_1976.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1978,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1978.HEIC",
+    "texture": "textures/IMG_1978.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1981,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1981.HEIC",
+    "texture": "textures/IMG_1981.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1982,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1982.HEIC",
+    "texture": "textures/IMG_1982.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1987,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1987.HEIC",
+    "texture": "textures/IMG_1987.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1994,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1994.HEIC",
+    "texture": "textures/IMG_1994.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 1998,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_1998.HEIC",
+    "texture": "textures/IMG_1998.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2001,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2001.HEIC",
+    "texture": "textures/IMG_2001.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2008,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2008.HEIC",
+    "texture": "textures/IMG_2008.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2011,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2011.HEIC",
+    "texture": "textures/IMG_2011.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2012,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2012.HEIC",
+    "texture": "textures/IMG_2012.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2015,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2015.HEIC",
+    "texture": "textures/IMG_2015.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2021,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2021.HEIC",
+    "texture": "textures/IMG_2021.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2022,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2022.HEIC",
+    "texture": "textures/IMG_2022.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2023,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2023.HEIC",
+    "texture": "textures/IMG_2023.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2024,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2024.HEIC",
+    "texture": "textures/IMG_2024.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2025,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2025.HEIC",
+    "texture": "textures/IMG_2025.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2026,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2026.HEIC",
+    "texture": "textures/IMG_2026.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2027,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2027.HEIC",
+    "texture": "textures/IMG_2027.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2033,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2033.HEIC",
+    "texture": "textures/IMG_2033.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2034,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2034.HEIC",
+    "texture": "textures/IMG_2034.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2041,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2041.HEIC",
+    "texture": "textures/IMG_2041.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2042,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2042.HEIC",
+    "texture": "textures/IMG_2042.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2045,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2045.HEIC",
+    "texture": "textures/IMG_2045.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2047,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2047.HEIC",
+    "texture": "textures/IMG_2047.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2048,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2048.HEIC",
+    "texture": "textures/IMG_2048.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2049,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2049.HEIC",
+    "texture": "textures/IMG_2049.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2050,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2050.HEIC",
+    "texture": "textures/IMG_2050.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2051,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2051.HEIC",
+    "texture": "textures/IMG_2051.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2052,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2052.HEIC",
+    "texture": "textures/IMG_2052.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2053,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2053.HEIC",
+    "texture": "textures/IMG_2053.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2055,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2055.HEIC",
+    "texture": "textures/IMG_2055.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2056,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2056.HEIC",
+    "texture": "textures/IMG_2056.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2057,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2057.HEIC",
+    "texture": "textures/IMG_2057.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2058,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2058.HEIC",
+    "texture": "textures/IMG_2058.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2061,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2061.HEIC",
+    "texture": "textures/IMG_2061.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2067,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2067.HEIC",
+    "texture": "textures/IMG_2067.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2068,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2068.HEIC",
+    "texture": "textures/IMG_2068.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2070,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2070.HEIC",
+    "texture": "textures/IMG_2070.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2072,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2072.HEIC",
+    "texture": "textures/IMG_2072.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2074,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2074.HEIC",
+    "texture": "textures/IMG_2074.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2076,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2076.HEIC",
+    "texture": "textures/IMG_2076.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2078,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2078.HEIC",
+    "texture": "textures/IMG_2078.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2081,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2081.HEIC",
+    "texture": "textures/IMG_2081.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2083,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2083.HEIC",
+    "texture": "textures/IMG_2083.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2085,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2085.HEIC",
+    "texture": "textures/IMG_2085.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2087,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2087.HEIC",
+    "texture": "textures/IMG_2087.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2096,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2096.HEIC",
+    "texture": "textures/IMG_2096.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2097,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2097.HEIC",
+    "texture": "textures/IMG_2097.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2102,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2102.HEIC",
+    "texture": "textures/IMG_2102.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2103,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2103.HEIC",
+    "texture": "textures/IMG_2103.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2107,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2107.HEIC",
+    "texture": "textures/IMG_2107.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2108,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2108.HEIC",
+    "texture": "textures/IMG_2108.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2114,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2114.HEIC",
+    "texture": "textures/IMG_2114.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2115,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2115.HEIC",
+    "texture": "textures/IMG_2115.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2122,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2122.HEIC",
+    "texture": "textures/IMG_2122.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2123,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2123.HEIC",
+    "texture": "textures/IMG_2123.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2128,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2128.HEIC",
+    "texture": "textures/IMG_2128.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2129,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2129.HEIC",
+    "texture": "textures/IMG_2129.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2132,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2132.HEIC",
+    "texture": "textures/IMG_2132.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2138,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2138.HEIC",
+    "texture": "textures/IMG_2138.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2141,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2141.HEIC",
+    "texture": "textures/IMG_2141.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2144,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2144.HEIC",
+    "texture": "textures/IMG_2144.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2148,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2148.HEIC",
+    "texture": "textures/IMG_2148.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2149,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2149.HEIC",
+    "texture": "textures/IMG_2149.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2150,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2150.HEIC",
+    "texture": "textures/IMG_2150.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2154,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2154.HEIC",
+    "texture": "textures/IMG_2154.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2157,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2157.HEIC",
+    "texture": "textures/IMG_2157.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2158,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2158.HEIC",
+    "texture": "textures/IMG_2158.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2165,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2165.HEIC",
+    "texture": "textures/IMG_2165.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2166,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2166.HEIC",
+    "texture": "textures/IMG_2166.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2167,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2167.HEIC",
+    "texture": "textures/IMG_2167.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2168,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2168.HEIC",
+    "texture": "textures/IMG_2168.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2170,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2170.HEIC",
+    "texture": "textures/IMG_2170.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2173,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2173.HEIC",
+    "texture": "textures/IMG_2173.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2176,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2176.HEIC",
+    "texture": "textures/IMG_2176.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2179,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2179.HEIC",
+    "texture": "textures/IMG_2179.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2187,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2187.HEIC",
+    "texture": "textures/IMG_2187.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2188,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2188.HEIC",
+    "texture": "textures/IMG_2188.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2193,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2193.HEIC",
+    "texture": "textures/IMG_2193.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2194,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2194.HEIC",
+    "texture": "textures/IMG_2194.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2196,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2196.HEIC",
+    "texture": "textures/IMG_2196.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2198,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2198.HEIC",
+    "texture": "textures/IMG_2198.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2200,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2200.HEIC",
+    "texture": "textures/IMG_2200.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2201,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2201.HEIC",
+    "texture": "textures/IMG_2201.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2205,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2205.HEIC",
+    "texture": "textures/IMG_2205.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2208,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2208.HEIC",
+    "texture": "textures/IMG_2208.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2211,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2211.HEIC",
+    "texture": "textures/IMG_2211.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2214,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2214.HEIC",
+    "texture": "textures/IMG_2214.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2217,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2217.HEIC",
+    "texture": "textures/IMG_2217.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2222,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2222.HEIC",
+    "texture": "textures/IMG_2222.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2225,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2225.HEIC",
+    "texture": "textures/IMG_2225.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2231,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2231.HEIC",
+    "texture": "textures/IMG_2231.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2237,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2237.HEIC",
+    "texture": "textures/IMG_2237.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2244,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2244.HEIC",
+    "texture": "textures/IMG_2244.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2249,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2249.HEIC",
+    "texture": "textures/IMG_2249.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2250,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2250.HEIC",
+    "texture": "textures/IMG_2250.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2253,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2253.HEIC",
+    "texture": "textures/IMG_2253.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2254,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2254.HEIC",
+    "texture": "textures/IMG_2254.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2255,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2255.HEIC",
+    "texture": "textures/IMG_2255.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2256,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2256.HEIC",
+    "texture": "textures/IMG_2256.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2257,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2257.HEIC",
+    "texture": "textures/IMG_2257.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  },
+  {
+    "id": 2258,
+    "source": "drive-download-20261025T105004Z-1-001/IMG_2258.HEIC",
+    "texture": "textures/IMG_2258.jpg",
+    "operation": "format conversion and size limit only; original image content preserved"
+  }
+]

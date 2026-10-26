@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-26",
+  "phase": "fidelity correction, incomplete",
+  "main_navigation_checks": 44,
+  "main_navigation_passed": true,
+  "main_parts": [
+    {
+      "part": "part00",
+      "passed": true,
+      "checks": 8
+    },
+    {
+      "part": "part01",
+      "passed": true,
+      "checks": 5
+    },
+    {
+      "part": "part02",
+      "passed": true,
+      "checks": 5
+    },
+    {
+      "part": "part03",
+      "passed": true,
+      "checks": 7
+    },
+    {
+      "part": "part04",
+      "passed": true,
+      "checks": 7
+    },
+    {
+      "part": "part05",
+      "passed": true,
+      "checks": 4
+    },
+    {
+      "part": "part06",
+      "passed": true,
+      "checks": 4
+    },
+    {
+      "part": "part07",
+      "passed": true,
+      "checks": 4
+    }
+  ],
+  "standalone_cinema_checks": 3,
+  "standalone_cinema_passed": true,
+  "cinema_global_connection_verified": false,
+  "google_maps_full_walkthrough_performed": false,
+  "all_city_facades_verified": false,
+  "current_day_fidelity_verified": false,
+  "combined_visual_meshes": 3075,
+  "combined_fbx_sha256": "fca0c782009e1c63640708c865444e780732c3511feb6411259f3a216a07960e",
+  "combined_fbx_roundtrip_passed": true,
+  "combined_embedded_textures": 92,
+  "combined_embedded_textures_passed": true,
+  "combined_colliders_passed": true,
+  "extra_paid_generation_credits_this_pass": 0,
+  "findings": "../../reconstruction/fidelity-pass-2026-10-26/review-findings.json",
+  "facade_inventory": "../../reconstruction/fidelity-pass-2026-10-26/facade-inventory.json",
+  "cinema_model": "Gaziantep_08_Cinema_Reference_Study.fbx"
+}

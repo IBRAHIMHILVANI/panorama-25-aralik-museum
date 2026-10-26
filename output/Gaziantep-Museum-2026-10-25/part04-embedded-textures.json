@@ -1,0 +1,175 @@
+{
+  "part": "part04",
+  "fbx_sha256": "1e5bcbe2af19ba239e75f7a5f9c4196fa35f7c4148a13e37f43fc1bb09d6b00e",
+  "images": [
+    {
+      "name": "IMG_2096.jpg",
+      "embedded_bytes": 25330,
+      "source_exists": true,
+      "sha256": "3ec4812bf0405d981db20b6389baaa20cf5bebe0063dbcab1307ed70c7c20b07",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2097.jpg",
+      "embedded_bytes": 24853,
+      "source_exists": true,
+      "sha256": "8fa26bea7915721612a208e5dd7c2926d4279afa496e9fe634ef59eb6408df9e",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2102.jpg",
+      "embedded_bytes": 535686,
+      "source_exists": true,
+      "sha256": "f92060df81b93db0de3be00825d76522eb3d4778c02d36c06f8dcca9a017ebb3",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2103.jpg",
+      "embedded_bytes": 23491,
+      "source_exists": true,
+      "sha256": "de6af0baf94b001944a0dcc4cb983ed83cc482b42ddb373f6e0267a4754a566a",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2107.jpg",
+      "embedded_bytes": 23383,
+      "source_exists": true,
+      "sha256": "573a21fe35470d4222e35ca0270fb6639ee7c102ff751c8395c9ccf091081b6d",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2108.jpg",
+      "embedded_bytes": 27666,
+      "source_exists": true,
+      "sha256": "f7e9a8e4b5f9648c662ddbf8603002a06077f3a6f62c47b2fdefba35b7dfafb3",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2114.jpg",
+      "embedded_bytes": 23311,
+      "source_exists": true,
+      "sha256": "346b2c669c32036af92dda5edbb4f6fc497a717072f06a107c956799e61c5722",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2115.jpg",
+      "embedded_bytes": 24867,
+      "source_exists": true,
+      "sha256": "a2acb98b818cd9e0a73bace78d7d828f0e3b1941de112594920c2c4abd3cb034",
+      "matches_texture_file": true,
+      "size_px": [
+        179,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2141.jpg",
+      "embedded_bytes": 19654,
+      "source_exists": true,
+      "sha256": "53324837bed664d503d2dadf3f3ba2010c8c0e4a00a3e654af2fd1afc1460ed8",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2084.jpg",
+      "embedded_bytes": 518514,
+      "source_exists": true,
+      "sha256": "90bece9e8425289d33bfe577a87217a06f51b2a78066f9422eb510a37acd2afa",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2081.jpg",
+      "embedded_bytes": 444494,
+      "source_exists": true,
+      "sha256": "fa6750c9b43d36fee655983001d0a0ed1d97057a5f6a28dd882fb0c88279f1a5",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2140.jpg",
+      "embedded_bytes": 19771,
+      "source_exists": true,
+      "sha256": "5d512f09db241677b83fd95c2eea83a0b8dc5af159b125b3cb731e17308974d6",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2142.jpg",
+      "embedded_bytes": 17661,
+      "source_exists": true,
+      "sha256": "638f3bd0eb5f588de0024ab04b83cd9e5a622c38c91f17b8b7d50275e91630a5",
+      "matches_texture_file": true,
+      "size_px": [
+        179,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2085.jpg",
+      "embedded_bytes": 26582,
+      "source_exists": true,
+      "sha256": "5fc8d7e63c1b9def716d5bba39648b9e038a47f93b0b1a64a496b5cd1186aeee",
+      "matches_texture_file": true,
+      "size_px": [
+        182,
+        232
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

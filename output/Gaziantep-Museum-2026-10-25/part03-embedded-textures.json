@@ -1,0 +1,475 @@
+{
+  "part": "part03",
+  "fbx_sha256": "424f0fbd586d1e7bdfc69740ad5c99bd3cd55cf910ad052511409d027d9a2f9c",
+  "images": [
+    {
+      "name": "IMG_2028.jpg",
+      "embedded_bytes": 19578,
+      "source_exists": true,
+      "sha256": "92c253a31ac2183eb36a5bbbb1b04491f224e5c6657b02941cd57777ab2110b7",
+      "matches_texture_file": true,
+      "size_px": [
+        180,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_1_Texture_0.jpg",
+      "embedded_bytes": 4107858,
+      "source_exists": true,
+      "sha256": "b5c8ac80ff5313df6fc0d965772e03ff7d9dd3de627e1b8464a1dea89b6e9570",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_2_Texture_0.jpg",
+      "embedded_bytes": 4862049,
+      "source_exists": true,
+      "sha256": "0a0be5f9a62fac92045c912bbe42b18e5cdedd0be98086acff28f6962ebc441a",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_3_Texture_0.jpg",
+      "embedded_bytes": 7130644,
+      "source_exists": true,
+      "sha256": "37a24f13b3f4350677f507af351f77535aa521b72fef405e868919585656eb9e",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_4_Texture_0.jpg",
+      "embedded_bytes": 4077681,
+      "source_exists": true,
+      "sha256": "898c417246c6b01e13d414e8ce4f358c1fee8e663b869a7ccc4914a3cc2d194b",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_5_Texture_0.jpg",
+      "embedded_bytes": 4797189,
+      "source_exists": true,
+      "sha256": "53872f3bc3d4a42baf6db4bc5c150955fd1f91359c9c1b7ac199c96b19cc25b8",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Family_Costume_6_Texture_0.jpg",
+      "embedded_bytes": 4341947,
+      "source_exists": true,
+      "sha256": "c952ff573eae6f62a1211473fa99cbe3521bc83b63355fbea0bc1bf0d2a8e428",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_1_Texture_0.jpg",
+      "embedded_bytes": 4591967,
+      "source_exists": true,
+      "sha256": "e3708c1593833aa4a272b5b3dda23a2aade3fbe6832261f119a534930a5cd38c",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_2_Texture_0.jpg",
+      "embedded_bytes": 4160191,
+      "source_exists": true,
+      "sha256": "a16751604f9d4bf53ef78233b7884be05b2f7da131cfb2a935d03547cd28cbfb",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_3_Texture_0.jpg",
+      "embedded_bytes": 4695772,
+      "source_exists": true,
+      "sha256": "235a3d28affa3cfd3909b47d25023e04ba4661309075cc28373b1942d07bfd75",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_4_Texture_0.jpg",
+      "embedded_bytes": 4005777,
+      "source_exists": true,
+      "sha256": "41b3633ee3e6e4f6ae24c0baed0bc2600e4ea2eb0a939c3d9420612a9cf5fa2c",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_5_Texture_0.jpg",
+      "embedded_bytes": 5776026,
+      "source_exists": true,
+      "sha256": "6c186ca48d6aa1fd0aa25ef194feb2d8b8283c229a743952f0986cb82df90e8e",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Local_Menswear_6_Texture_0.jpg",
+      "embedded_bytes": 3999336,
+      "source_exists": true,
+      "sha256": "0276e469ec3055cdfd8980b350da5bdedf0f9207a62f9fc06bc80767628d2d2a",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1993.jpg",
+      "embedded_bytes": 489042,
+      "source_exists": true,
+      "sha256": "83faec93c4026f72a92329dcda2658b1fafd0d388042dde2e998f4ddc47145f1",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1981.jpg",
+      "embedded_bytes": 486258,
+      "source_exists": true,
+      "sha256": "ce1d64bf72b48483919aece9763bab25ac7db32ad1b486cddf29ab47929bd5ff",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2002.jpg",
+      "embedded_bytes": 18994,
+      "source_exists": true,
+      "sha256": "a7ab08847c8b1e8c874ad35cb2ed54a43da82c8579b014a42112c9f8592eea0b",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1989.jpg",
+      "embedded_bytes": 21234,
+      "source_exists": true,
+      "sha256": "3296c55f093a9b2bb1ef17beaf39e61b8e50dedc32e4a1d19ab60f805bb9db05",
+      "matches_texture_file": true,
+      "size_px": [
+        180,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "part03-original-documents-atlas.jpg",
+      "embedded_bytes": 248650,
+      "source_exists": true,
+      "sha256": "65bb6440a60578aa11af6f0a666750331af040dc19ca9a55ddceb9c9a9c66b7f",
+      "matches_texture_file": true,
+      "size_px": [
+        2048,
+        520
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2052.jpg",
+      "embedded_bytes": 325175,
+      "source_exists": true,
+      "sha256": "69d956666066dd74b994a33a7670d93a1e9cf5d043760ed8a386ca208aebc67c",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1979.jpg",
+      "embedded_bytes": 381009,
+      "source_exists": true,
+      "sha256": "d1355c70ee0ad5e5db9a340777eb8b94529e90dfc2bd3a2f1687289f18ea479b",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2008.jpg",
+      "embedded_bytes": 358031,
+      "source_exists": true,
+      "sha256": "bbfff9e0231db9774ea7f1c583a3aecfba4d4832cd4cabb8d0c8d83f5d57efc1",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1982.jpg",
+      "embedded_bytes": 825265,
+      "source_exists": true,
+      "sha256": "8c69bea49d915fb977b21caa822c8211ff97dfec9b4097f3dd93c4736f40c192",
+      "matches_texture_file": true,
+      "size_px": [
+        1280,
+        960
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_1998.jpg",
+      "embedded_bytes": 531786,
+      "source_exists": true,
+      "sha256": "a3adbe887b2c828a04c6a86c7a8626aa24f0f0abf07dde0d48ed4f34a3f9d26b",
+      "matches_texture_file": true,
+      "size_px": [
+        1280,
+        960
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2015.jpg",
+      "embedded_bytes": 658167,
+      "source_exists": true,
+      "sha256": "4754a396a11622d8508d1e4fc6ce8d64c313ba0562b75b6520f0e565ccb377e5",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_10_Texture_0.jpg",
+      "embedded_bytes": 3594045,
+      "source_exists": true,
+      "sha256": "7ca546207414be3c4e7aa73dea195a26dae0dcee4295f1b0a6d3ecbdd91643b9",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_11_Texture_0.jpg",
+      "embedded_bytes": 3450478,
+      "source_exists": true,
+      "sha256": "f53287f97a267d1958565ffcf74bc1def45418d374d5151f2cfbf0e7464a3a0a",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_1_Texture_0.jpg",
+      "embedded_bytes": 3111723,
+      "source_exists": true,
+      "sha256": "91125af9618b8999e6bb54f32052c5739d847d63da7379c54ba669ecf6ce2f50",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_2_Texture_0.jpg",
+      "embedded_bytes": 3449214,
+      "source_exists": true,
+      "sha256": "9de557b2e14647308935cd9d6414e7c5a56855068bb3782991ad5e0c8955b537",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_3_Texture_0.jpg",
+      "embedded_bytes": 4672191,
+      "source_exists": true,
+      "sha256": "716418ad0a90e627792061d799616174c724423686acb20e4c54494ced73920a",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_4_Texture_0.jpg",
+      "embedded_bytes": 2242355,
+      "source_exists": true,
+      "sha256": "0b7ebad11c373070efc6394703950331a997f2bcda7e29bf4d91d2a8052f9e1b",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_5_Texture_0.jpg",
+      "embedded_bytes": 3637069,
+      "source_exists": true,
+      "sha256": "16d7be3ea776b35ff2ead819e98f6e581e418594cfed5083840eb6296c6b8ac0",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_6_Texture_0.jpg",
+      "embedded_bytes": 3425321,
+      "source_exists": true,
+      "sha256": "8e89390e8b3df7c617838510cac1726086b0c39ae0729bf7c9158c22b86b2c60",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_7_Texture_0.jpg",
+      "embedded_bytes": 3345576,
+      "source_exists": true,
+      "sha256": "01c1a303606ffd77424a9af6a113b83124bbcd92c9fd9a37a3c0338510a237d1",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_8_Texture_0.jpg",
+      "embedded_bytes": 3415415,
+      "source_exists": true,
+      "sha256": "5cd92cd80cc25718ac6a21e7560bbbff09079dcbe009896284a9f3b778f93d50",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "Uniform_9_Texture_0.jpg",
+      "embedded_bytes": 3391841,
+      "source_exists": true,
+      "sha256": "2388d6d62d69cef2c0eb50f9f2bd14b2969bac19eb16e6edfcc4db0829014041",
+      "matches_texture_file": true,
+      "size_px": [
+        4096,
+        4096
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2048.jpg",
+      "embedded_bytes": 411345,
+      "source_exists": true,
+      "sha256": "2c31d640a37910d3949c7db6e26998e6e816ff85ca357ebe6d5e7c150e244bb4",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2053.jpg",
+      "embedded_bytes": 380281,
+      "source_exists": true,
+      "sha256": "a33e2cf723c04d1a7e0f91c0134bb7454f81e79d0a4eb81b317793fe31741eb8",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2009.jpg",
+      "embedded_bytes": 476921,
+      "source_exists": true,
+      "sha256": "6c954d4bac48313aa256981e534c2b21bce2d343d51b9a8204d188a46bdb50c2",
+      "matches_texture_file": true,
+      "size_px": [
+        960,
+        1280
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2067.jpg",
+      "embedded_bytes": 15338,
+      "source_exists": true,
+      "sha256": "ccd671def35d2b72de64d075b212a6775cf4366f3dd299f091e594ad80690c00",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

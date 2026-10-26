@@ -1,0 +1,81 @@
+{
+  "part": "part06",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 179,
+  "vertices": 51184,
+  "polygons": 38569,
+  "visible_bounds_m": {
+    "min": [
+      -50.2819709777832,
+      29.352176666259766,
+      -4.262450218200684
+    ],
+    "max": [
+      -32.35066223144531,
+      52.662742614746094,
+      -0.3499999940395355
+    ]
+  },
+  "collision_meshes": 103,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "a1719ad27e182e36be36c217687d282f0c7a0538fd4e845b7b2852ba985d3d07",
+  "fbx_bytes": 23052460,
+  "fbx_import_check": {
+    "imported_meshes": 179,
+    "expected_meshes": 179,
+    "bounds_max_error_m": 6.67572021484375e-06,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_2194.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2200.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2211.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2210.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_2205.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

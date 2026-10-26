@@ -1,0 +1,34 @@
+{
+  "sessionId": "3420fbf7b620466f8258ae73066d7a52",
+  "state": "complete",
+  "path": "/Users/ibrahimhilwany/Documents/Codex/Museum-Recovery-2026-10-26/project/output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_2026-10-26_3420fbf7.webm",
+  "stem": "Gaziantep_Full_Journey_2026-10-26_3420fbf7",
+  "bytes": 157014264,
+  "chunks": 106,
+  "started_at": 1793008396.188141,
+  "updated_at": 1793008942.037861,
+  "request": {
+    "route_sha256": "66933e07cd846b69578c8df52fe5dcde0ea0315807c530b11f0d73f7e9f680f2",
+    "duration_seconds": 470.7083333333333,
+    "fps": 30,
+    "width": 1280,
+    "height": 720,
+    "mimeType": "video/webm;codecs=vp9"
+  },
+  "finished_at": 1793008942.063023,
+  "client_metadata": {
+    "sessionId": "3420fbf7b620466f8258ae73066d7a52",
+    "chunks": 106,
+    "playback_seconds": 470.7083333333333,
+    "frames_rendered": 25607,
+    "uploaded_bytes": 157014264,
+    "completed_route": true,
+    "stop_reason": "completed",
+    "wall_seconds": 536.097799999997,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "mimeType": "video/webm;codecs=vp9"
+  },
+  "complete": true
+}

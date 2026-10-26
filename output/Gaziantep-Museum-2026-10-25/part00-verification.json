@@ -1,0 +1,162 @@
+{
+  "part": "part00",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [
+    {
+      "mesh": "PT8_Official_Cab_Wordmark_-1",
+      "removed_zero_area_faces": 4852
+    },
+    {
+      "mesh": "PT8_Official_Cab_Wordmark_1",
+      "removed_zero_area_faces": 4852
+    },
+    {
+      "mesh": "Station_Name_0_0",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_1",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_2",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_3",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_4",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_5",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_6",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_7",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_8",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_9",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_10",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_0_11",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_0",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_1",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_2",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_3",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_4",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_5",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_6",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_7",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_8",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_9",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_10",
+      "removed_zero_area_faces": 6
+    },
+    {
+      "mesh": "Station_Name_1_11",
+      "removed_zero_area_faces": 6
+    }
+  ],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 948,
+  "vertices": 1314264,
+  "polygons": 533592,
+  "visible_bounds_m": {
+    "min": [
+      -159.7461700439453,
+      -322.194091796875,
+      -3.3299999237060547
+    ],
+    "max": [
+      265.3853759765625,
+      180.7935791015625,
+      10.5
+    ]
+  },
+  "collision_meshes": 557,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "f1f9a95768764972323124b893998a01b5c56753fab4f2f08c5caae513fc963a",
+  "fbx_bytes": 21255004,
+  "fbx_import_check": {
+    "imported_meshes": 948,
+    "expected_meshes": 948,
+    "bounds_max_error_m": 5.245208740234375e-05,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "PT8_Official_Fabric.jpg": {
+        "size_px": [
+          1560,
+          1040
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "Station_Grass_Original_2024_04_04.jpg": {
+        "size_px": [
+          1368,
+          1824
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "part": "part06",
+  "fbx_sha256": "97e02d129754961b96b8cc9567b4ebf12ca57ae30760b428f79a276238164bdc",
+  "images": [
+    {
+      "name": "IMG_2194.jpg",
+      "embedded_bytes": 54677,
+      "source_exists": true,
+      "sha256": "60b46959ab098f1edede7690e3c679fd2ef35827ed2d56f1eecaaa6856768f89",
+      "matches_texture_file": true,
+      "size_px": [
+        312,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2200.jpg",
+      "embedded_bytes": 36962,
+      "source_exists": true,
+      "sha256": "c33fd719823caca1d1fdcec870576844f61ac098fe8a2412f74d6388e73a8141",
+      "matches_texture_file": true,
+      "size_px": [
+        312,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2211.jpg",
+      "embedded_bytes": 17907,
+      "source_exists": true,
+      "sha256": "220414565165160fee2fe6fde70c807fb92959db6f5acfc98099759d27bc7569",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2210.jpg",
+      "embedded_bytes": 13616,
+      "source_exists": true,
+      "sha256": "120cab09ebed8aab60aa6d91d1e99ae00ee0b248e2f0dd13fb823ef9abc939ee",
+      "matches_texture_file": true,
+      "size_px": [
+        178,
+        232
+      ],
+      "orientation": 1
+    },
+    {
+      "name": "IMG_2205.jpg",
+      "embedded_bytes": 26713,
+      "source_exists": true,
+      "sha256": "c60f4cf3dfe4128ae049111fa3472cd8a242a2a62e7839caae2fef5724222e16",
+      "matches_texture_file": true,
+      "size_px": [
+        179,
+        232
+      ],
+      "orientation": 1
+    }
+  ],
+  "passed": true
+}

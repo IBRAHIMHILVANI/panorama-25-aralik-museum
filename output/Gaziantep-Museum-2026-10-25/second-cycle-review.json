@@ -1,0 +1,125 @@
+{
+  "review_date": "2026-10-26",
+  "navigation_passed": true,
+  "navigation_checks": 42,
+  "navigation": [
+    {
+      "part": "part00",
+      "passed": true,
+      "checks": 6,
+      "report": "review/qa/part00-navigation.json",
+      "own_glb_sha256": "bba5147b246b470b6691518e1e107cbc202bd10bea1d69a7233fc26d82e0dc86"
+    },
+    {
+      "part": "part01",
+      "passed": true,
+      "checks": 5,
+      "report": "review/qa/part01-navigation.json",
+      "own_glb_sha256": "32b512574e383cc30d9ad59ddc34bc678f371e020aa97c877cbb646278e7a86c"
+    },
+    {
+      "part": "part02",
+      "passed": true,
+      "checks": 5,
+      "report": "review/qa/part02-navigation.json",
+      "own_glb_sha256": "4492cfa23105f91cae227edce7280b96ad79d9c4a30e274d86f088a0647d4fd1"
+    },
+    {
+      "part": "part03",
+      "passed": true,
+      "checks": 7,
+      "report": "review/qa/part03-navigation.json",
+      "own_glb_sha256": "1a8ed2c79286982bc1bb22be06f6dbf7a48bf15e2fab9e97a77d5647abe022a4"
+    },
+    {
+      "part": "part04",
+      "passed": true,
+      "checks": 7,
+      "report": "review/qa/part04-navigation.json",
+      "own_glb_sha256": "c715df3802d5402ca8a27667c7df68984bd1221d53be292f482fc7a3d300c50d"
+    },
+    {
+      "part": "part05",
+      "passed": true,
+      "checks": 4,
+      "report": "review/qa/part05-navigation.json",
+      "own_glb_sha256": "c87fb18e9dc3d2010c7343ce45bd5347898f593bbbd3a804331f213af1fbda66"
+    },
+    {
+      "part": "part06",
+      "passed": true,
+      "checks": 4,
+      "report": "review/qa/part06-navigation.json",
+      "own_glb_sha256": "c150f134a68d420a8a6ef335f696ed2f4ae7fb14287b430a7f8a808fb6248441"
+    },
+    {
+      "part": "part07",
+      "passed": true,
+      "checks": 4,
+      "report": "review/qa/part07-navigation.json",
+      "own_glb_sha256": "490f82843969b324141f53428329a482968e912a50a3f323bbc20d63a418076a"
+    }
+  ],
+  "clearance": [
+    {
+      "report": "review/qa/part00-clearance.json",
+      "passed": true,
+      "samples": 1834
+    },
+    {
+      "report": "review/qa/part03-clearance.json",
+      "passed": true,
+      "samples": 264
+    },
+    {
+      "report": "review/qa/part04-clearance.json",
+      "passed": true,
+      "samples": 415
+    },
+    {
+      "report": "review/qa/part05-clearance.json",
+      "passed": true,
+      "samples": 283
+    },
+    {
+      "report": "review/qa/part06-clearance.json",
+      "passed": true,
+      "samples": 225
+    },
+    {
+      "report": "review/qa/part07-clearance.json",
+      "passed": true,
+      "samples": 478
+    },
+    {
+      "report": "review/qa/part02-stair-clearance-after.json",
+      "passed": true,
+      "samples": null
+    }
+  ],
+  "source_image_status": "66 retained review photos +253 temporary low-resolution contact-sheet regions;319HEIC originals on missing external SSD",
+  "browser_qa": "Unavailable after SSD disconnect: CUA Node runtime fails to start. Native Blender visual review and exported-mesh capsule simulation performed; no FPS claim.",
+  "native_visual_review": "review/qa/whole-cycle/",
+  "fidelity_status": "Full-scope editable review model, not a100percent as-built/current-day replica",
+  "source_freshness": {
+    "user_photos": "2026-10-21",
+    "google_street_view": "2024-10",
+    "station_photographs": "2024-04-04",
+    "OSM_download": "2026-10-26"
+  },
+  "credits_3d_generation": 58535,
+  "generated_clothing_models": 23,
+  "combined_export": {
+    "file": "combined-verification.json",
+    "passed": true
+  },
+  "embedded_textures": {
+    "file": "combined-embedded-textures.json",
+    "passed": true
+  },
+  "collision_export": {
+    "file": "combined-colliders-verification.json",
+    "passed": true
+  },
+  "superseded_by": "fidelity-review-2026-10-26.json"
+}

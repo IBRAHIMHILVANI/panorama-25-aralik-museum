@@ -1,0 +1,142 @@
+{
+  "part": "part02",
+  "units": "metres",
+  "blender_version": "4.5.3 LTS",
+  "mesh_repairs": [
+    {
+      "mesh": "REVIEW_Next_Section_Label",
+      "removed_zero_area_faces": 12
+    }
+  ],
+  "source_photos": "reconstruction/evidence-catalog.json",
+  "accuracy_claim": "photo-informed review draft; not a measured survey",
+  "asset_instances": [],
+  "visible_meshes": 325,
+  "vertices": 53600,
+  "polygons": 32259,
+  "visible_bounds_m": {
+    "min": [
+      19.984149932861328,
+      -3.430000066757202,
+      -4.519999980926514
+    ],
+    "max": [
+      44.5099983215332,
+      23.649999618530273,
+      3.5
+    ]
+  },
+  "collision_meshes": 236,
+  "nonfinite_vertices": 0,
+  "degenerate_polygons": 0,
+  "fbx_sha256": "b1790da37c430ac3f0d27b64ee33147a03d52a086d951daed61ebbe9709ced81",
+  "fbx_bytes": 40595340,
+  "fbx_import_check": {
+    "imported_meshes": 325,
+    "expected_meshes": 325,
+    "bounds_max_error_m": 2.384185791015625e-06,
+    "passed": true
+  },
+  "fbx_texture_check": {
+    "images": {
+      "IMG_1952.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1960.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1958.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1969.jpg": {
+        "size_px": [
+          4096,
+          1060
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "map-legend-clean-background-v2.png": {
+        "size_px": [
+          1448,
+          1086
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "map-legend-original-crop.png": {
+        "size_px": [
+          1069,
+          876
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1963.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1962.jpg": {
+        "size_px": [
+          3072,
+          4096
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "floor-map-imagegen-v1.png": {
+        "size_px": [
+          1254,
+          1254
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1951.jpg": {
+        "size_px": [
+          4096,
+          1881
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1949.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      },
+      "IMG_1950.jpg": {
+        "size_px": [
+          4096,
+          3072
+        ],
+        "loaded": true,
+        "file_exists": true
+      }
+    },
+    "textured_meshes_without_uv": [],
+    "passed": true
+  }
+}

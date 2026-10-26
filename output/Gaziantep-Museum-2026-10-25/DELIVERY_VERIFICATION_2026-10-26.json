@@ -1,0 +1,44 @@
+{
+  "completed_at": "2026-10-26T10:49:15.907570+00:00",
+  "ssd_path": "/Volumes/ssd/Projects/Musuem Gaziantep",
+  "verified_artifacts": {
+    "output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_2026-10-26.mp4": {
+      "sha256": "121b8df92783d5986b81da423884582b0738cc08b1c4b4a8d894b4d4ed240d7b",
+      "bytes": 118906811,
+      "matched_internal_copy": true
+    },
+    "output/Gaziantep-Museum-2026-10-25/Gaziantep_Museum_Combined.fbx": {
+      "sha256": "0a9a11230478ef7300e29b6da2726610d88ad57552196394f6afbdf524319e6b",
+      "bytes": 455510268,
+      "matched_internal_copy": true
+    },
+    "output/Gaziantep-Museum-2026-10-25/Gaziantep_Museum_Combined_Colliders.fbx": {
+      "sha256": "6b9692d16ce7129cd0317aceba30ed5a86b5b9c580641be98fd417f6b3e3f8cf",
+      "bytes": 6833084,
+      "matched_internal_copy": true
+    },
+    "output/Gaziantep-Museum-2026-10-25/Gaziantep_Museum_Combined.blend": {
+      "sha256": "76a0f3a09524b5d6344e489144e5006dc1201c72441ee088c53af9e58e94ac25",
+      "bytes": 239873509,
+      "matched_internal_copy": true
+    },
+    "reconstruction/full-tour-path-2026-10-26.json": {
+      "sha256": "66933e07cd846b69578c8df52fe5dcde0ea0315807c530b11f0d73f7e9f680f2",
+      "bytes": 2310187,
+      "matched_internal_copy": true
+    },
+    "output/Gaziantep-Museum-2026-10-25/video/Gaziantep_Full_Journey_Smooth_1p5x_2026-10-26.mp4": {
+      "sha256": "121b8df92783d5986b81da423884582b0738cc08b1c4b4a8d894b4d4ed240d7b",
+      "bytes": 118906811,
+      "matched_internal_copy": true
+    }
+  },
+  "original_heic_count_present": 319,
+  "missing_source_photos": [],
+  "video_seconds": 313.866667,
+  "model_accuracy_100_percent": false,
+  "video_speed": 1.5,
+  "video_frames": 9416,
+  "motion_report": "review/qa/tour-motion/Gaziantep_Smooth_1p5x_full_20261026T104048Z_e11cd385ac3f/report.json",
+  "unexpected_freeze_candidates": 0
+}

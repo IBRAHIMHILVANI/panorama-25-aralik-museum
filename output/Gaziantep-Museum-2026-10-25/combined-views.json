@@ -1,0 +1,1352 @@
+[
+  {
+    "camera": "View_part00_tramstart",
+    "id": "tramstart",
+    "title": "بداية اللعبة داخل الترام",
+    "position": [
+      135.3174493268445,
+      -173.9756107874087,
+      0.8949999999999998
+    ],
+    "target": [
+      137.9285664655911,
+      -172.83343423024093,
+      0.06499999999999995
+    ],
+    "reference_image": "../../references/tram/gaziulas-tram-types.png",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_station",
+    "id": "station",
+    "title": "محطة 15 Temmuz",
+    "position": [
+      135.40375512869397,
+      -167.06149108143256,
+      0.2649999999999999
+    ],
+    "target": [
+      139.46819374469814,
+      -183.83886688150136,
+      0.19499999999999984
+    ],
+    "reference_image": "../../references/tram/YG01-2024-04-04-IMG_2115.jpg",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_museumstreet",
+    "id": "museumstreet",
+    "title": "الشارع أمام المتحف",
+    "position": [
+      -2.781328425821885,
+      -37.023704963006004,
+      0.04999999999999982
+    ],
+    "target": [
+      0,
+      -18,
+      2.2
+    ],
+    "reference_image": "../../references/google-maps/recovered-maps-observation-13.png",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_southstreets",
+    "id": "southstreets",
+    "title": "الحارات جنوب المتحف",
+    "position": [
+      36.171664023959316,
+      67.4591375481321,
+      0.04999999999999982
+    ],
+    "target": [
+      12.142008798692478,
+      92.98511783792326,
+      0.04999999999999982
+    ],
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_eaststreets",
+    "id": "eaststreets",
+    "title": "الحارات شرق المتحف",
+    "position": [
+      -73.00419853680074,
+      93.33636757984199,
+      0.04999999999999982
+    ],
+    "target": [
+      -41.44661609296587,
+      113.28928692264905,
+      0.04999999999999982
+    ],
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_surroundings",
+    "id": "surroundings",
+    "title": "المتحف ومحيط 100 متر",
+    "position": [
+      131.97352130977802,
+      -54.49168918374218,
+      150
+    ],
+    "target": [
+      10.10890989457901,
+      12.95470793739799,
+      0
+    ],
+    "mode": "fly",
+    "reference_image": "../../references/geospatial/site-plan-reference.png",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_traminterior",
+    "id": "traminterior",
+    "title": "داخل الترام — مقارنة بالصور الرسمية",
+    "position": [
+      135.27903496773556,
+      -174.8110294471322,
+      0.8949999999999998
+    ],
+    "target": [
+      142.47274345937106,
+      -191.25648651397506,
+      0.7449999999999999
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/tram-interior-gaziulas-7.jpg",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_tramjoint",
+    "id": "tramjoint",
+    "title": "مفصل العربة والمقاعد",
+    "position": [
+      137.76376993420578,
+      -180.4913544507214,
+      0.8949999999999998
+    ],
+    "target": [
+      136.46128789533023,
+      -177.513764731098,
+      0.6949999999999998
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/tram-interior-gaziulas-8.jpg",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_tramcab",
+    "id": "tramcab",
+    "title": "زجاج كابينة القيادة",
+    "position": [
+      134.41739300355638,
+      -172.8412393249198,
+      0.8949999999999998
+    ],
+    "target": [
+      133.93765462578062,
+      -171.19556284125449,
+      -0.20500000000000007
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/tram-cab-gaziulas-5.jpg",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_tramface",
+    "id": "tramface",
+    "title": "واجهة الترام والشعار الأصلي",
+    "position": [
+      134.72245683143603,
+      -165.50398261270652,
+      -0.05500000000000016
+    ],
+    "target": [
+      133.85750188492673,
+      -171.01232655081614,
+      -0.15500000000000003
+    ],
+    "mode": "fly",
+    "reference_image": "../../references/tram/gaziulas-tram-types.png",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part00_stationground",
+    "id": "stationground",
+    "title": "العشب والبلاط بين السكك عن قرب",
+    "position": [
+      130.7885567443423,
+      -167.98882266887992,
+      -0.8550000000000001
+    ],
+    "target": [
+      133.59390267422802,
+      -174.40209283422257,
+      -1.655
+    ],
+    "mode": "fly",
+    "reference_image": "../../references/tram/YG01-2024-04-04-IMG_2115.jpg",
+    "part": "part00"
+  },
+  {
+    "camera": "View_part01_arrival",
+    "id": "arrival",
+    "title": "بداية المدخل",
+    "position": [
+      0,
+      -25,
+      0.05
+    ],
+    "target": [
+      0,
+      10,
+      1.7
+    ],
+    "photo": 1935,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_passage",
+    "id": "passage",
+    "title": "ممر الأعلام",
+    "position": [
+      0,
+      -9,
+      1.65
+    ],
+    "target": [
+      0,
+      22,
+      1.8
+    ],
+    "photo": 1935,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_portal",
+    "id": "portal",
+    "title": "من تحت المدخل",
+    "position": [
+      0.2,
+      9.2,
+      1.65
+    ],
+    "target": [
+      6.6,
+      29,
+      2.7
+    ],
+    "photo": 1936,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_courtyard",
+    "id": "courtyard",
+    "title": "الساحة والأشجار",
+    "position": [
+      0,
+      17,
+      1.65
+    ],
+    "target": [
+      6,
+      31,
+      2.5
+    ],
+    "photo": 1940,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_rightwing",
+    "id": "rightwing",
+    "title": "الواجهة المنحنية",
+    "position": [
+      7,
+      23,
+      1.65
+    ],
+    "target": [
+      21.5,
+      30,
+      4.0
+    ],
+    "photo": 1941,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_door",
+    "id": "door",
+    "title": "فتحة الباب",
+    "position": [
+      17.933126189763453,
+      13.340990659278882,
+      1.65
+    ],
+    "target": [
+      23.456155310478092,
+      10.99660388834324,
+      1.5
+    ],
+    "photo": 1935,
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_above",
+    "id": "above",
+    "title": "نظرة من الأعلى",
+    "position": [
+      7,
+      -15,
+      35
+    ],
+    "target": [
+      4,
+      23,
+      0
+    ],
+    "photo": 1936,
+    "mode": "fly",
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_rotundalogo",
+    "id": "rotundalogo",
+    "title": "شعار بانوراما من جهة الترام",
+    "position": [
+      -13,
+      -22,
+      2.0
+    ],
+    "target": [
+      -13,
+      -2,
+      9.3
+    ],
+    "mode": "fly",
+    "part": "part01"
+  },
+  {
+    "camera": "View_part01_flagdetail",
+    "id": "flagdetail",
+    "title": "العلم وشعار البلدية عن قرب",
+    "position": [
+      0,
+      5.5,
+      3.6
+    ],
+    "target": [
+      0,
+      8.6,
+      4.1
+    ],
+    "mode": "fly",
+    "part": "part01"
+  },
+  {
+    "camera": "View_part02_atrium",
+    "id": "atrium",
+    "title": "الاستقبال والفتحة الدائرية",
+    "position": [
+      25,
+      10.5,
+      1.65
+    ],
+    "target": [
+      35,
+      8,
+      0.4
+    ],
+    "photo": 1946,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_timeline",
+    "id": "timeline",
+    "title": "الخط الزمني",
+    "position": [
+      33,
+      1,
+      1.65
+    ],
+    "target": [
+      41,
+      6,
+      1.7
+    ],
+    "photo": 1951,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_redif",
+    "id": "redif",
+    "title": "معرض مخزن الرديف",
+    "position": [
+      28.3,
+      14.3,
+      1.65
+    ],
+    "target": [
+      28.1,
+      17.5,
+      1.55
+    ],
+    "photo": 1949,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_stairs",
+    "id": "stairs",
+    "title": "النزول إلى قاعة الخريطة",
+    "position": [
+      41.1,
+      14.0,
+      1.65
+    ],
+    "target": [
+      41.1,
+      4,
+      -2.0
+    ],
+    "photo": 1974,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_staircheck",
+    "id": "staircheck",
+    "title": "الدرج والأعمدة بعد التصحيح",
+    "position": [
+      36.5,
+      8,
+      -2.55
+    ],
+    "target": [
+      41.1,
+      8,
+      -1.2
+    ],
+    "photo": 1974,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_maphall",
+    "id": "maphall",
+    "title": "قاعة الخريطة من الأسفل",
+    "position": [
+      33,
+      1.5,
+      -2.55
+    ],
+    "target": [
+      33,
+      12,
+      -1.1
+    ],
+    "photo": 1976,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_mapdetail",
+    "id": "mapdetail",
+    "title": "تفاصيل الخريطة المصوّرة",
+    "position": [
+      35.2,
+      5.3,
+      -2.55
+    ],
+    "target": [
+      33,
+      10,
+      -4.15
+    ],
+    "photo": 1976,
+    "reference_image": "../../reconstruction/imagegen-inputs/floor-source-1976.png",
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_legend",
+    "id": "legend",
+    "title": "لوحة أسماء الأماكن",
+    "position": [
+      32.15,
+      -0.75,
+      -2.55
+    ],
+    "target": [
+      32.04,
+      -3.05,
+      -2.56
+    ],
+    "photo": 1969,
+    "reference_image": "../../reconstruction/imagegen-inputs/board-source.png",
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_balcony",
+    "id": "balcony",
+    "title": "الدرابزين من الأسفل",
+    "position": [
+      29,
+      4,
+      -2.55
+    ],
+    "target": [
+      35,
+      10,
+      0.2
+    ],
+    "photo": 1974,
+    "part": "part02"
+  },
+  {
+    "camera": "View_part02_cinemaentry",
+    "id": "cinemaentry",
+    "title": "باب السينما بجانب الدرج من جهة قاعة الخريطة",
+    "position": [
+      43.45,
+      2.4,
+      -2.5500000000000003
+    ],
+    "target": [
+      46.0,
+      2.4,
+      -2.5500000000000003
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/cinema-reference.jpg",
+    "reference_label": "السينما الحقيقية؛ الاتصال بالدرج حسب إفادة المستخدم",
+    "part": "part02"
+  },
+  {
+    "camera": "View_part03_archives",
+    "id": "archives",
+    "title": "مدخل معرض الوثائق",
+    "position": [
+      34.17551124616765,
+      24.90295976744054,
+      -2.5500000000000003
+    ],
+    "target": [
+      35.23756836672985,
+      33.781680562985876,
+      -2.7
+    ],
+    "photo": 1985,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_documents",
+    "id": "documents",
+    "title": "جدار الوثائق الأصلية",
+    "position": [
+      33.40977371259398,
+      34.05981704018285,
+      -2.5500000000000003
+    ],
+    "target": [
+      36.69392152197682,
+      34.939801793531416,
+      -2.1
+    ],
+    "photo": 2021,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_relief",
+    "id": "relief",
+    "title": "الخريطة البارزة والشرح",
+    "position": [
+      35.34207997080744,
+      27.116963324027815,
+      -2.5500000000000003
+    ],
+    "target": [
+      31.955017997295506,
+      26.820633798685776,
+      -2.2
+    ],
+    "photo": 1982,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_archivecases",
+    "id": "archivecases",
+    "title": "الفاترينات والدفاتر",
+    "position": [
+      32.39103795806887,
+      38.31386865414011,
+      -2.5500000000000003
+    ],
+    "target": [
+      33.93041129053093,
+      38.90786338753819,
+      -3.17
+    ],
+    "photo": 2008,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_uniforms",
+    "id": "uniforms",
+    "title": "الأزياء العسكرية المنحنية",
+    "position": [
+      29.115981241646736,
+      42.965106252890436,
+      -2.5500000000000003
+    ],
+    "target": [
+      30.398302648831404,
+      47.137334119652174,
+      -3.0
+    ],
+    "photo": 2034,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_uniformdetail",
+    "id": "uniformdetail",
+    "title": "مطابقة تفاصيل الزي",
+    "position": [
+      29.562529477543436,
+      43.293849983236065,
+      -2.5500000000000003
+    ],
+    "target": [
+      31.965403090890966,
+      44.63127227940066,
+      -2.9000000000000004
+    ],
+    "photo": 2048,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_hats",
+    "id": "hats",
+    "title": "القبعات وتفاصيل الأزياء",
+    "position": [
+      26.808731121222444,
+      46.72987650021692,
+      -2.5500000000000003
+    ],
+    "target": [
+      30.39973651757515,
+      49.272450047504336,
+      -2.7
+    ],
+    "photo": 2052,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_menswear",
+    "id": "menswear",
+    "title": "الفاترينة الدائرية للأزياء الشعبية",
+    "position": [
+      25.137250327570957,
+      39.91680973996417,
+      -2.5500000000000003
+    ],
+    "target": [
+      25.689360951787304,
+      43.922399527659294,
+      -2.7
+    ],
+    "photo": 2046,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_artillery",
+    "id": "artillery",
+    "title": "المدفع وبنادق العرض",
+    "position": [
+      20.078346402372663,
+      53.499705813855186,
+      -2.5500000000000003
+    ],
+    "target": [
+      19.81730187549809,
+      57.636592153719775,
+      -3.1
+    ],
+    "photo": 2061,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_womenswear",
+    "id": "womenswear",
+    "title": "الأزياء العائلية والأواني",
+    "position": [
+      18.185480380315692,
+      49.075428418178355,
+      -2.5500000000000003
+    ],
+    "target": [
+      17.148871472244753,
+      53.12920433561275,
+      -2.7
+    ],
+    "photo": 2074,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_sculpture",
+    "id": "sculpture",
+    "title": "تركيب مجسمات الأسلحة",
+    "position": [
+      12.653158101008813,
+      53.35129298470619,
+      -2.5500000000000003
+    ],
+    "target": [
+      14.160803275593619,
+      50.25428958658431,
+      -2.7
+    ],
+    "photo": 2042,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part03_return",
+    "id": "return",
+    "title": "الممر والرجوع إلى الخريطة",
+    "position": [
+      11.600000000000005,
+      53.984094213212245,
+      -2.5500000000000003
+    ],
+    "target": [
+      20.15869785680428,
+      47.05339734383181,
+      -2.8000000000000003
+    ],
+    "photo": 2040,
+    "part": "part03"
+  },
+  {
+    "camera": "View_part04_portraits",
+    "id": "portraits",
+    "title": "ممر الصور والأسماء",
+    "position": [
+      9.255315908259893,
+      54.778032811211006,
+      -2.5500000000000003
+    ],
+    "target": [
+      1.7833064802977265,
+      57.213204241569144,
+      -2.7
+    ],
+    "photo": 2081,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_redroom",
+    "id": "redroom",
+    "title": "الغرفة الحمراء",
+    "position": [
+      10.069587477687424,
+      60.45752099772049,
+      -2.5500000000000003
+    ],
+    "target": [
+      11.86395828785103,
+      64.58429133245355,
+      -2.6
+    ],
+    "photo": 2085,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_stoneportals",
+    "id": "stoneportals",
+    "title": "الأقواس الحجرية",
+    "position": [
+      2.443074156428402,
+      57.36332084703228,
+      -2.5500000000000003
+    ],
+    "target": [
+      -0.8645125745735847,
+      60.04089173656394,
+      -2.8000000000000003
+    ],
+    "photo": 2087,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_kastelstairs",
+    "id": "kastelstairs",
+    "title": "النزول إلى الكستل",
+    "position": [
+      3.97807228057537,
+      58.29767339296715,
+      -2.5500000000000003
+    ],
+    "target": [
+      5.0806217038433665,
+      62.142720176720424,
+      -4.05
+    ],
+    "photo": 2088,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_kastel",
+    "id": "kastel",
+    "title": "القاعة الحجرية من الداخل",
+    "position": [
+      3.676875823986707,
+      62.31182905103986,
+      -3.3000000000000003
+    ],
+    "target": [
+      -3.7914226465477645,
+      65.64216636664301,
+      -3.6500000000000004
+    ],
+    "photo": 2095,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_ramp",
+    "id": "ramp",
+    "title": "الدرج والمنحدر والدرابزين",
+    "position": [
+      -1.4409206727612798,
+      64.14510789366838,
+      -3.3000000000000003
+    ],
+    "target": [
+      -0.8505952644775778,
+      60.13991854343811,
+      -3.6
+    ],
+    "photo": 2092,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_stonepanels",
+    "id": "stonepanels",
+    "title": "لوحات القاعات الحجرية",
+    "position": [
+      0.7736123362419987,
+      66.26690514776946,
+      -3.3000000000000003
+    ],
+    "target": [
+      1.3776279819722888,
+      67.58696638871425,
+      -3.4000000000000004
+    ],
+    "photo": 2102,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_hands",
+    "id": "hands",
+    "title": "مجسمات الأيدي والمراسلات",
+    "position": [
+      -12.869123833555612,
+      58.8385786041159,
+      -2.5500000000000003
+    ],
+    "target": [
+      -12.315777746963633,
+      55.99185977211768,
+      -2.5
+    ],
+    "photo": 2128,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_typewriter",
+    "id": "typewriter",
+    "title": "الآلة الكاتبة والوثائق",
+    "position": [
+      -12.03408920184068,
+      64.86217798308292,
+      -2.5500000000000003
+    ],
+    "target": [
+      -12.322801603842628,
+      66.84122956122087,
+      -2.8000000000000003
+    ],
+    "photo": 2132,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part04_kiosk",
+    "id": "kiosk",
+    "title": "الوثائق وشاشة القراءة",
+    "position": [
+      -13.758635250994065,
+      63.04609435888748,
+      -2.5500000000000003
+    ],
+    "target": [
+      -14.567227510402875,
+      67.16752354765492,
+      -2.6
+    ],
+    "photo": 2141,
+    "part": "part04"
+  },
+  {
+    "camera": "View_part05_paintings",
+    "id": "paintings",
+    "title": "قاعات اللوحات",
+    "position": [
+      -17.87029121174311,
+      62.32597309209925,
+      -2.5500000000000003
+    ],
+    "target": [
+      -26.299999999999994,
+      58.66063139364821,
+      -2.6
+    ],
+    "photo": 2145,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part05_britisharrival",
+    "id": "britisharrival",
+    "title": "لوحة وصول القوات",
+    "position": [
+      -18.509361259377762,
+      63.17462515112624,
+      -2.5500000000000003
+    ],
+    "target": [
+      -19.44154923784101,
+      66.13114769844574,
+      -2.5
+    ],
+    "photo": 2012,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part05_cannonpainting",
+    "id": "cannonpainting",
+    "title": "لوحة المدفع",
+    "position": [
+      -25.465880273239865,
+      60.26465021168964,
+      -2.5500000000000003
+    ],
+    "target": [
+      -26.916462697447642,
+      63.004323664964595,
+      -2.5
+    ],
+    "photo": 2157,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part05_council",
+    "id": "council",
+    "title": "لوحة المجلس",
+    "position": [
+      -29.057478699854308,
+      56.552120597713014,
+      -2.5500000000000003
+    ],
+    "target": [
+      -27.22661190482866,
+      53.92763459491694,
+      -2.5
+    ],
+    "photo": 2165,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part05_writingdesk",
+    "id": "writingdesk",
+    "title": "اللوحة والمكتب الخشبي",
+    "position": [
+      -32.08700700533615,
+      54.47931673719649,
+      -2.5500000000000003
+    ],
+    "target": [
+      -29.96139902712358,
+      51.955076114165664,
+      -2.7
+    ],
+    "photo": 2167,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part05_history",
+    "id": "history",
+    "title": "قاعة الصور والوثائق الختامية",
+    "position": [
+      -33.33546130769419,
+      51.316767517013076,
+      -2.5500000000000003
+    ],
+    "target": [
+      -38.2791595100468,
+      54.13177861837205,
+      -2.6
+    ],
+    "photo": 2179,
+    "part": "part05"
+  },
+  {
+    "camera": "View_part06_dioramas",
+    "id": "dioramas",
+    "title": "المشاهد الثلاثة",
+    "position": [
+      -34.91403602427833,
+      45.4469478695042,
+      -2.5500000000000003
+    ],
+    "target": [
+      -41.829593169348286,
+      45.02859153124027,
+      -2.9000000000000004
+    ],
+    "photo": 2189,
+    "part": "part06"
+  },
+  {
+    "camera": "View_part06_community",
+    "id": "community",
+    "title": "مشهد الحياة والحرف",
+    "position": [
+      -35.56651987627155,
+      44.90259102085632,
+      -2.5500000000000003
+    ],
+    "target": [
+      -40.59475824559095,
+      48.35885560377061,
+      -2.9000000000000004
+    ],
+    "photo": 2194,
+    "part": "part06"
+  },
+  {
+    "camera": "View_part06_defence",
+    "id": "defence",
+    "title": "مشهد الدفاع والركام",
+    "position": [
+      -38.05124925230986,
+      40.32728205523122,
+      -2.5500000000000003
+    ],
+    "target": [
+      -44.51462272031709,
+      43.720628989020945,
+      -2.9000000000000004
+    ],
+    "photo": 2200,
+    "part": "part06"
+  },
+  {
+    "camera": "View_part06_ruin",
+    "id": "ruin",
+    "title": "مشهد العربة والخراب",
+    "position": [
+      -40.10247979090014,
+      35.64334682495924,
+      -2.5500000000000003
+    ],
+    "target": [
+      -46.79108770568995,
+      38.025052970186046,
+      -2.9000000000000004
+    ],
+    "photo": 2205,
+    "part": "part06"
+  },
+  {
+    "camera": "View_part06_projection",
+    "id": "projection",
+    "title": "منطقة العرض والاقتباس",
+    "position": [
+      -41.90094187221187,
+      32.451110137187705,
+      -2.5500000000000003
+    ],
+    "target": [
+      -49.40970231196073,
+      34.16244555376257,
+      -2.9000000000000004
+    ],
+    "photo": 2210,
+    "part": "part06"
+  },
+  {
+    "camera": "View_part07_panoramastair",
+    "id": "panoramastair",
+    "title": "درج الصعود إلى البانوراما",
+    "position": [
+      -31.29362572400918,
+      17.60601402178293,
+      -2.316666666666667
+    ],
+    "target": [
+      -31.772750592476395,
+      16.389684682688184,
+      -1.936666666666667
+    ],
+    "photo": 2214,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_panorama",
+    "id": "panorama",
+    "title": "القاعة البانورامية الكاملة",
+    "position": [
+      -31.232590180780452,
+      18.232590180780452,
+      1.65
+    ],
+    "target": [
+      -38.020815280171306,
+      25.02081528017131,
+      0.5
+    ],
+    "photo": 2254,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_rooftops",
+    "id": "rooftops",
+    "title": "سطوح المدينة",
+    "position": [
+      -33.38985855718385,
+      12.612713923802218,
+      1.65
+    ],
+    "target": [
+      -39.98081348656403,
+      12.26729661259879,
+      0.5
+    ],
+    "photo": 2225,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_well",
+    "id": "well",
+    "title": "البئر والميدان",
+    "position": [
+      -31.412017391981863,
+      7.953212135537512,
+      1.65
+    ],
+    "target": [
+      -34.77624441943004,
+      4.816019679250019,
+      0.5
+    ],
+    "photo": 2231,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_cannon",
+    "id": "cannon",
+    "title": "المدفع في البانوراما",
+    "position": [
+      -26.90183314119809,
+      5.655158477854216,
+      1.65
+    ],
+    "target": [
+      -27.462432120861767,
+      1.0894461803041349,
+      0.5
+    ],
+    "photo": 2234,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_tank",
+    "id": "tank",
+    "title": "الدبابة",
+    "position": [
+      -21.546568828674843,
+      7.09009722565003,
+      1.65
+    ],
+    "target": [
+      -18.59767521522981,
+      3.1767832264182942,
+      0.5
+    ],
+    "photo": 2239,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_wagon",
+    "id": "wagon",
+    "title": "العربة الخشبية",
+    "position": [
+      -18.71242262770966,
+      11.715003485264715,
+      1.65
+    ],
+    "target": [
+      -13.394460761443737,
+      10.77730332586329,
+      0.5
+    ],
+    "photo": 2242,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_hospital",
+    "id": "hospital",
+    "title": "مشهد الإسعاف",
+    "position": [
+      -19.527814167168472,
+      16.587591189822895,
+      1.65
+    ],
+    "target": [
+      -15.504563514327252,
+      18.817715442956047,
+      0.5
+    ],
+    "photo": 2247,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_kitchen",
+    "id": "kitchen",
+    "title": "نافذة المطبخ",
+    "position": [
+      -20.767409819219548,
+      18.232590180780452,
+      1.65
+    ],
+    "target": [
+      -22.959440840897845,
+      16.040559159102155,
+      1.2
+    ],
+    "photo": 2249,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_medical",
+    "id": "medical",
+    "title": "غرفة العلاج",
+    "position": [
+      -24.52467728531274,
+      20.25144281419414,
+      1.65
+    ],
+    "target": [
+      -25.12278108856433,
+      17.31166870033165,
+      1.2
+    ],
+    "photo": 2250,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_tankrail",
+    "id": "tankrail",
+    "title": "تفصيل الدرابزين الحديدي قرب الدبابة",
+    "position": [
+      -22.640470301927355,
+      6.406551721006077,
+      1.65
+    ],
+    "target": [
+      -21.709789777461285,
+      4.579988346419924,
+      0.7
+    ],
+    "reference_image": "../../references/live-review-2026-10-26/13-panorama-floor-arch-may2026.png",
+    "part": "part07"
+  },
+  {
+    "camera": "View_part07_canopydetail",
+    "id": "canopydetail",
+    "title": "تفاصيل القماش والحبال فوق مسار المشاهدة",
+    "position": [
+      -19.724444088442446,
+      9.078597444674283,
+      1.65
+    ],
+    "target": [
+      -18.565732489315135,
+      8.879118227906137,
+      2.85
+    ],
+    "photo": 2242,
+    "part": "part07"
+  },
+  {
+    "camera": "View_part08_cinemaconnection",
+    "id": "cinemaconnection",
+    "title": "من أسفل الدرج إلى السينما",
+    "position": [
+      43.45,
+      2.4,
+      -2.55
+    ],
+    "target": [
+      46.0,
+      2.4,
+      -2.55
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/cinema-reference.jpg",
+    "reference_label": "السينما الحقيقية؛ الاتصال بالدرج حسب إفادة المستخدم",
+    "part": "part08"
+  },
+  {
+    "camera": "View_part08_cinema",
+    "id": "cinema",
+    "title": "السينما — من مؤخرة القاعة",
+    "position": [
+      52.15,
+      0.11000000000000047,
+      -2.5500000000000003
+    ],
+    "target": [
+      44.6,
+      -0.14,
+      -2.6500000000000004
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/cinema-reference.jpg",
+    "reference_label": "Sinevizyon · الصورة المنشورة للقاعة",
+    "part": "part08"
+  },
+  {
+    "camera": "View_part08_cinemaseats",
+    "id": "cinemaseats",
+    "title": "المقاعد والممر الوسطي",
+    "position": [
+      50.3,
+      0.11000000000000036,
+      -2.5500000000000003
+    ],
+    "target": [
+      47.9,
+      1.4100000000000004,
+      -3.5500000000000003
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/cinema-reference.jpg",
+    "part": "part08"
+  },
+  {
+    "camera": "View_part08_cinemadoor",
+    "id": "cinemadoor",
+    "title": "الباب بجانب الشاشة — متصل بقاعة الخريطة",
+    "position": [
+      45.5,
+      0.11000000000000006,
+      -2.5500000000000003
+    ],
+    "target": [
+      44.5,
+      2.4099999999999997,
+      -3.1
+    ],
+    "reference_image": "../../references/fidelity-2026-10-26/cinema-reference.jpg",
+    "part": "part08"
+  }
+]
