@@ -1,0 +1,54 @@
+{
+  "minimum_clearance_m": 0.16291836294126938,
+  "columns": [
+    {
+      "column": "Atrium_Column_0",
+      "centre_xy_m": [
+        39.192081637058735,
+        11.575
+      ],
+      "clearance_to_stair_m": 0.16291836294126938
+    },
+    {
+      "column": "Atrium_Column_1",
+      "centre_xy_m": [
+        33.0,
+        16.6
+      ],
+      "clearance_to_stair_m": 7.0651532881312145
+    },
+    {
+      "column": "Atrium_Column_2",
+      "centre_xy_m": [
+        25.552181527453826,
+        12.299999999999999
+      ],
+      "clearance_to_stair_m": 13.802818472546178
+    },
+    {
+      "column": "Atrium_Column_3",
+      "centre_xy_m": [
+        25.55218152745383,
+        3.6999999999999993
+      ],
+      "clearance_to_stair_m": 13.802818472546175
+    },
+    {
+      "column": "Atrium_Column_4",
+      "centre_xy_m": [
+        33.0,
+        -0.5999999999999996
+      ],
+      "clearance_to_stair_m": 6.539248908414399
+    },
+    {
+      "column": "Atrium_Column_5",
+      "centre_xy_m": [
+        39.192081637058735,
+        4.424999999999997
+      ],
+      "clearance_to_stair_m": 0.16291836294126938
+    }
+  ],
+  "passed": true
+}

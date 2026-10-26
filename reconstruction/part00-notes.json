@@ -1,0 +1,169 @@
+{
+  "title": "الترام والشوارع المحيطة",
+  "source": "OpenStreetMap, station photographs dated 2024-04-04, Google Street View October 2024, Gaziulaş official fleet page",
+  "requested_minimum_buffer_m": 100,
+  "working_buffer_m": 110,
+  "coverage_contains_requested_buffer": true,
+  "neighbor_buildings": 231,
+  "road_ways": 36,
+  "tram_platforms": 2,
+  "train_type": "Siemens-Düwag PT8",
+  "train_envelope_m": [
+    29.118,
+    2.35,
+    3.26
+  ],
+  "train_spec_source": "https://gaziulas.com.tr/hizmetler/tramvay-isletmesi/tramvay-filomuz",
+  "route_author_xy": [
+    [
+      137.42524196589497,
+      -170.66732665514868
+    ],
+    [
+      124.30164558177549,
+      -140.55900192681605
+    ],
+    [
+      119.03953648351774,
+      -129.3095482583914
+    ],
+    [
+      108.07239195506006,
+      -104.57148566464893
+    ],
+    [
+      90.21084743853156,
+      -85.61851155808529
+    ],
+    [
+      73.00534225295178,
+      -71.33668424821394
+    ],
+    [
+      51.20357040865813,
+      -60.91158259646181
+    ],
+    [
+      25.17530240594793,
+      -50.11671044441237
+    ],
+    [
+      3.3735305616542837,
+      -39.69160879266025
+    ],
+    [
+      -5.748752807389703,
+      -30.37581864180008
+    ],
+    [
+      0,
+      -25
+    ],
+    [
+      0,
+      -21
+    ],
+    [
+      0,
+      -17.5
+    ]
+  ],
+  "tram_door_author_xy": [
+    135.3174493268445,
+    -173.9756107874087
+  ],
+  "platform_exit_author_xy": [
+    137.9285664655911,
+    -172.83343423024093
+  ],
+  "accuracy_100_percent": false,
+  "limits": [
+    "OSM plan coordinates are mapped data, not a site survey",
+    "Street widths, levels, building heights, individual windows, tree/pole chainage and car details are estimated",
+    "Available Google Street View is October 2024, not current-day imagery",
+    "Livery uses official fleet reference; dynamic ads and exact vehicle at this stop today are not verified",
+    "Station platform end ramps and boarding geometry inferred for playable continuity"
+  ],
+  "attribution": "© OpenStreetMap contributors, ODbL; YG01 station photographs CC BY 4.0",
+  "interior_reference_review": {
+    "reference_sources": [
+      "https://gaziulas.com.tr/hizmetler/tramvay-tarihce",
+      "https://gaziulas.com.tr/images/album/gaziulas-tramvay-genel-7.jpg",
+      "https://gaziulas.com.tr/images/album/gaziulas-tramvay-genel-8.jpg",
+      "https://gaziulas.com.tr/images/album/gaziulas-tramvay-genel-9.jpg"
+    ],
+    "nominal_seat_count": 50,
+    "seat_count_basis": "official PT8 capacity50; row spacing and complete seating diagram not yet verified",
+    "observed_features": [
+      "black/red/orange patterned upholstery",
+      "white poles and orange rails",
+      "black hanging loops",
+      "grey rubber floor and articulation floor seams",
+      "silver articulation surrounds",
+      "upper side-window dividers",
+      "glazed cab partition",
+      "reader at doors",
+      "long ceiling lights and round grilles"
+    ],
+    "confidence": "photo-supported features; unmeasured placement and current-day condition unverified"
+  },
+  "station_landscape_review": {
+    "reference": "YG01 15 Temmuz station photographs, 2024-04-04: grass median and red/grey brick track infill",
+    "grass_area_m2": 499.87864967863743,
+    "individual_blade_positions": "procedural; no surveyed placement",
+    "blade_height_above_surface_m": [
+      0.008,
+      0.026
+    ],
+    "blade_full_width_m": [
+      0.002,
+      0.004
+    ],
+    "track_bed": "red-grey interlocking brick infill on continuous neutral grout; 2024 photographed condition",
+    "paver_lattice_m": [
+      0.24,
+      0.17
+    ],
+    "paver_row_shift_m": 0.12,
+    "joint_width_m": 0.003,
+    "turf_texture": {
+      "source": "references/tram/YG01-2024-04-04-IMG_2115.jpg",
+      "source_date": "2024-04-04",
+      "sha256": "61586236ba356ef489bf2bcdf32d2b27ce98a8757201d325d7ecf52c4ff5bf30",
+      "source_pixels_unchanged": true,
+      "uv_quad_source_pixels": [
+        [
+          250.0,
+          1330.0
+        ],
+        [
+          560.0,
+          1228.0
+        ],
+        [
+          560.0,
+          1275.0
+        ],
+        [
+          250.0,
+          1375.0
+        ]
+      ],
+      "source_dimensions_px": [
+        1368,
+        1824
+      ],
+      "texture_mapping": "bounded clean-turf region tiled with alternating UV reflection; no source image edits",
+      "metric_texture_scale": "estimated; not a surveyed ground orthophoto"
+    }
+  },
+  "tram_local_frame": {
+    "origin_author": [
+      139.46819374469814,
+      -183.83886688150136,
+      -1.705
+    ],
+    "yaw_author_rad": 1.9831465942032167,
+    "floor_above_rail_m": 0.95
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "دراسة مرجعية للسينما في الطابق السفلي",
+  "source_url": "https://gamaakademi.com.tr/salonlar.php",
+  "image_url": "https://gamaakademi.com.tr/uploads/halls/6aa3f6962e8f7_1789130390.jpg",
+  "source_identity": "Page published under museum name; corroborating municipality page confirms cinevision room existence. Site affiliation and capture date not independently confirmed.",
+  "floor": "-1 per user and published hall listing",
+  "modeled_dimensions_m": [
+    5.8,
+    8.0,
+    2.82
+  ],
+  "modeled_seats": 36,
+  "seat_count_verified": false,
+  "global_placement": "USER_CONFIRMED_ADJACENCY - beside stair on the right viewed from map hall; global metric transform remains estimated",
+  "global_origin_author_m": [
+    44.5,
+    0.11,
+    -4.2
+  ],
+  "global_yaw_rad": -1.5707963267948966,
+  "user_observation": "2026-10-26: cinema beside the stair on the right",
+  "visible_features": [
+    "central aisle with three chairs per bank",
+    "dark upholstered armchairs on wooden legs",
+    "timber acoustic sidewall panels",
+    "perforated grey ceiling with round downlights",
+    "ceiling projector",
+    "large front screen",
+    "doorway to screen right with exit light"
+  ],
+  "unverified": [
+    "exact width,length,height",
+    "total seat count and row pitch",
+    "rear wall and exact connector dimensions",
+    "surveyed door coordinates; right side interpreted from map-hall viewpoint",
+    "current condition and source photo date"
+  ],
+  "accuracy_100_percent": false
+}

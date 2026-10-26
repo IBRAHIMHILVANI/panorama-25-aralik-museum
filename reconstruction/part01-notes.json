@@ -1,0 +1,31 @@
+{
+  "title": "الساحة الوسطية وممر الدخول",
+  "stage": "draft for joint visual review",
+  "source_photos": [
+    "IMG_1935",
+    "IMG_1936",
+    "IMG_1937",
+    "IMG_1938",
+    "IMG_1939",
+    "IMG_1940",
+    "IMG_1941"
+  ],
+  "observed": [
+    "Original municipality wordmark and museum logo silhouettes",
+    "Vertical 2:3 Turkish flags with source SVG crescent/star geometry",
+    "Entry glazing and grey wall cladding",
+    "Hanging Turkish flags",
+    "Open entry portal",
+    "Central tree planters with wooden seats",
+    "Trench drains",
+    "Curved upper limestone facade and ribbon windows",
+    "Shopfronts and named exits"
+  ],
+  "unverified": [
+    "All dimensions are estimates",
+    "Global footprint and tree spacing are inferred from perspective photographs",
+    "The main interior doorway location and swing are provisional; missing photos IMG_1942 through IMG_1945 prevent confirming the transition",
+    "Exterior stair now follows the ten-rise interpretation of October 2024 Street View; exact rise/run remain unmeasured"
+  ],
+  "accuracy_100_percent": false
+}

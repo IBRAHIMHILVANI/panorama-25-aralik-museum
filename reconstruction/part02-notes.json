@@ -1,0 +1,19 @@
+{
+  "title": "الاستقبال وقاعة الخريطة",
+  "stage": "draft for joint visual review",
+  "source_photos": "IMG_1946 through IMG_1977",
+  "observed": [
+    "Two-level circular atrium",
+    "Central circular void and timber/glass balustrade",
+    "Upper timeline and Redif history display",
+    "Round columns and exposed lower steel ceiling",
+    "Straight stair behind the lower hall columns",
+    "Large photographic historical floor map"
+  ],
+  "unverified": [
+    "All dimensions and connection to courtyard remain unmeasured",
+    "Stair height, tread count and global orientation are estimates",
+    "Floor map uses the visible part of IMG_1976 with projective UVs, not a complete orthorectified map; hidden map areas are not recovered"
+  ],
+  "accuracy_100_percent": false
+}
