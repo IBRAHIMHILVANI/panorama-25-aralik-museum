@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>25 Aralık: Antep'in Hafızası — Oyun Konsept Tasarımı</title>
+<style>
+  /* Turkish-complete Lisan Font Family */
+  @font-face {
+    font-family: 'LisanTR';
+    src: url('proposal_assets/fonts/Lisan-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'LisanTR';
+    src: url('proposal_assets/fonts/Lisan-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'LisanTR';
+    src: url('proposal_assets/fonts/Lisan-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: 'LisanTR';
+    src: url('proposal_assets/fonts/Lisan-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'LisanTR';
+    src: url('proposal_assets/fonts/Lisan-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 20mm 22mm 21mm 22mm;
+
+    @bottom-center {
+      content: counter(page) " / " counter(pages);
+      font-family: 'LisanTR', sans-serif;
+      font-size: 9pt;
+      color: #4b5563;
+    }
+  }
+
+  body {
+    font-family: 'LisanTR', sans-serif;
+    font-weight: 400;
+    font-size: 10.8pt;
+    line-height: 1.62;
+    color: #1a1a1a;
+    background: #ffffff;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Clean Direct Title Header */
+  .title-header {
+    text-align: center;
+    padding-bottom: 11pt;
+    margin-bottom: 15pt;
+    border-bottom: 1.1pt solid #111111;
+  }
+
+  h1.report-title {
+    font-size: 19pt;
+    font-weight: 700;
+    line-height: 1.28;
+    color: #000000;
+    margin-bottom: 4pt;
+  }
+
+  .report-subtitle {
+    font-size: 11.3pt;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #222222;
+    max-width: 92%;
+    margin: 0 auto;
+  }
+
+  /* Headings */
+  h2 {
+    font-size: 13pt;
+    font-weight: 700;
+    color: #000000;
+    margin-top: 17pt;
+    margin-bottom: 6.5pt;
+    padding-bottom: 3pt;
+    border-bottom: 0.75pt solid #cccccc;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  h2.first-section {
+    margin-top: 2pt;
+  }
+
+  h3 {
+    font-size: 11.2pt;
+    font-weight: 700;
+    color: #111111;
+    margin-top: 12pt;
+    margin-bottom: 4.5pt;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  p {
+    margin-bottom: 8pt;
+    text-align: justify;
+  }
+
+  ul, ol {
+    margin: 4pt 0 9pt 18pt;
+  }
+
+  li {
+    margin-bottom: 4.5pt;
+    text-align: justify;
+  }
+
+  li strong {
+    font-weight: 700;
+    color: #111111;
+  }
+
+  /* Classic Booktabs Tables */
+  .table-wrapper {
+    margin: 11pt 0 14pt 0;
+    break-inside: avoid;
+  }
+
+  .table-caption {
+    font-size: 9.7pt;
+    line-height: 1.45;
+    color: #111111;
+    margin-bottom: 5pt;
+    text-align: left;
+  }
+
+  table.booktabs {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9.6pt;
+    line-height: 1.46;
+    border-top: 1.4pt solid #111111;
+    border-bottom: 1.4pt solid #111111;
+  }
+
+  table.booktabs thead th {
+    font-weight: 700;
+    color: #000000;
+    text-align: left;
+    padding: 5.5pt 7pt;
+    border-bottom: 0.9pt solid #111111;
+    background: #ffffff;
+    vertical-align: bottom;
+  }
+
+  table.booktabs tbody td {
+    padding: 5pt 7pt;
+    border-bottom: 0.4pt solid #dcdcdc;
+    vertical-align: top;
+    color: #1f2937;
+    text-align: left;
+  }
+
+  table.booktabs tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  /* Large, Single-Column Stacked Figures */
+  figure.academic-fig {
+    width: 90%;
+    margin: 11pt auto 14pt auto;
+    text-align: center;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .fig-frame {
+    width: 100%;
+    border: 0.75pt solid #9ca3af;
+    background: #111111;
+    overflow: hidden;
+  }
+
+  .fig-frame img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  figcaption {
+    margin-top: 5.5pt;
+    font-size: 9.5pt;
+    line-height: 1.46;
+    color: #222222;
+    text-align: left;
+    padding: 0 2pt;
+  }
+
+  figcaption strong {
+    font-weight: 700;
+    color: #000000;
+  }
+
+  /* Simple Flow Diagram Box */
+  .flow-diagram-box {
+    width: 98%;
+    margin: 10pt auto 13pt auto;
+    padding: 10pt 11pt;
+    border: 0.75pt solid #9ca3af;
+    background: #fcfcfc;
+    break-inside: avoid;
+  }
+
+  .flow-steps-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9pt;
+    line-height: 1.38;
+  }
+
+  .flow-steps-table td.step-cell {
+    width: 18%;
+    border: 0.75pt solid #374151;
+    padding: 6pt 5pt;
+    text-align: center;
+    background: #ffffff;
+    vertical-align: middle;
+  }
+
+  .flow-steps-table td.arrow-cell {
+    width: 2.5%;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 700;
+    color: #374151;
+    font-size: 10pt;
+  }
+
+  .step-title {
+    display: block;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 2pt;
+    font-size: 9.2pt;
+  }
+
+  .note-box {
+    margin: 9pt 0 12pt 0;
+    padding: 8pt 12pt;
+    border-left: 2.2pt solid #374151;
+    background: #f9fafb;
+    font-size: 9.7pt;
+    line-height: 1.52;
+    break-inside: avoid;
+  }
+</style>
+</head>
+<body>
+
+  <!-- ==================== BAŞLIK ==================== -->
+  <div class="title-header">
+    <h1 class="report-title">25 ARALIK: ANTEP'İN HAFIZASI</h1>
+    <div class="report-subtitle">Panorama 25 Aralık Müzesi İçin Sanal Tur (Flythrough) ve İki Bölümlü Mobil Oyun Konsept Tasarımı</div>
+  </div>
+
+  <!-- ==================== 1. GENEL FİKİR ==================== -->
+  <h2 class="first-section">1. Genel Fikir ve Uygulama Yapısı</h2>
+  <p>
+    Panorama 25 Aralık Müzesi'nin üç boyutlu Blender modellemesini dokuz ayrı bölüm (<em>part00</em>–<em>part08</em>) halinde tamamladık. Projenin bir sonraki aşaması için bu hazır 3B sahneleri doğrudan kullanan, mobil cihazlarda (Android ve iOS) çalışacak iki modlu bir Unity 3D uygulaması tasarladık: birinci mod müzeyi gezmek isteyenler için <em>Sanal Müze Turu (Flythrough)</em>, ikinci mod ise oyunun tüm akışını gösterebilmek adına iki tam bölümden oluşan <em>Hikâye Oyunu</em> modudur.
+  </p>
+  <p>
+    Mobil kontrole uygun olması, müzenin her salonunu anlamlı şekilde kullanması ve Antep Savunması'nın tarihî ağırlığını koruması için oyun türünü <em>birinci şahıs araştırma, tarihî bulmaca ve 360° taktik savunma</em> olarak kurguladık. Bu dokümanda, Unity üzerinde kodlama aşamasına geçmeden önce düşündüğümüz oyun yapısını, bölümlerin işleyişini ve mevcut 3B modellerimiz üzerine hazırladığımız konsept ekran tasarımlarını sunuyoruz.
+  </p>
+
+  <div class="note-box">
+    <strong>Görseller Hakkında Not:</strong> Dokümandaki ham 3B sahneler Blender üzerinde tamamladığımız mevcut müze modellerimizdir. Üzerinde kullanıcı arayüzü (UI) bulunan görseller ise henüz kodlanmamış olup, ulaşmayı hedeflediğimiz oyun görünümünü anlatmak için hazırladığımız konsept tasarımlardır (ön görselleştirme).
+  </div>
+
+  <div class="table-wrapper">
+    <div class="table-caption"><strong>Tablo 1:</strong> Proje hedefleri ve tasarladığımız karşılıkları.</div>
+    <table class="booktabs">
+      <thead>
+        <tr>
+          <th style="width: 27%;">Hedeflenen Başlık</th>
+          <th style="width: 47%;">Tasarladığımız Çözüm</th>
+          <th style="width: 26%;">Planlanan Çıktı</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Flythrough uygulaması ve sergi karakterlerinin animasyonu</td>
+          <td>Tramvay durağından 360° Panorama alanına uzanan otomatik kamera turu, serbest gezinme modu, sesli/yazılı bilgi kartları ve vitrinlerdeki karakterlerin canlandırılması.</td>
+          <td>Mod A: 3B Sanal Müze Turu</td>
+        </tr>
+        <tr>
+          <td>Mobil platform için oyun geliştirilmesi</td>
+          <td>Tek seviye yerine oyunun başlangıcını, bulmaca yapısını ve final savunmasını eksiksiz gösteren iki bağlantılı bölüm.</td>
+          <td>Mod B: İki Bölümlü Mobil Hikâye Oyunu</td>
+        </tr>
+        <tr>
+          <td>Unity 3D, Blender ve yeniden kullanılabilir altyapı</td>
+          <td>Dokuz parçalı modüler sahne yapısı ve <em>ScriptableObject</em> tabanlı temiz C# kodu ile sonraki dönemlerde kolayca genişletilebilen proje yapısı.</td>
+          <td>Modüler Unity Projesi ve Geliştirici Notları</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ==================== 2. TAMAMLANAN 3B BLENDER MODELLERİMİZ ==================== -->
+  <h2>2. Tamamlanan 3B Blender Sahnelerimiz ve Oyundaki Rolleri</h2>
+  <p>
+    Müze içi ve yakın çevresi, çektiğimiz 319 saha fotoğrafı referans alınarak Blender'da toplam 3.227 <em>mesh</em> ve 1.559 fizik çarpışma yüzeyinden (<em>Colliders.fbx</em>) oluşan dokuz modül halinde hazırlanmıştır. Mevcut sahnelerimizin listesi ve hem sanal turda hem de oyunda nasıl kullanılacağı Tablo 2'de özetlenmiştir.
+  </p>
+
+  <div class="table-wrapper">
+    <div class="table-caption"><strong>Tablo 2:</strong> Tamamladığımız 3B müze bölümleri ve uygulamadaki görevleri.</div>
+    <table class="booktabs">
+      <thead>
+        <tr>
+          <th style="width: 14%;">3B Modül</th>
+          <th style="width: 24%;">Müze Bölümü</th>
+          <th style="width: 31%;">Hazır 3B Modeller</th>
+          <th style="width: 31%;">Uygulamadaki Rolü</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>part00 – 01</td>
+          <td>15 Temmuz Tramvay Durağı ve Giriş Meydanı</td>
+          <td>PT8 tramvay modeli, durak kanopileri, çevre yapılar, müze giriş avlusu</td>
+          <td>Ana menü canlı arka planı ve Flythrough başlangıç noktası</td>
+        </tr>
+        <tr>
+          <td>part08</td>
+          <td>Sinevizyon Salonu</td>
+          <td>Kademeli koltuklar, sinema perdesi, salon aydınlatma ve duvar yapısı</td>
+          <td>Oyun giriş sahnesi (Intro): 1920 cephe günlüğü başlangıcı</td>
+        </tr>
+        <tr>
+          <td>part02</td>
+          <td>Atrium ve Zemin Haritası</td>
+          <td>Dairesel galeri, sütunlar, yüksek çözünürlüklü Antep savunma haritası</td>
+          <td>Bölüm 1: Harita üzerinde cephe noktalarını ve Kastel hattını bağlama</td>
+        </tr>
+        <tr>
+          <td>part03</td>
+          <td>Arşiv, Kıyafetler ve Silahlar</td>
+          <td>22 tarihî belge duvarı, 23 adet 3B kıyafet/karakter modeli, top vitrini</td>
+          <td>Bölüm 1: Canlanan Antep savunmacılarından şifre ipucu toplama</td>
+        </tr>
+        <tr>
+          <td>part04</td>
+          <td>Kastel ve Yazışma Koridoru</td>
+          <td>Taş kemerler, rampa, 1920 daktilosu, mektup ve telgraf masası</td>
+          <td>Bölüm 1 Finali: Kastel su bendi geçişi ve şifreli telgraf çözümü</td>
+        </tr>
+        <tr>
+          <td>part05 – 06</td>
+          <td>Tablolar ve Üç Diorama Salonu</td>
+          <td>10 yağlıboya tablo; fişek atölyesi, kağnı ve sahra hastanesi dioramaları</td>
+          <td>Bölüm 2 Başlangıcı: Canlanan dioramalarda cephe ikmal hazırlığı</td>
+        </tr>
+        <tr>
+          <td>part07</td>
+          <td>360° Ana Panorama Kubbesi</td>
+          <td>122 m çevreli panoramik tuval, izleme platformu, 3B ahşap siperler</td>
+          <td>Bölüm 2 Finali: 360° dürbünle cephe gözetleme ve siper savunması</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ==================== 3. OYUN AKIŞI VE MODLAR ==================== -->
+  <h2>3. Oyun Akışı, Modlar ve Karakter Animasyonu</h2>
+
+  <h3>3.1. Genel Akış</h3>
+  <p>
+    Uygulama açıldığında tramvay durağı sahnesi üzerinde ana menü yer alır. Kullanıcı buradan doğrudan Sanal Müze Turu'na girebilir ya da iki bölümlük Hikâye Modu'nu başlatabilir (Şekil 1).
+  </p>
+
+  <div class="flow-diagram-box">
+    <table class="flow-steps-table">
+      <tr>
+        <td class="step-cell">
+          <span class="step-title">1. Ana Menü</span>
+          Canlı 3B Sahne (part00–01)<br>Flythrough veya Oyun Seçimi
+        </td>
+        <td class="arrow-cell">&rarr;</td>
+        <td class="step-cell">
+          <span class="step-title">2. Giriş (Intro)</span>
+          Sinevizyon Salonu (part08)<br>Eksik 1920 Günlüğü
+        </td>
+        <td class="arrow-cell">&rarr;</td>
+        <td class="step-cell">
+          <span class="step-title">3. Bölüm 1</span>
+          Arşiv İpuçları &rarr; Harita Rotası &rarr; Kastel Telgrafı
+        </td>
+        <td class="arrow-cell">&rarr;</td>
+        <td class="step-cell">
+          <span class="step-title">4. Bölüm 2</span>
+          Diorama İkmali &rarr; 360° Panorama Savunması
+        </td>
+        <td class="arrow-cell">&rarr;</td>
+        <td class="step-cell">
+          <span class="step-title">5. Kapanış</span>
+          25 Aralık Sabahı ve Kahraman Kartları
+        </td>
+      </tr>
+    </table>
+    <div style="font-size: 9pt; color: #374151; margin-top: 6pt; text-align: left;">
+      <strong>Şekil 1:</strong> Uygulamanın ana menüden oyun sonuna kadar genel akış şeması.
+    </div>
+  </div>
+
+  <h3>3.2. Mod A: Sanal Müze Turu (Flythrough)</h3>
+  <p>
+    Sanal Müze Turu modunda iki gezinme seçeneği bulunur: Unity <em>Cinemachine</em> ile hazırlanan otomatik sinematik kamera rotası ve dokunmatik kontrollerle gezilebilen serbest yürüyüş modu. Ziyaretçi galerilerde ilerlerken önemli eserlerin önünde Türkçe yazılı ve sesli bilgi kartlarını açabilir. Şekil 2'de mevcut Blender tramvay sahnemiz, Şekil 3'te ise bu sahne üzerine düşündüğümüz ana menü konsepti yer almaktadır.
+  </p>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part00_tram.png" alt="Mevcut Blender part00 Tramvay Durağı Modeli">
+    </div>
+    <figcaption>
+      <strong>Şekil 2:</strong> Mevcut 3B Blender modelimiz — 15 Temmuz Tramvay Durağı, PT8 tramvayı ve müze dış giriş alanı (<em>part00</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/konsept_01_menu_flythrough.jpg" alt="Ana Menü Konsept Tasarımı">
+    </div>
+    <figcaption>
+      <strong>Şekil 3:</strong> Ana menü konsept tasarımımız (ön görsel) — mevcut <em>part00</em> modelimiz üzerinde gün batımı ışıklandırması, Hikâye Modu ve Sanal Müze Turu seçim ekranı.
+    </figcaption>
+  </figure>
+
+  <h3>3.3. Mod B: Hikâye Kurgu, Canlanan Karakterler ve Mobil Kontroller</h3>
+  <p>
+    Hikâye modunda oyuncu, Antep Savunması gazisi büyükbabasından kalan ve son sayfaları eksik olan 1920 tarihli bir cephe günlüğü ile müzeye gelen genç bir araştırmacıyı yönetir. Oyuncu önemli vitrinlere yaklaştığında ortam ışığı yumuşakça değişir; müzede sergilenen yöresel Antep savunmacıları ve diorama karakterleri Mixamo tabanlı iskelet animasyonlarıyla (konuşma, işaret etme, cephe hazırlığı) canlanarak oyuncuya o günkü görev ve şifre ipuçlarını aktarır (Şekil 4 ve Şekil 5).
+  </p>
+  <p>
+    Mobil ekranı kalabalıklaştırmamak için sol altta sanal <em>Joystick</em>, sağ tarafta dokunmatik kamera bakışı ve yalnızca etkileşimli bir nesneye yaklaşıldığında beliren tek bir aksiyon butonu (<em>Belgeyi İncele, Rotayı Bağla, Siperi Güçlendir</em>) kullanılacaktır.
+  </p>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part03_antep_outfits.png" alt="Mevcut Blender part03 Yöresel Antep Kıyafetleri ve Top Vitrini">
+    </div>
+    <figcaption>
+      <strong>Şekil 4:</strong> Mevcut 3B Blender modelimiz — yöresel Antep savunmacı kıyafetleri (cepken, şalvar, yemeni) ve ahşap tekerlekli top vitrini (<em>part03</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/konsept_05_antep_defender.jpg" alt="Canlanan Antep Savunmacısı Konsept Tasarımı">
+    </div>
+    <figcaption>
+      <strong>Şekil 5:</strong> Karakter animasyonu konseptimiz (ön görsel) — <em>part03</em> vitrinindeki Antep savunmacısının canlanarak oyuncuya Kastel su hattı şifresi için ipucu vermesi.
+    </figcaption>
+  </figure>
+
+  <!-- ==================== 4. BÖLÜM TASARIMLARI ==================== -->
+  <h2>4. Bölüm Tasarımları (İki Tam Bölüm)</h2>
+
+  <h3>4.1. Bölüm 1: Arşiv, Harita ve Kastel Hattı (part08 &rarr; part03 &rarr; part02 &rarr; part04)</h3>
+  <p>
+    Birinci bölüm keşif ve bulmaca odaklıdır. Kuşatma sırasında mahalleler arası yüzey bağlantısı kesildiğinde, Antep halkı şehrin altındaki taş su kanallarını (<em>Kasteller</em>) gizli haberleşme ve erzak yolu olarak kullanmıştır. Oyuncunun amacı, arşivdeki ipuçlarını toplayıp harita üzerinde güvenli Kastel rotasını açmak ve şifreli telgrafı karargâha göndermektir:
+  </p>
+  <ol>
+    <li><strong>Arşivde İpucu Toplama (part08 ve part03):</strong> Sinevizyon salonundaki kısa girişten sonra oyuncu Arşiv salonuna geçer. Belgeleri inceler ve canlanan üç Antep savunmacısından üç mahalle mührüne ait şifre ipuçlarını Not Defteri'ne kaydeder.</li>
+    <li><strong>Zemin Haritası Rota Bulmacası (part02):</strong> Oyuncu Atrium'daki büyük Gaziantep zemin haritasına iner (Şekil 6 ve Şekil 7). Topladığı ipuçlarına göre harita üzerindeki cephe noktalarını doğru sırayla birbirine bağlar; doğru hat kurulduğunda Kastel geçidinin kapısı açılır.</li>
+    <li><strong>Kastel Su Hattı ve Şifreli Telgraf (part04):</strong> Oyuncu taş kemerli Kastel koridorunda su kapaklarını yönlendirerek yazışma masasına ulaşır (Şekil 8 ve Şekil 9). Masadaki 1920 model telgraf/daktilo ekranında şifreyi çözüp mesajı Merkez Karargâh'a ileterek Bölüm 2'ye geçer.</li>
+  </ol>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part02_maphall.png" alt="Mevcut Blender part02 Atrium ve Dev Zemin Haritası">
+    </div>
+    <figcaption>
+      <strong>Şekil 6:</strong> Mevcut 3B Blender modelimiz — dairesel Atrium galerisi ve Gaziantep savunma haritası zemini (<em>part02</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/konsept_02_level1_maphall.jpg" alt="Bölüm 1 Harita Rota Bulmacası Konsepti">
+    </div>
+    <figcaption>
+      <strong>Şekil 7:</strong> Bölüm 1 harita bulmacası konseptimiz (ön görsel) — zemin haritası üzerinde cephe noktalarını birleştirerek güvenli Kastel ikmal hattını oluşturma ekranı.
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part04_kastel.png" alt="Mevcut Blender part04 Kastel Taş Kemerli Koridor">
+    </div>
+    <figcaption>
+      <strong>Şekil 8:</strong> Mevcut 3B Blender modelimiz — taş kemerli Kastel koridoru, rampa ve zemin aydınlatma şeritleri (<em>part04</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/konsept_03_level1_kastel.jpg" alt="Bölüm 1 Kastel ve Şifreli Telgraf Konsepti">
+    </div>
+    <figcaption>
+      <strong>Şekil 9:</strong> Bölüm 1 finali konseptimiz (ön görsel) — Kastel su hattı atmosferi ve 1920 telgraf/daktilo masasında şifre çözme etkileşimi.
+    </figcaption>
+  </figure>
+
+  <h3>4.2. Bölüm 2: Diorama İkmali ve 360° Panorama Savunması (part05 &rarr; part06 &rarr; part07)</h3>
+  <p>
+    İkinci bölüm daha hareketli bir tempoya sahiptir; cephe gerisi hazırlığını ve 360° Panorama salonundaki son savunmayı konu alır:
+  </p>
+  <ol>
+    <li><strong>Canlanan Dioramalarda İkmal Hazırlığı (part05 ve part06):</strong> Tablolar galerisinden geçen oyuncu, üç diorama sahnesine (<em>fişek atölyesi, kağnı lojistiği ve sahra hastanesi</em>) ulaşır (Şekil 10). Canlanan dioramalarda dokunmatik mini görevlerle mühimmat sandıklarını ve ilk yardım malzemelerini hazırlayarak savunma aşaması için <em>İkmal Puanı</em> toplar.</li>
+    <li><strong>360° Panorama Kubbesinde Taktik Savunma (part07):</strong> Oyuncu tünelden çıkarak 122 metre çevreli dairesel Panorama platformuna gelir (Şekil 11 ve Şekil 12). Burada <em>360° Dürbün</em> (dokunmatik kaydırma veya telefon jiroskopu) ile dört cepheyi (Kuzey, Güney, Doğu, Batı) kontrol eder. Üç dalga boyunca hasar alan ahşap siperleri güçlendirir, mühimmat gönderir ve top atış açısını ayarlayarak savunma hattını şafağa kadar korur.</li>
+    <li><strong>25 Aralık Kurtuluş Sabahı:</strong> Son dalga tamamlandığında dumanlar dağılır, kubbe sabah ışığıyla aydınlanır; büyükbabanın günlüğünün eksik sayfası tamamlanır ve <em>Şahin Bey, Şehit Kâmil, Karayılan</em> gibi kahramanların tarihî arşiv kartları açılır.</li>
+  </ol>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part06_diorama.png" alt="Mevcut Blender part06 Diorama Galerisi Modeli">
+    </div>
+    <figcaption>
+      <strong>Şekil 10:</strong> Mevcut 3B Blender modelimiz — mühimmat üretimi ve cephe lojistiğini gösteren Diorama galerisi (<em>part06</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/blender_part07_panorama.jpg" alt="Mevcut Blender part07 360 Derece Ana Panorama Kubbesi">
+    </div>
+    <figcaption>
+      <strong>Şekil 11:</strong> Mevcut 3B Blender modelimiz — 122 metre çevreli 360° ana panorama tuvali, izleme platformu ve 3B ahşap siperler (<em>part07</em> sahnesi).
+    </figcaption>
+  </figure>
+
+  <figure class="academic-fig">
+    <div class="fig-frame">
+      <img src="proposal_assets/konsept_04_level2_panorama.jpg" alt="Bölüm 2 360 Derece Panorama Savunması Konsepti">
+    </div>
+    <figcaption>
+      <strong>Şekil 12:</strong> Bölüm 2 finali konseptimiz (ön görsel) — 360° Panorama alanında siper savunması, top bataryası, cephe dayanıklılık çubuğu ve dürbün kontrolleri.
+    </figcaption>
+  </figure>
+
+  <!-- ==================== 5. UNITY TEKNİK YAPI VE GELİŞTİRME ADIMLARI ==================== -->
+  <h2>5. Unity 3D Teknik Yapı ve Geliştirme Adımları</h2>
+  <p>
+    Birleşik Blender dosyamız yaklaşık 1,86 milyon poligon ve 94 doku içerdiği için, sahneyi tek parça halinde mobil belleğe yüklemek yerine dokuz parçalı yapımızı doğrudan değerlendireceğiz:
+  </p>
+  <ul>
+    <li><strong>Parçalı Sahne Yükleme (Additive Scene Loading):</strong> Bellekte yalnızca oyuncunun bulunduğu salon ve bir sonraki geçiş salonu açık tutulacak, geride kalan salonlar bellekten boşaltılarak mobil cihazlarda RAM kullanımı düşürülecektir.</li>
+    <li><strong>Mobil Grafik Optimizasyonu (URP Mobile):</strong> Gerçek zamanlı ağır gölgeler yerine önceden pişirilmiş statik ışıklandırma (<em>Baked Lightmaps</em>), <em>Occlusion Culling</em>, mobil uyumlu <em>ASTC</em> doku sıkıştırması ve yüksek poligonlu 3B kıyafetlerde poligon azaltma (<em>LOD</em>) kullanılacaktır.</li>
+    <li><strong>Modüler Kod Yapısı (ScriptableObject):</strong> Görev adımları, eser bilgileri ve şifre bulmacaları <em>ScriptableObject</em> veri dosyaları olarak ayrıştırılacaktır; böylece ileride aynı proje üzerine yeni bölümler veya VR desteği kolayca eklenebilecektir.</li>
+  </ul>
+
+  <div class="table-wrapper">
+    <div class="table-caption"><strong>Tablo 3:</strong> Planladığımız Unity geliştirme ve entegrasyon adımları.</div>
+    <table class="booktabs">
+      <thead>
+        <tr>
+          <th style="width: 14%;">Aşama</th>
+          <th style="width: 28%;">Çalışma Başlığı</th>
+          <th style="width: 58%;">Yapılacak Teknik İşlemler</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1. Adım</td>
+          <td>Sahne Aktarımı ve Optimizasyon</td>
+          <td>part00–08 ve Colliders.fbx dosyalarının Unity URP projesine aktarılması, ASTC doku sıkıştırma, LOD ve statik ışık (Lightmap) ayarları.</td>
+        </tr>
+        <tr>
+          <td>2. Adım</td>
+          <td>Mobil Kontroller ve Flythrough</td>
+          <td>Mobil birinci şahıs kontrolcüsünün, Cinemachine otomatik kamera turunun ve sesli/yazılı eser bilgi kartlarının hazırlanması (Mod A).</td>
+        </tr>
+        <tr>
+          <td>3. Adım</td>
+          <td>Karakter Animasyonları ve Bölüm 1</td>
+          <td>Vitrin karakterlerine Mixamo animasyonlarının eklenmesi; Arşiv ipucu sistemi, zemin haritası rota bulmacası ve Kastel telgraf şifresinin kodlanması.</td>
+        </tr>
+        <tr>
+          <td>4. Adım</td>
+          <td>Bölüm 2: Diorama ve 360° Savunma</td>
+          <td>Diorama ikmal mini görevlerinin, 360° dürbün sisteminin, üç dalgalı siper dayanıklılık ve top yönlendirme mekaniğinin kodlanması.</td>
+        </tr>
+        <tr>
+          <td>5. Adım</td>
+          <td>Arayüz, Ses ve Mobil Cihaz Testleri</td>
+          <td>Türkçe menü ve oyun içi arayüzlerin tamamlanması, ses efektlerinin eklenmesi ve farklı Android/iOS ekranlarında performans testleri.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p style="margin-top: 10pt;">
+    Onayınız ve yönlendirmeleriniz doğrultusunda, yukarıda özetlediğimiz akış ve teknik yapı üzerinden Unity 3D geliştirme aşamasına başlamayı planlıyoruz.
+  </p>
+
+</body>
+</html>
